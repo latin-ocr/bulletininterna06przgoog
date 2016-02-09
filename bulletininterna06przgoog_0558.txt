@@ -1,0 +1,41 @@
+ψ(ζ)--Ῐ;“(Φ)Ρ(Φ-θ-ζ)ἅτ·
+
+Consi derons la differenee
+
+A=w<5÷h)—w(c)=s}<ae>[F(x÷c÷h)—F(x÷o]aae
+
+qu'on peut present-er sous la forme suivante:
+art-k(
+
+Δ = A F (ιι-ζ) [h (u -ι- h) -F(a)] du.
+
+Deoomposons l'intervalle (ζ, 2π-Ι-ζ) en intervalles elementaires
+
+31, 32> eg,..., ev
+
+q etant un entier queleonque.
+
+Designons par e¹ eeux de ees elements partieuliers, οὺ l'oseil-
+lation Ο, de la fonction F(u) est plus grande qu'un nombre positis e,
+donne ὲ, l’avanee, par e,- ceux, οὺ l’oseillation de F (u) ne surpasse
+pas ε. Comme F (u) reste integrable dans l'intervalle (ζ, 2π-Ι-ᾒ
+on peut choisir une decomposition eonvenable telle que l'on ait
+
+(45) Σε. < ε,
+
+la somme etant etendue ὸ, tous les elemento e„ οὺ l’oseillation Ο,
+
+surpasse le nombre ε.
+Βέοοωροεοιιε maintenant chacun des elements egen trois parties
+
+ei, εἷ’ et e‚'‘' de faeon que l'on ait 1)
+
+‹4⁶› Zet < ε, 22: < ε,
+
+ee qui est toujours possible.⁴
+
+¹) Compar. A. Hurwitz, Annales de l’Eeolo ΝοιπηΙο, 3-0 sorio, Τ. nx,
+1902, p. 362.
+
+A
+

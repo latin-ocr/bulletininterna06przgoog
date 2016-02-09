@@ -1,0 +1,63 @@
+733
+
+car
+ΒίῑιΙεη
+Ιεη
+
+Or, la serie (39) etant eonvergente‚ on peut trouver un nombre ν
+tel qu’on ait
+
+„<-1.
+
+¹-—
+
+ 
+
+ 
+
+ 
+
+R„‘<e pour ηξν,
+
+ε etant un nombre positis, donne ὸ, l’avanee.
+On aura. done, en vertu de (41),
+
+ΙΒ,Ι<ε pour ηξν. (42)
+
+L'egalite (40) a. lieu, quel que soit le nombre η, plus petit que 07⁰.
+Supposant que η tend vers' zero et en passant ὲ. la limite, on
+trouve
+
+¹¹m2n27sF(“') (sF(5>d5)dae--3†2<a-.²÷b12)†13312.-
+
+Or, l'integralite (42), ayant lieu independamtfient de η, montre que
+
+ 
+
+issi¹1⁶1Ru2<⁶ pour ηξν.
+
+On obtient done l'inegalite suivante
+
+fiffffisffl) (sF(5)‘²5)⁶²⁹⁶- (⁰33÷Z(a²÷b.²))<
+
+qu ’on peut remplaeer par l’egalite
+
+ 
+
+ 
+
+‘L203÷}'(a„2=2÷b) ¹¹mffisF‘²)(sF(5)d5)d² (43)
+
+13. Considerons maintenant le second membre de l'egalite ob-
+tenue. Posons
+
+5=x÷C‚
+
+ζ etant une nouvelle variable.
+
+On aura
+
+s Hx) ( s„ ἕπε) defi-2104 s ἕω) ( A 2‘(oe÷c)dc) «ιω,
+
+(roh, en changeant l’ordre des integmttions5 on tire
+

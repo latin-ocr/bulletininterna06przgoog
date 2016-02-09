@@ -1,0 +1,54 @@
+726
+
+nous obtiendrons le theoreme de M. Picard3 61 110116 16 remplagzons
+par (ΓΜ (0 < t < 1), nous retrouvons le theol-eme (16 Weierstrassl),
+
+9. Du theoreme quc nous venons d'etablir, il resulto presque im-
+mediatement le theoreme sur la representation approchee (166 fonc-
+
+tions continues ὲ, l’aide (166 polynomcS.
+En developpant 606 kx et sin kx en series (166 puissances (16 x
+
+et s’arretant aux termes convenablement choisiS, on trouve
+1ὗν““““Ρηι (ω) 1 < ε’
+
+Pm (x) etant un polynome en x (16 degre m, m designant un entier,
+convenablement choisi.
+Cette inegalite et (29) donnent
+
+11⁴⁷(x)—P,„(ae) fl < 3ε,
+
+66 qui demontre ce theoreme, bien conon:
+
+Τὴέοῐὲιῐιε. Toute fonction F (x), continue dans l'in·
+tervalle (0, 2π) peut etre representee ὲ. l'aide d’un po-
+lynome Ρ,η (ae), convenablement choisi‚ avec l'approxi-
+mation (10111166 ὲ, l'avancc 32 en tous 166 points in-
+terieurs ὲ. l’intervalle (0, 222).
+
+Nous n’ avons considere que l'intervalle (0, 2 π), mais il est
+evident que le theoreme reste vrai pour tout intervalle (a, b), α et b
+etant des nombres quelconqueS.
+
+Dc ce theoremc 66 deduit immediatement le theol-eme (16 Μ.
+Picard sur le developpement d'une fonction continue en une serie (16
+polynomes. Il est inutile de reproduire la demonstration bien connue
+(Voir E. Picard: „Traite d’Analyse“. T. Ι, p. 278, Paria, 1901).
+
+10. Envisageons de nouveau l'egalite (19), en y remplacant το
+par x,
+
+ω , 2÷
+(19) 8:29-÷Zsskssss<a20oskae÷bksinkae>={sh'igmgz
+k==1 η ητ-ἠ
+
+Soit xo une valeur quelconque de x dans l'intervalle (η, 2πω-η).
+Multiplions l'egalitc (19) par dx et integrons-la entre les limites
+
+αἶα-η et xo-i-'Y-
+On trouve [comparez le n⁰ 4]
+
+¹) Compar-ez encore: Leopold Tejer‚ Comptes rendae, 1900.
+
+ 
+

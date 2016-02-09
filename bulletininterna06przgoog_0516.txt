@@ -1,0 +1,44 @@
+692
+
+Wenn die Gleehungen
+
+(g) ²902(²³1···Pn)=02 B}(x,...p„)=
+(a=1,2...n-{-1—-m‚ i=1‚...m)
+
+(188 gemeinsame Integral im gew611nliehen Sinne des Systems (1)
+darstellen‚ so folgt aus ihnen nur eine Relation zwisehen τιςί z. Dieses
+Integral ist nur (181111 moglieh, wenn 8118 (1611 gegebenen Gleiehun-
+gen (1‘ ) hi'mhsten 61116 Relation zwisehen :viz folgt. Wenn es eine
+8016116 gibt und z (1611 gegebenen Gleiohungen genuge 1618161, so
+ist (11686 6111 einziges gemeinsames Integral im gewi‘shnliehen Sinne,
+Wir werden im folgenden voraussetzen‚ (1888 (116 gegebenen (1161-
+chungen (I‘) in Bezug auf m der ρί unabhiingig sind. Das ge-
+1116111881116 11161118111ςυί816 Integral im gewi’nhnliehen Sinne kann aus
+(11686111 System der ⁷2†1 —†-m Integrale der Differentialgleiehung
+9020 6111811611 werden, (188 1116 mehr als m-f—1 Relation zwi-
+sehen xi z enthiilt. In (161· Τ81 wenn die Gleiohungen φ,- (ar, . . . p.) = Ο
+(iz 1, 2... m) keine Integrale der Differentialgleiehungen der Ma·
+trix (131) sind und wenn die Gleiehungen (g) infolge dieser 1116111
+illusoriseh werden, so konnen wir (188 Integral im gewi3}1nlich‹²n
+Sinne (g) aus dem Systeme der n-{·-1 -ἦ- m Integrale der Differential-
+gleiehungen Q„ = 0 erhalton, das die Gleiehungen q),- (κί’ . . .p„⁰) = 0
+(ἐξ 1,2... m) 611111811. Dieses System hat infolge der oben ge-
+macht-en Bemerkung (116 Gestalt:
+
+θα (ω,”...ρ,,”);0, k}(oe1‘’...p„⁰)=0‚ w4(x,⁰...p„⁰)==0
+(a=1‚2...u-}-1—m‚ 5:1,2...·m).
+
+womit unsere Behauptung bewiesen ist. Da (116 n—Js- 1 ersten
+Gleichungen die Integrale (161· Differentialgleiehungen der Matrix
+(B1)sind‚ 80 8611611 wir, (1888 (116 111 16121611 Gloiehungen, (116 keine
+Integrale (116861 Differentialgleiehungen sind. ohne (11686 Eigensehaft-
+zu verlieren‚ frei von pf. .. ...⁰ gemacht werden konnen.
+
+Umgekehrg 111811 6111811 11111 Hilfe des Verfahrens (168 Satzes V
+ein gemeinsames Integral im gewohnliehem Sinne 8118 (16111 Sy-
+8161116 (f) der γεῆ-1 -1-111 Integrale der Differentialgleiehungen
+90:02 (188 1116 mehr 818 m-†-1 Relationen zwisehen x? 20, deren
+m keine Integrale der Differentialgleiehungen der Matrix (131) sind.
+611111811. Vor 8116111 861 110611 bemerktz wir konnen n-†- 1 Integrale
+(168 5)·8161118 (f)
+

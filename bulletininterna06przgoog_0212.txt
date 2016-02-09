@@ -1,0 +1,57 @@
+194
+
+ 
+
+(24) 4πςῑυζ - ac=—SJ2›2= ffl=85
+
+Considerons maintenant l'equatinn mecanique formee d’apres (ὃ),
+mais aveo Φ egal ὲ zero:
+
+&P
+
+ἱ ᾖ τ·- μΔῗϋζ
+
+01'1 P satisfait ὲ, l'equation A²P= Ο et, ὲ, la surfaoe de la conche,
+se transforme d'une faeon continue en la pression hydraulique 01·-
+dinaire p. Par consequent, on peut considerer P comme constant
+dans l’etendue de la eouehe ὅς d’autre part, en neglig-eant les termes
+
+plus pet-ite, on aura:
+
+(25)
+
+ὣῖυζ
+3ζῖ ’
+
+ 
+
+Δῖυζ =
+Dono, la valeur de l'integrale (24) sera:
+
+1 &PSRQdC=‘³⁰‘— qo„ &P
+
+----—-—--.—⁴ —-
+
+μ ἔξω &C μ ἓζ ’
+Nous aurons:
+<2⁶> V= ἑὲ Z? SS ἐξ ‘²2⁹
+
+et par suite de A²P=02
+
+(27) V= a‘pztss—ff! P -4- const.
+
+Dono, la differenoe du potentiel en deux points de l'interieur du
+liquide sera:
+
+(28) γε ““ V, Ξ φξῑθ ⁰ (P2 ‘'PO-
+
+§ 10. Oette formule aussi parai‘t identique avec le resultat ana-
+logue de Helmholtz‚ avec cette diffe'renee qu'elle ne s'applique
+pas seulement aux tubes capillaires3 mais ὲ, des vaisseaux quel-
+eonqueS‚ οὺ le liquide est anime d'un mouvement lent. En estet, los
+mesures de Quincke‚ οὺ la pression et les dimensione des dia-
+phragmes variaient‚ ont demontre la proportionnalite de la force
+
+electromotrioe ἐι la pression active et l'independanee des dimensions
+du diaphragme. La relation avec σ est indiquee par l'observation
+

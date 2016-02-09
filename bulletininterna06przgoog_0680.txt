@@ -1,0 +1,51 @@
+726
+
+nous obtiendrons le 1116016166 (16 M. Pieard3 81 6068 16 1661Ρ1690118
+’ par τω (0 < t< 1), nous retrouvons le 1116016166 (16 Weierstrassl).
+9. Du 1116016166 que nous venons (1’61611111, 1116811116 presque im-
+mediatement 16 1116016166 861 la representation approchee (168 fone-
+11068 continues 6 1’61(16 (168 polynomeS.
+En developpant 608 kx et 816 kx en series des puissanoes de a:
+et s'arretant aux termes eonvenablement 61101818, 06 trouve
+
+'5v“Pm(x)l<⁸2
+
+ΡΜ (x) etant 66 polynome en x de degre m, m designant un entier,
+
+convenablement 6110181.
+cette inegalite 61 (29) (10116661
+
+1F(x)-P‚„ (³³)l < 3⁶2
+
+66 qui (1661011116 66 1116016166, bien 606 nu:
+
+Theoreme. Toute fonction 1‹‘(x)‚ continu e dans l'in·
+tervalle (0, 2π) peut 6116 16ρ16866166 6 1’61(16 d’un po-
+lynome Pm(ae),00nvenab1ement 6110181, aveo l’approxi-
+1661106 (1011666 6 l’avanoe 3⁸ en tous les points in-
+16116618 6 l’intervalle (0, 2π).
+
+Nous n’ avons considere que l'intervalle (0, 2 π), mais il 681
+evident que 16 1116016166 16816 vrai pour tout intel-valle (α, b), α et l>
+etant des nombres quelconqueS.
+
+De 66 1116016616 86 (16(11111 1111166ᾶὶ6161116111 16 1116016616 (16 Μ.
+Ρ1661ἆ 861 16 developpement d’une fonction continue 611 une 86116 (16
+polynOmes. Il 681 inutile de reproduire 16 (161606811611011 bien 60111166
+(Voir E. Picard: „Traite d’Analyse“. Τ. Ι, p. 278, Paria, 1901).
+
+10. Envisageons de nouveau l’egalite (19), en y remplaeant x,
+par x,
+
+ω , 24.
+(19) S: (ἓ -Ι-ΣΞῙΞῘ-Ιι-ΞῙ (α1Ιῖ 608 lca: -1- b,k sin kx) = {1- sffzffidg.
+1==1 η ηαξ-η
+
+Soit :co une valeur queleonque de x (16118 l'intervalle (η, ,Qu—22).
+Multiplions l'egalite (19) par dx et integrons-la entre les limites
+
+ιτα-η et mru-
+On trouve [compat-ez le n⁰ 4]
+
+¹) Comparez encore: Leopold Tejer‚ Comptes roudus, 1900.
+

@@ -1,0 +1,76 @@
+653
+
+Wir setzen zuerst vomunt, dass diese Gleiehungen in Bezug auf
+
+m der Grfissen Pu z. B. in Bezug auf p,...p„ aufli‘mbar sind, und
+transformieren mit Hilfe der Formel:
+
+z=H-†-x,p,—†—...-{—x„p„‚ ae4=p¹¹, Pa=—·'⁶1' (i=1‚2...m).
+
+So erhalten wir die Gleichungen
+
+ 
+
+ 
+
+R(p,‘..p‚„‘‚ xstf,..x„, H—-ae,'p,‘—..—x,„'p‚„'‚ —ae,‘,..— „¹5 φήμῃ.)
+== F4'(ae,‘...x„‘x„4,.. .x„‚ H, p1'...p„‘p„4,...p„) ι· Ο (Ι”)
+(i=1, 2...m),
+die ein vollstandiges System bilden. Da die Determinante
+ἃ (F, . . . E..) η &Fj , «9Ρῖ ΘΕ( , 21⁴1:
+9(p1...p‚„) =(—1) '‘hs-PR 3H⁷'·‘' &xj Ἰ-ΡῘ ῌἺΗ-
+&hy eff: est: ΘΕ( ’
+221 ‘W' ‘gfff’ · · · “4³:223 *Vp-³ &H
+
+ 
+
+ 
+
+ 
+
+von Null verschieden ist, so erhalten wir durch die Entwickelung
+derselben
+
+ε (1221 . . F..‘) y
+
+”¹ , 9(F1‘...F..‘) ,-
+Θ(.τ,’..ω,,’ ψῌαΡα ’ἓ-(ἷί .-- —--}-O.
+
+...x‘“„H, ae‘2†,...x„')
+
+ 
+
+ 
+
+ 
+
+ 
+
+Es folgt darnae, dass nicht alle Determinanten
+
+ε (F‘, .. Ρ.) ε (ἡ ,’ . . . Eg)
+
+ε (xx ..a-„7 ’ 3<x;‘..x‘2-,‚ H, κάμυκζῖ)
+'gleioh Null sind. Setzen wir zuerst voram, dass
+
+wx--sz-ssko
+
+3 (xj . .ae‚„‘)
+
+ 
+
+ 
+
+ 
+
+ist. Die Gleiehungen (1¹¹) lbsen sich in Bezug auf :off . . acm* in der
+Form z. B.
+
+x( == ‹p,(x‚„4, . . cc„ H, pl . ‚pm'pm41 . .p„) (ίΞ 1, 2 . . m). (Im)
+Dieses letztes System ist ein vollstandiges und die Gleichungen
+[πί-φη :cl—Q] =O (i, k=1, 2...m) ,
+
+sind durch die Gleichungen (Im) erfullt. Diese letzten Gleichun-
+gen enthalten keine der Veranderliohen ω] . . xm'. Sie sind die blos-
+*sen Identitaten und das System (Im) ist in Involution. Wenn
+

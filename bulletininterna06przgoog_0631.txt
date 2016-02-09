@@ -1,0 +1,46 @@
+677
+
+ 
+
+εἱ ,1, ’Ψ ΘΓ.. 2„
+-ὶ- p {— 2ch -ὶ- p „Z
+§Q Ἦ Q ..12-
+&xq p “z , ...... ἕω, 4- p 2
+Q SR„
+3pffl ....... &pff
+2³}- ff„
+&pm ....... &pm
+
+wie es sein soll, da
+, 0⁶91&- · EQ
+⁸ 9(x,....xqpffl....p„)'
+
+ist (ξ 2, 3). Wir kannen den folgenden allgemeinen Satz III aus-
+spreohen: Man kann den Differentialausdruok
+
+ 
+
+ 
+
+''·‘0
+
+Ω’ = dz— ptdxss— . . . -ρηάωπ,
+wo die Variablen x, z p, durch m Relationen
+1‘1(x2...oe„zp,...p„)=0‚ (I‘)
+
+die ein vollstandiges System himen, verbunden sind‚ immet auf die
+neuen Variablen y, . . . γὺψ-ῃ, 80 transformieren‚ dass m der neuen
+Variablen z. B. y, . . . y„ hfichstens im gemeinschaftliehen Faktor μ
+(181· Koeffizienten enthalten sein werden. Die notwendige und hin-
+reichende Bedingung ist, dass die Formeln der Transformation zu-
+sammen mit μ den Differentialgleiohungen der Matrix (B) bei den
+konstanten Werten der ym÷ ..... (ΜΗ-,ῃ und den Gleiehungen (I‘)
+genuge leisten.
+
+3. Wir gehen jetzt zur Bestimmung der Formeln der Pfaffsohen
+Transformation uber.
+
+Wir setzen von jetzt ab πνοι-8118, dass das gegebene System der
+Differentialgleichungen in Involution ist. Die Differentialgleichun-
+gen der Matrix (Bl)
+

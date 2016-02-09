@@ -1,0 +1,59 @@
+455
+Q(oe1...x„z)=0
+
+fabren, vorausgesetzt, dass diese letzte von den charakteristischen
+Streifen nicht erzeugt sei.
+
+9. Man sieht leicbt aus der Darstellung der Theorie, dass sie ein
+willkurliches Element enthalt5 und zwar die wahl der Relation
+φ (⁵⁶1⁰ . . . μθ) = 0 fast willkurliob ist. Wir haben auch bewiesen‚
+dass die Besohrankung der Form dieser Funktion keinen Einfluss
+auf die Allgemeinheit der Ergebnisse ausubt, da die Niohtsingula-
+ritat der Integrale bei allen Pfaffschen Transformationen invariant
+bleibt. Wir kbnnen daher dieser Gleiohung eine mogliehst einfache
+Form geben, wir kbnnen z. B. voraussetzen‚ dass φ (221⁰ . . . μθ) nur
+eine der Veranderliehen euthalt unter der selbstverstandliohen Be-
+
+dingung, dass ‹p-z Ο kein Integra] des Systems (B2) ist. Da wir
+ΘΓ
+
+vorausgesetzt haben, dass 5151 -Ι-- oist, so k6nnen wirqp(x1⁰ .. ρ,0)-..
+
+φ(.τιο) semen, oder dass x1⁰=num. konst. z. Β. h ist.
+
+Wir erhalten bei dieser Voraussetzung die Methode von Cauchy
+in ihrer allgemeinsten Form.
+
+Der Satz II druekt sich so aus:
+
+Um alle niehtsinguliiren Integrale der Differentialgleichung
+F= Ο zu erhalten, soll man die Differentialgleichung
+
+dzo -p10dx10 —- . . . —p„⁰dx„⁰ = Ο
+durch n -Ι- 2 Integrale
+Θ (2:1⁰. μετ-..0) 0, F(ae1⁰.. ,ηρ ⁰)= 0, 2:1⁰— --· h, (a)
+integrieren und dann die Grfissen
+
+(122⁰... ae„⁰z⁰p1⁰...p„⁰
+aus den Gleiehungen
+
+Of(h‚oe2⁰...p„⁰)=0‚ F(hae2⁰...p„⁰)=0
+:1:,1=:1;¹ (xlhx20 ..p„⁰)‚ z=z(x1hx2⁰..p„⁰)‚ p,=p¹(x1hae2⁰..p„⁰)
+(i=2...n) (i=1,2...n)
+
+eliminieren, wo die 2n letzten Gleiohungen 2η Hauptintegrale des
+Systems (131)
+
+{iffil- dx„ d? dpl — ⁸ dp„
+
+ 
+
+ 
+
+ 
+
+aff* ··=3J‡v= ’ἔῗΞ-ἑνιΐ ” F·=·= n* &F
+ᾗ &p Σρίέρζ ax} F÷ps5>z aas.. Q†p⁸ 92
+
+in Bezqg auf τι =h sind.
+

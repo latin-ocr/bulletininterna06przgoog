@@ -1,0 +1,53 @@
+--Ἷ-- ——-——-——-—<- - v -
+
+450
+
+die Gleichung
+ψ (2³1⁰ . . . x„⁰z⁰) =-- Ο.
+
+w· zVViki· 1191111811 hiermit den Satz IV bewiesen:
+
+Satz IV. VVenn man die Differentialgleiohung
+ΩΟ = sz — p1⁰ dx1⁰ -- . . . —- p„⁰·d:v„⁰ = Ο
+durch n -4- 2 Integralgleiehungen der Gestalt
+
+(b) ‹p(x1⁰...x„⁰z⁰)=0‚ tp(x1‘⁰...oe„020)=0,
+61(x1⁰...p„⁰)=0i=1,2,...n—1)‚ F(ae1⁰...p„⁰)=0
+
+integriert hat, die nur zwei von . p? freien Gleiehungen enthalten,
+deren eine φ (oe10...oe„⁰z⁰) =0 kein Integra] des Systems (131) ist,
+und wenn man die Gri5ssen &2502’1040124 (i= 1‚2 . ..n) aus den Glei-
+chungen (b) und den Gleichungen
+
+(α) ω.;·ω,(ωιω10...]>,) (i=1...n), z=z(x1x1⁰...p„⁰)‚
+P6=P1(xlxloo-.P„⁰) (i=1‚ 2...n)‚
+
+(118 die Hauptintegrale des Systems (131) in Bezug auf x1=ae1⁰ sind⁷ elimi-
+niert hat, 8ο 8111811 man (188 Integral j(zx1. . 512.) = Ο 1111 gew6hnlichen
+Sinne der Differentialgleichung (1). Dieses Integral 1181 (118 Eigensehaft,
+dass 88 infolge der Relation φ = Ο (181· anderen Relation ψ = Ο
+genugt. Alle Integrale im gewijhnlichen Sinne kzsnnen in dieser
+Weise erhalten werden.
+
+7. Man 11811111 (188 Integralsystem
+
+(a) 9⁴(ae1...p„),(2·=1‚2‚...n)‚F(x,...p„)=0
+
+der Differentialgleichung Ω ---- Ο 8111 vollstandiges Integral der Dif-
+ferentialgleiehung (1), wenn die Gleichungen
+
+¹‘›¹1(:c1...10‚,).—--0‚ (i=1, 2‚...n)‚
+
+n willkurliehe Konstanten 01 . . . 0„ 811111811811, von denen die ge-
+gebene Gleiehung (1) frei ist und die 8118 (1188811 Gleiohungen sich
+bestimmen 1888811.
+
+Wenn dabei die Gleichungen (a) nur eine von p¹ freie Gleichung
+
+f(zx1...oe„01...G..)=0
+
+enthalten‚ so 181 (11888 letzte (188 vollstandjge Integral im gewbhn-
+lichen Sinne.
+
+ 
+

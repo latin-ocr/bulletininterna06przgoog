@@ -1,0 +1,52 @@
+440
+
+ist. Also folgt fur Ω’ die Form
+— Βςλᾶἲίι *ks-2419&
+
+Ω’-- (dzo—p10d210—...—p„⁰dx„⁰)‚
+wo F(x1⁰ . . .p‚⁰) = Ο, φ (2:1⁰. . .p‚.⁰) =O und λ fur den Fau ἕπεο
+ΘΕ
+
+gleich Nun, im Faue 5}- :120 willkurlich, aber nieht gleioh N ull ist.
+
+5. Wir wollen uns jetzt zur Integration der Differentialgleiehung
+,Q‘=dz—p,dz1 —...-p„doe„=0‚
+
+wo F (εει . . . x, z μ p..) = Ο ist, wenden.
+Man soll die transformieroe Gleiohung
+
+52 ἀνι -· (52dy1)0
+,Q‘=-.(d20—p10d2210—...—p„⁰dx,⁰)e ==0‚
+
+wo F (³³1⁰ . . . x„⁰ z⁰ p1⁰ . . .p„⁰) = Ο, φ (⁵⁶1⁰ . . .p„⁰) = Ο ist, durch die
+
+kleinste Anzahl n der Integrale integrieren. Es folgt, dass entweder
+Ωό = dzo -·· p1⁰doe1⁰ -· · · ··“ p,⁰dae,⁰ = Ο)
+
+oder
+
+es My, — (5 kdysso— Ο
+
+ΘΓ
+
+ist. Die letzte Voraussetzung ist nur daun mssglioh‚ wenn ἒξ --Ι; Ο
+
+ist. Sotzen wir, dass
+Ωό-τ-ἅεο -—-p,0d.vl⁰-·... —p„d:c„⁰=0
+
+ist, wo F (2:1⁰ . . . πθ z⁰p1⁰ . . .p„⁰) = Ο, φ (5⁶1⁰ . . .p„⁰) = Ο ist.
+Wir sollen diese Gleichung durch die kleinste Anzahl n dor
+Integrale integrioren oder wir sollen die Gleichung
+,Ωο =.'- 0120 - p2⁰dx1⁰- . - p„⁰dx„⁰= ο
+
+durch n -ξ- 2 Integrale integrioren‚ deren zwoi F (2:1⁰ . . . μθ) == 0,
+φ (³51⁰ . . . μθ) = Ο vorgesehrieben sind. Wenn ein solohes System der
+n -†— 2 Integrale gesunden ist, so kbnnen wir dat-aus n Integrale
+
+der Gleiohung Ω’ -- Ο ermitteln: in der Tat³ es sei dieses System
+der Integrale
+
+94(oe,⁰....p„⁰)=0‚ F(ae1⁰....p„⁰)=0, ‹p(oel⁰....p„⁰)=0.
+Wenn wir jetzt die Gleichungen
+9.(oe10...‘.p,.,0)=0 (1:1,2....n)‚
+

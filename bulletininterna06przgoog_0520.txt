@@ -1,0 +1,49 @@
+696
+
+1‘}‘‚‘(:1:1⁰..221⁰C¹ .. 0„÷1-„,)=0, E(x2⁰..p„⁰)=0‚ φ,ἱ (21:1⁰..p„⁰)=0‚
+(a=1‚2...n—}—1-—m-‚ 2:1.2...m.).
+
+womit unsere Behauptung bewiesen ist. Wenn wir umgekehrt ein
+System der n-†— 1 †m Integrale der Differentialgleiehung 90=0
+mit den oben erwiihnten Eigensohaften bestimmt haben‚ so erhal-
+ten wir daraus nach dem Satze V das vollstandige Integral der
+partiellen Differentialgleiohungen (I). Es sei dieses System der
+
+n —-{— 1 —†— m Integrale der Differentialgleiehung ΩΟ = 0:
+Θα (2:1⁰ . .p„⁰ C'l . . Cn÷1-m)=0‚ 101(oeae . .p„⁰) -- O, (p,- (κιο . .p„⁰) = 0
+(a=1,2..n-}—1—m, i=1‚2..ne-). {f}
+
+Wir wissen, dass wir mit Hilfe der Gleiehungen φί = Ο
+(i = 1. 2 . . . m) die ersten n —÷- 1 — m Gleichungen so umformen
+kbnnen‚ dass sie. η -†—1 - m Integrale der Differentialgleic-hungon
+der Matrix (131) sein werden. Setzen wit· nun vorauS, dass das
+sehon ausgefiihrt ist. Wenn wir also die (ἔτι-(338611 τέ) 20 101⁰ aus den
+Gleiehungen (f) und aus dem Systeme der 2²²4· 1 — m Hauptin-
+tegrale der Differentialgleiehungen der Matrix (131) eliminieren. so
+erhalten wir offenbar die Gleiehungen
+
+Θαρτ, ...p„01 ...0‚.÷1-„.):-0. R(2·1...p„)=0
+(a=1‚2...n—†-1-—·m‚ 2:1,2...m).
+
+die das vollstandige gemeinsame Integral der partiellen Differen-
+tialgleiehungen (Ι) bilden.
+
+wir haben also den Satz VII.
+
+Um das gemeinsame vollstandige Integral der partiellen Diffe-
+rentialgleiehungen (Ι) zu erhalten‚ ist es hinreichend solehes Sy-
+stem der η-ξ- 1 -Ι-φη Integrale der Differentialgleiohungen 90:01
+
+Θ,ι (2:1⁰. .p„⁰C1 . .C,„1-„‚)-—- 0, E(ae1⁰..p„⁰)= Ο, ψί (2:1⁰ . . ,p1⁰) = 0
+(a=1.2...n·—†-1—-m. i=1,2...m).
+
+wo bei der Bezeichnung der vorigen Satze nur 7ι-Ι-1 ——m ersten
+Gleichungen n—†'—1 -—· m willkurliehen Konstanten‚ in Bezug auf
+welche sie unabhilngig sind. enthalten‚ zu bestimmen und demit
+nach dem Satze V zu verfahren. Alle vollstandigen Integrale ki‘m-
+nen in dieser W'eise erhalten worden.
+
+Wenn das vollstandige Integral es im gewehnliohen Sinne sein
+soll, so soll das System der γεῆ-1 —†—m Integrale der Differential-
+gleichung ,ΩΟ-ΞΟ nicht nur den Bedingungen des Satzes VII,
+

@@ -1,0 +1,48 @@
+679
+
+ist‚da .
+[Fabuffo (a,i=-—-1,2...m)
+
+ist und nieht alle Determinanten mu. Grades der Matrix (131) gleioh
+Null sind.
+
+Wir wissen‚ dass die Formel der Pfaffsehen Transformation (188
+‘Differentialausdrueks
+
+9¹=dz—p,dx,—...—p„dae„,
+
+wo FAx, . . ,τηεμ . . .p„) = Ο (i = 1, 2.. . m) 181, oder vielmehr die
+Relationen zwisehen aaz p„ die 8118 11111811 118811 der Elimination der
+Veranderlichen y ..... y... sich ergeben‚ den Differentialgleichungen
+der Matrix (B) zusammen mit der Funktion μ geuugen 8011811. Da
+die Gleiehungen der Matrix (B) von den Gleiehungen der Matrix
+(B,) nur durch eine Gleiehung‚ die die Funktion μ 8111111111, 81811
+unterscheiden‚ 80 8011811 (118 Formeln dieser Transformation nur
+den Gleiehungen der Matrix (132) geuugen. Da die oben erwahnten
+Relationen zwisehen x¹ z p.¹ 811811 (118 Gleichungen
+
+b}(x,..'.x„zp,...p„)=0 (i=1‚2...m)
+
+und keine andere, die von ΖΛΗ, ..... hm„ frei sind, euthalten‚ 80
+sind (11888 Β81811011811 ein partikulares System der Integrale der
+Differentialgleiehungen der Matrix (El), das aus dem vollstandigen
+System mit Hilfe der m gewissen Relationen zwischen den Inte—
+grationskonstanten sich ergibt. Setzen wir vorauS, dass ein solehes
+System der Integrale der.Gleiohungen der Matrix (Bl) gesunden
+ist. Diese Integrale bestimmen nur 2n -Ι- 1 -- m der Variablen amp¹
+als die F unktionen der m ubrigen3 (11888 letzten ·bleiben also will-
+kflrliohe Funktionen (181· y„ . ..τήμῇ-ω, welche in Bezug auf y„ ‚yffi
+unabhangig sind.
+
+Wenn wir z. B. voraussetzen‚ dass die gegebenen Gleichungen
+(1¹) in Bezug auf p,..p„, unabhangig sind, so bestimmen die Glei-
+ehungen der Matrix (131) die Veranderlichen oem÷47 z, ρ, 818 (118 Fun-
+ktionen der x ..... x„ und sind (11888 letzten willkflrliehe Funktio—
+nen der y ..... y,„4„m, welche in Bezug auf y ..... ym unabhangig
+sind. Was die Wahl dieser letzten betrifft, 80 werden wir 818 111
+folgender Weise wahlen: wir setzen vorauS‚ (1888 wir 811811 (11888
+Funktionen aus (1811 gewfihnlichen unbesehrankt integrablen Diffe-
+rentialgleichungen “
+
+dx,=Akdy,—}-...-†—B,dym· (k=1,2...m)
+

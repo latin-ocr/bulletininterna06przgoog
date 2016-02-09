@@ -1,0 +1,52 @@
+645
+
+und der Gleiehung
+Q=dz—p,dae,—...—-p„dx„=o
+
+genuge 1618168. n -{- 1 Gleiehungen (α) bilden 8180 618 System von
+n 4- 1 Integralen der Gleiehung
+
+Q==O
+
+von der Besehaffenheit, dass 68 den 8686116868 Gleichungen (l')
+8681186 1618161 und in Bezug auf p. (ει 1, 2 . . . . n) 81611 8111168611
+18881. Wenn man umgekehrt die Differentialgleiehung
+
+Q=dz—p,dx,—...—p„dae„=o
+
+durch die kleinste Anzahl η-Ι- 1 (161 1111681816 1816811611, (116 (116
+8686116868 Gleiehungen (l') erfullen und 18 Bezug auf Pa (i=1, 2 ..n)
+unabhangig sind, 80 bekommt 11188 (1818118 durch Elimination (116-
+861 Variablen eine Gleiehung
+
+z=j(x,...oe„),
+
+die offenbar ein 86186188811168 18168181 (161 8686116868 Differential—
+gleiehungen (1) bildet. Wenn das System der n-†—1 Integrale der
+Differentialgleiehung Ω = Ο, (116 (116 , 8686116868 Gleiehungen (l')
+erfullen5 81611 18 Bezug auf p,- (i ·--- 1, 2.. Aa) 1116111 81111ϋ8611 18881,
+80 (1888 man nach Elimination dieser Variablen mehr als eine Re-
+1811011 zwisehen z‚x, bekommt7 8ο 111Ιά61 618 86161168 System kein
+86816188811168 18168181 der Differentialgleiehungen (1) im 8681111811-
+61168 Sinne. Wenn 11188 81161 (116 Definition des gemeinsamen Inte·
+81818 (161 8686116868 Differentialgleiehungen (1) verallgemeinert, 8ο
+neunt 1888 mit S. Lie ein 80161168 System der 8-1- 1 181681816 (161·
+Differentialgleiehung Ω = O immer ein 8681618881868 18168181 (161·
+8686116868 Differentislgleiehungen (1). 1)16 18168181108 (161 Diffe-
+1681181816161188868 (I) im allgemeinsten Sinne besteht 8180 18 (161·
+Bestimmung des Systems (A) der n-{-—1 Integrale der Differential-
+gleichung Ω = Ο, (116 (116 8686116868 Gleiehungen (1¹) erfullen. Da
+wir dieses Problem in (161 81186186188168 Form 116118611168 werden,
+
+80 861868 wir 1018118, (1888 (116 8686116868 Differentialgleiehungen
+&z
+
+(1) uberhaupt in Bezug auf irgend welche k Grossen x„ z, &i un-
+ί
+
+³abhangig sind.
+2. Wir wollen vor 811618 (116 notwendigen Bedingungen fiir die
+Existenz (168 gemeinsamen 1111681818 (161 8686116868 Differential-
+
+1*
+

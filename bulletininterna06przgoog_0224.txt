@@ -1,0 +1,53 @@
+426
+
+wo pt-z-gZ—‘isg dargestellt, weleher Gedanke bis auf Lagrange
+
+zuruekreioht ¹). Diese letzte Aufgabe betrachtet er als den speziellen
+Fau der allgemeinen Differentialgleiehung
+
+Χ, dx, -1- ..... -1- X„ aaa„ = 0.
+
+Das Charakteristisehe dieser Methode besteht in der speziellen
+Transformation der Variablen‚ welche den wahren Zweck hat, wie
+es G au ss spater bemerkt hat ²), die vorgelegte Differentialgleiehung
+auf die einfaehste F orm mit der kleinsten 'Anzahl der Differentiale
+zu reduzieren und in dieser Form zu integrieren.
+
+Die spateren Verfasser, wie Cauehy, Jacobi, Mayer‚
+haben die verschiedenen Methoden derIntegration angegeben‚ die
+alle einen und denselben inneren Gedanken haben, namlieh die
+Differentialgleiehung (1‘) in ihrer einfaehsten Form zu integrieren
+und also die Eigenschaften der Veriinderliehen dieser Form auf
+dem einen oder auf dem anderen Wege zu benutzen, von denen
+nur Jacobi in seiner ersten Methode der Integration ³) die reine
+Methode der Transformation von Pf a f f angewandt und in mehreren
+Punkten ausgebildet hat. Es leuchtet sowohl aus dieser letzteren
+sowie aus den Arbeiten von Cauohy4) ein. dass diese Methode der
+O a u eh y seben ahnlieh ist.
+
+D ar b 0 11 x ⁵) hat spater gezeigt‚ dass die Methode der P f a f f sehen
+Transformation. in der vom Verfasser gegebenen Form mit der
+C a u 0 11 y seben ubereinstimmt.
+
+Die Pfaffsehe Methode ist trotz dieser Arbeiten in ihrer ganzen
+Allgemeinheit, zu der sie nur fahig ist, noch nieht dargestellt worden.
+
+Ich beabsichtige in dieser Abhandlung die Theorie der Integra-
+tion einer partiellen Differentialgleiehung oder des Systems soleher
+Differentialgleiehungen erster Ordnung mit einer unbekannten Funk-
+tion mit Hilfe der Pfaffsehen Transformation in der allgemeinsten
+
+Form durehzufflhren ⁶).
+
+¹) Abh. 11. Berl. Acad. 1772.
+
+2) (ἶὸιι. gelehr. Anz. 1815.
+³) .J. Crelle, Bde 2, 17. Vox-les, ub. Dyn.. 181563 Journal 11 Mam.. Liouv. 1838.
+
+⁴) Exereices d’An. et de Phys. math. 'lt 11, 1841. Compt. nond. T. 14, 1⁸42.
+
+⁵) nun. 11. Se. math. et astr. 1882. Coinpt. Rend., ISQZ.
+
+⁴³) Die gegonuartige erste Mitteilnng enthisst dio 'l'heorie einer partie-Uen
+Differentialgleichung. Die Vei-allgemeinerung auf Systeme partieiler Differential-
+

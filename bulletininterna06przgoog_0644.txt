@@ -1,0 +1,63 @@
+690
+
+aus demjenigen Systeme der n -†— 1 4— m Integrale
+
+6“(x,⁰...p„⁰)=0 (a=1‚2...n-{—1—m),
+E(:c,⁰...p„⁰)=0 oe‹(x1⁰···p„⁰)=0 (i=1‚2...m)
+
+der Differentialgleiohung ΩΟ = Ο, das die m gegebenen Gleiehun-
+gen φι (⁵⁶1⁰ . . . p„⁰) = Ο euthalt, erhalten werden kann. Wir kt’mnen
+diesen Schluss auch in anderer VVeise ausprechen: Die Nichtsin-
+gularitat des Integrales der partiellen Differentialgleiohungen (I) ist
+eine invariante Eigenschaft hinsiohtlieh auf alle Pfaffsche Trans-
+formationen.
+
+2. Wir wollen jetzt eine Bemerkung fiber den Zusammenhang
+zwisohen den Gleiehungen
+
+(f) 02(ae1.--p..)=0‚ R(x,---p.)=0‚
+‹p‚(oe,...p„)=0 (a=1‚2...n-†-1—-m·‚ i=1‚2...m.)
+
+und den Gleiohungen
+
+(g) 29¹2(x,..,2?„)=0 1⁴}(ae,..p„)=0(a=1,2..n-{-1-m2·=1.2..m)
+
+macheu. Wir erhalten (las gemeinsame nichtsingulare Integral
+
+(g) der Differentialgleiohungen (I) durch Elimination der Grssssen
+
+⁵⁶1⁰ 20 p? aus den Gleichungen
+
+(f') Θα (5⁸1⁰ . . .p„⁰) -τ 0, Iu (2:1⁰ . . . pf) = Ο,
+(p,(oe,⁰...p„⁰)=0 (a=1‚2...n-{—1—m,i=1‚2...m)
+
+die n-}—1—{-—m Integrale der Diflerentialgleichungen 90=0 bilden,
+und aus den 2n÷1 —m Hauptintegralen der Differentialgleichun-
+gen der Matrix (131) z. B.
+
+oe„‚,·=x„„(x1...cc„x1⁰...p„⁰) j
+z
+
+(a) p,=p,-(x,...oe‚„x,⁰...p⁰)
+
+2.
+z=z(ae,...oe„x1⁰...p„⁰)‚
+
+1,2...n—m
+1:2···⁹²
+
+ΙΙ ΙΙ
+
+oder anders gesagt: wir erhalten das gemeinsame Integral (g) der
+Differentialgleiohungen (Ι) durch die Transformation der Gleichungen
+
+Oa(x,⁰...p„⁰)=O, h}(x,⁰..p„⁰)=0 a=1‚2..n-}-1—-m‚ i=1,2..m)‚
+
+wo m5(x,⁰...p„⁰)=0 (i=1‚2...m) ist, auf die neuen Variablen
+x‘zp‘ mit Hilfe der Formeln
+
+xm15=xm,5(x,...xmx,⁰...p,⁰)
+(α’) P1=Pa (115¹...xm ³31⁰·-·P„⁰)
+
+z=z(x,...oemoe,⁰...p„)‚
+

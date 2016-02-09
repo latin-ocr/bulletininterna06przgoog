@@ -1,0 +1,49 @@
+429
+
+9=dH-f1dF2—·--—f2-1dF1-1÷F2df2-{-·-·-{-F.df..
+
+und
+
+H= 90-4-15' e,÷. .÷F-,e-,
+&H
+
+f=-9—F(i= 1, 2. ,k— 1), ΡΞ-Ῡέῖωε Ie, m). (β)
+ξ 2.
+1. Ε8 sei die Differentialgleiehung 1. Ο.
+F (231222. ,ω z ἐξ ..... ἕξ);- 0. (1)
+
+vergelegt. Wenn z -ε f (σει 2³2· ...τ,,) das Integral derselben ist, so
+bring-en n -ἦ- 1 endliehe Gleichungen
+
+κείω( aa), Ρ--ξξατ- 1, 2 m) (a)
+
+den Differentialausdruek
+
+Q=dz—p1dx1 —..—-p„d.e,
+zum Versehwinden und geuugen der gegebenen Gleiohung
+F(x2...x‚„.z, p,...p„)=0. (1‘)
+
+Umgekehrt‚ wenn m—}-1 Gleiehungen z==s (x,...x„)‚ p4=f(x,...x„)
+den Differentialausdruek Ω annullieren und der endliehen Differen-
+tialgleiehung (l‘) geuugen‚ so ist offenbar z=s (ael . . .x„) das In-
+tegral der gegebenen Differentialgleiehung (1).
+
+Man kann die Aufgabe, die Differentialgleichung (1) zu inte—
+grieren, in folgender etwas allgemeineren Form darstellen: Man soll
+die Differentialgleiehung
+
+Q=dz—p1de-—..-—p„dx„=0
+
+mit Hilfe der kleinsten Anzahl n—†—1 endliehen Gleiehungen in-
+tegrioren‚ deren eine die gegebene Form Fal ..x„zp1..p„) = Ο hat.
+
+Wir werden diese Aufgabe in mbgliohst allgemeiner Form
+l6sen.
+
+Es kann bei der allgemeinsten Bebandlung dieses Problems aueh
+vorkommen‚ dass die gegebene Gleiehung (1‘) von den p frei ist.
+In diesem Faue lost man dieses Problem nach der Methode des
+ξ Ι, 2, indem man unter den Gleiehungen (a) die gegebene Gleiehung
+
+F(ae1..oe2z)= 0 (1‘>
+

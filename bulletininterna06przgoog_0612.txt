@@ -1,0 +1,60 @@
+658
+
+transformieren. Wir werden ein vollstandiges System
+
+(I“) E‘(x,‘ . ,x'stffistpwn H, pl . ·P‘‹1÷1Pr÷-2··Pn)·= Ο (i=1‚2..m)
+
+erhalten. Es folgt aus der Formeln der Transformation, dass
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+w: aa:
+310¹, .......... Q,
+ΛΦΨ- --1;ο
+oF: ειη(
+opu-H .......... 3291st
+&FJ eff„
+vpst,²·········3pq÷
+aff: ΘΕ,
+&pm ......... ⁷25...—
+
+ist und also die Gleichungen (1¹¹) in Bezug auf ρι’ . ·Pfl-1‘Pfl-a· .p„
+auflsssbar sind. Man kann dieses System und also auch das gege-
+
+bene System (1') in der oben gezeig-ten Weise durch ein System
+in Involution ersetzen.
+
+§a
+
+1. Wir wollen jetzt zur Integration des vollstandigen Systems
+der Differentialgleiohungen (Ι)
+
+(1) ffi(aet.....x„2j}¹,....j{-)=o (521,2...m)
+
+ubergehen3 dio Integration dieses Systems reduoiert sich auf die
+Integration der Differentialgleiohung Ω --Ο mit Hilfe der n-†-1
+Integrale (A), die den gegebenen Gleichungen
+
+(1¹) E(ae,...x„zp,...p„)=0 (i1=1,2...m)
+
+genuge leisten. Wenn wazu-{4 ist so stellen die n—}-1 gegebenen
+Gleichungen (1¹) sehon das gemeinsame Integral der Differential-
+gleichungen (I) dar. Man soll zu diesem Zwecke nur beweisen,
+dass das System der Gleiohungen (I‘) der Differentialgleichung
+Ω =0 genuge leistet.
+
+Setzen wir vorauS‚ dass die Gleichungen (1¹) im allgemeinen in
+Bezug auf z, ωα....τβ, PY2···P3 auflfisbar sind, wo α...β, γ...ὀ
+

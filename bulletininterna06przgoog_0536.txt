@@ -1,0 +1,40 @@
+712
+
+Wenn wir die partiellen Differentialgleiohungen (Ι) auf die
+neuen Variablpn mit Hilfe der Formel
+
+ζητῶ-μω, -h1)y. (i=2,3...m.)
+
+transformieren, so dass sie die Form
+
+(II) {22¹‘=(91†3l²(98†···†-ym(⁸3m
+-ἓ-ωῑ-τ-(ωι ---Ιι,-)Θ,ῑ (i=2...m)
+mnehmen, und wenn wir die Differentialgleichung
+
+Ei=‹÷›1÷y2e)2÷...÷y„.ssm
+
+&xl
+mit n -Ι- 2 -— m Gleiohungen
+
+θα (oe1y2..ymoe„,÷1..p„)=0‚ q1=Q)1-{—y2(·92-†—...†—(·3,„y„,
+(a=1.2...n-}-1—m),
+
+die die Eigensohaft haben, dass die n -Ι- 1 - m ersten Gleiehun-
+gen bei ω, -.- h, keine der Grssssen 312 . . . y„ enffiahen, integrieren
+‚so bekommen wir bei den Veranderlichen y, . . . ym und also nach
+der Hinzufugung der Gleichungen
+
+φε---ζειςί---ῘιῄΘί (iss2‚3...m)
+
+das gemeinsame Integral der Differentialgleiehungen (Ι). ’
+Wenn wir dasselbe auf die ursprungliohen Variablen mit Hilfe
+der Formel
+
+oe÷=}0‘÷(ae,--h,)y¹ (2:=2‚3..-.m) ⁶
+Q1=P1†y2P-2-}-···†Pmym
+ζςμ-ϊῷωμ-Ῐιῂρ, (z‘=2‚3...m)
+
+transformieren‚ so bekommen wir das gemeinsame {ntegral des
+vorgelegten Systems in Involution der partiellen Differentialglei-
+chungen (1).2
+

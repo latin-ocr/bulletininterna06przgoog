@@ -1,0 +1,39 @@
+677
+
+ 
+
+ΘΕ, 01« eff„ 31⁵1„
+ΕΞ -1- p π ...... We] -1- p -3—2—
+3AE 3F, aff„ T„
+{Z†P⁹T9{’' ''524'2'7
+eh} 3121„
+,ἑῇς-Η ‚ ...... pff
+δὲ ‘’J-.-
+&pm ....... &pm
+wie es sein soll, da
+ἢ (B ...F„,)
+Γπ ’ἦρ-...η ρ..) 1-0
+
+ist (ξ 2, 3). Wir konnen den folgenden allgemeinen Satz ΙΙΙ aus-
+spreehen: Man kann den Differentialausdruck
+
+,Q‘ == dz— p1clx1— .. . —p„dae„,
+wo die Variablen τί z ρ, durch m Relatiofien
+b}(oe,...x„zp,...p„)=0. (I')
+
+die ein vollstandiges System huden, verbunden sind‚ immer auf· die
+neuen Variablen y, . . . y‚„÷,-‚„ so transformieren‚ dass m der neuen
+Variablen z. B. y, . . . ym hfichstens im gemeinschaftliohen Faktor μ
+der Koeffizienten enthalten sein werden. Die notwendige und hin-
+reiehende Bedingung ist, dass die Formeln der Transformation zu-
+sammen mit μ den Differentialgleiohungen der Matrix (B) bei den
+konstanten VVerten der ym÷1····y²n÷1-m und den Gleiohungen (1¹)
+genuge leisten.
+
+3. wir gehen jetzt zur Bestimmung der Formeln der Pfaffschen
+Transformation uber.
+
+Wir setzen von jetzt ab vorauS, dass das gegebene System der
+Differentialgleiehungen in Involution ist. Die Differentialgleiehun-
+gen der Matrix (Bl)
+

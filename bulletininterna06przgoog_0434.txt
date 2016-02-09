@@ -1,0 +1,45 @@
+620
+
+Lagrange permet d'eviter, sans introduire aucune complication dans
+les equations‚ l’usage d'equations incompatibles avec le principe des
+mouvements relatifs: des lors rien absolument 116 necessite l'intro-
+duction‚ en hydrodynamique, d’equations aussi defectueuses que le
+sont celles οὺ 16 principe des mouvements relatifs n'est pas respecti&
+
+Peut-etre croira-t-on 6116 notre critique des equations 01³1 le prin-
+cipe des mouvements relatifs est viole, est infirmee partiellement par
+66 fait qu’en acoustique on fait usage. avec succeS, d'une equation
+qui precisement rentre dans le type de l'equation 1)(1). 11 n'en est
+rien en realite. En effet on ne considere en acoustique, quand on
+emploi l'equation en question, que le cas des vibrations proprement
+dites, En d'autres termes on suppose qu’il est possible (16 rapporter
+16 fluide a un systeme ‹l’axes anime d’un mouvement de translation
+tel que les variations des coordonnees (16 chaque particule soient
+constamment comprises entre des limites constantes et tres etroites.
+Dono la vitesse de translation (111 systeme de coordonnees pour le-
+quel on considere l'equation en question comme valable est par-
+faitement determinem on evite des lors toutes les erreurs qui pour-
+raient derivet de la comparaison des resultats obtenus en rapportant
+le fluide ὲ. des systemes d'axes dont les vitesses de translation se-
+raient differentes et on se place precisement dans le cas 6116 nous
+avons dit &tre le seul οὺ les equations non conformes au principe
+des mouvements relatifs pourraient etre employees sans s'exposer
+ἐι (16 graves erreurS. D’ailleurs tous les resultats deduits en acous-
+tique dela facon que nous venons d'indiquer s'obtiennent aussi
+aisement et sous une forme plus satisfaisante en se servant d’equa-
+tions (111 type de l'equation (2).
+
+Il resulte des considerations precedentes que, meme dans les
+nouvelles conditions οὺ Μ. Natanson s’est place, les equations (E)
+et (F) ne peuvent &tre considerees comme equivalentes approxi-
+mativement.
+
+Je desireraiS, en terminant cette note, dissiper un malentendu
+que pourrait creet· 66 6116 dit M. Natanson au sujet du criterium
+que j'applique aux equations (E) au Nr. 3 (16 ma note citee au
+debut. M. Natanson estime que ce criterium est „injustifiable et
+meme ertone parce que son adoption entrainerait une conclusion
+
+¹) d’ai 611 vue l’equation dont on se sert ordinatii-emeat pour calculen- 16 po-
+tentiel des vitesses.
+

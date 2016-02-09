@@ -1,0 +1,47 @@
+686
+
+lqu eine von vornherein gegebene Form z. B. ἱρμ---ῃ1 haben
+-wird. Dann wird
+μ — effi ·“· 910
+
+Mo
+
+sein und infolge der Unabhangigkeit der Veranderlichen y1 . . . .
+y2„41-„. einen ganz willkurlichen VVert haben. Wenn wir also
+
+die Gleiohungen
+Θα (x10...p„⁰)=0 (a=1,2...n—†—1-—m),
+
+wo E(oe1⁰....p„⁰)=0‚ m1(x1⁰....p„⁰)=0 (i=1, 2...m) ist„
+mit Hilfe der Formel der Pfaffschen Transformation auf die ur-
+sprunglichen Variablen τι), z pi transformieren‚ so bekommen wir
+
+n—†—1 —m Gleiohungen
+94(ae1...p„)=0 (a=1‚2...n-{—1—m),
+
+wo R(x1...p„)=0 (i=1, 2...m) ist, die n—}-1—m Integrale
+der Differentialgleiehung 9¹ =0 sind. Die n-{—1 Gleichungen
+
+92(ae1...p„)=0 («=1‚2...n-†-1-m)‚
+123(x1...p,)=0 <i=1‚2...m)
+
+sind also ein gemeinsames Integral der partiellen Differentialglei-
+chungen (I) und (1). VVenn wir noch darauf aufmerksam macheu.
+dass wir bei der Transformation nur die Formel (a), die das Sy-
+stem der Hauptintegrale der Differentialgleichungen der Matrix
+(Bl) sind, benntzen, so ki‘mnen wir den Satz V ausspmehen, in-
+dem wir das in dieser VVeise erhaltene gemeinsame Integral nicht-
+singular neuneu: ’
+
+Satz V. Um das gemeinsame nichtsinguliire Integral der
+m < τιή-1 partiellen Differentialgleichungen (I) in Involutiqn zu
+erhalten, bestimme man ein System n-}-1-{-m Integrale der Dif-
+ferentialgleiohung
+
+90=d20—p10doe10—...—-p„⁰dae„⁰=02
+62(x1⁰...p„⁰)=0 (a=1‚2...n-†-1—m)‚
+(f) F,·(x1⁰...p„⁰)=0‚ Ps(ae1⁰···Pn⁰)='-0 (i=1‚2...m)‚
+
+das m gegebenen Gleiehungen (1¹)
+·I‘',-(x1⁰...p„⁰)=0 (13:21, 2...m)‚
+

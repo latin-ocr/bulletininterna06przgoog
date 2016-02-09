@@ -1,0 +1,51 @@
+446
+
+(a) 29⁶(x1...p„)=0‚ (i=1‚2...n)‚ 1¹⁷(x1...p„)=0
+
+sich bestimmen. lassen.
+
+Man kann alle Integrale im gew6hnliehen Sinne aus diesen
+Systemen der n—†- 2 Integrale der Differentialgleiehung 90 = Ο
+erhalten‚ die in Bezug anf 101⁰ . . . μθ sich auflsssen lassen. In der
+Tat es sei 11>th . . . p„) πθ die Gleiehung, infolge deren die Glei-
+cbungen (a) nieht illusoriseh werden, und 8018118, dass
+
+‹p(x1⁰...p„⁰)=0
+
+kein Integral der Differentialgleiehungen (Bl) ist.
+Wir kbnnen immet voraussetzen‚ dass die Gleiehungen (a) aus
+n -4- 2 Integralgleiehungen ’
+Θί(ωιθ...Ρ,0)εΟ (i=1, 2...n), F(oe1⁰....p„⁰)=0
+(b) 00(oe10· · -P-0) = 0
+der Differentialgleichnng ,Ω0 = 0 erhalten werden, die die Gleiehung
+
+φ = Ο euthalten.
+Wenn wir also in den Gleiohungen (a)
+
+29¹(x1...p„)=0 (i=1‚ 2...n), wo F(x1...p„)=01·st‚
+
+die Veranderliehen :135⁰ 2⁰ μθ mit Hilfe der Formeln der Pf a f f seben
+Transformation
+ae,=.r,(x1x1⁰. . .p„⁰) (iz 2 . . Al) 21 :21 (x1ae20...p.⁰),
+p1=p1(x1x1⁰...p„⁰)(i=1,...n),
+
+wo F(:c1⁰.. .p„⁰)=0, cp(:c1⁰. . .p„⁰)=0 ist, einfuhren, 88 bekom-
+men wn-
+
+61(x1⁰...p„⁰)=0 (i=1‚ 2...n)‚
+
+wo F(x1⁰...p„⁰)=0, ‹p(x1⁰...p„⁰)=0 ist.
+
+Da n'aob dieser Transformation oel versehwindet, so kennen wir
+vor der Ausfflhrung der Transformation τοι =oel⁰ setzen und be·-
+kommen naeh der Transformation
+
+³1(ae,0...p,0)==0(2:=1,2.‡.n),
+wo 1‹‘(x1⁰...p„⁰)=0‚ ‹p(x1⁰...p„⁰)=-··O ist.
+
+Wir sehen also, dass das System (b) noch in der Form
+19³5(x1⁰...p„⁰)=0, (i=1‚2...n), F(x1⁰...p„⁰)=0
+(b) ‹p(oe1⁰··.p.⁰)=0·
+
+ 
+

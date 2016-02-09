@@ -1,0 +1,43 @@
+685
+
+wo R-(x10....p‚,⁰)=0. ‹p4(oe1⁰....p„⁰)=0 (i=1‚2...m) ist,
+setzen. Wir sollen die Gleiohung 9¹ =0 und also die Gleiohung
+90¹ =0 durch n -1- 1 —m Integrale integrieren, oder andere ge-
+18ος1, wir 8011011 die Gleiehung
+
+Ωο -- dzo —p10doe10 — . . . -—- p„⁰dx„⁰= Ο
+durch n -f— 1 -f— m Integrale
+
+Oa(x1⁰···Pn⁰)=0 (a=1‚2...n-{—1—m)3
+R(x1⁰...p„⁰)=07 ‹p4(x1⁰...p„⁰)=0 (i=1‚.2...m.) (f)
+
+integrieren‚ zwischen denen 08 m gegebenen Gleiohungen
+R(x1⁰...p„⁰)=0 (i=1‚2...m),
+
+die die Inoegrale der Gleicbungen der Matrix (131) ssind³ und m
+Gleiohungen
+
+qass(x1⁰...lp„⁰)=0 (i=1‚ 2...m),
+
+die nur keine Integrale der Gleiohungen dieser Matrix sind, gibt.
+Wenn wir umgekehrt ein 80101108 System der ⁷24- 1 -ff—m, Integrale
+der Differentialgleichung ,Ωο = Ο finden, 80 konnen wir daraus
+n -Ι- 1 - m Integrale der Differentialgleiehung 9¹ = Ο und folglich
+η -1- 1 Integrale der Differentialgleichung Ω z O, d. h. das gemein-
+same Integral der partiellen Differentialgleiehungen (Ι) und also
+der partiellen Differentialgleiehungen (l) finden. In der Tat 08 sei
+
+Ga(ae1⁰...p„⁰)=0 (a:1,2...n-†—1—-m)‚
+R(x1⁰...p„⁰)=0‚ m‘(x1⁰...p„⁰)=0 (i=1‚2...m) (f)
+
+ein 80101108 System (101· n -Ι- 1 -1-ἠι Integrale (101· Differentialglei-
+chung ,Ω0 --- Ο. Es ist unmoglich3 dass es infolge dieser Gleichungen
+
+'fi Ξ 00
+μο
+ware. In der Tat, im Faue wenn {Z} = Ο (i = 1, 2. . . m) ist, ist
+ΞΣ 1.
+Wenn aber nieht alle ᾆξ’ (z' = 1, 2 . . . m) versehwinden‚ 80
+
+konnen wir die Formel der Transformation (b) 80 wahlen7 dass
+

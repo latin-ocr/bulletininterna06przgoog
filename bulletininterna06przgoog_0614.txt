@@ -1,0 +1,52 @@
+660
+
+geuugen, und die Gleiohungen (1“) das System der n -ξ- 1 Integrale
+dieser ,letzten Gleiohung darstellen. VVenn man diese letzten auf
+die ursprungliohen Variablen transformiert, so erhalt man, dass
+die Gleichungen (1‘) η-ἧ- 1 Integrale der Differentialgleiehung
+
+dez—plde—...—p„dx„=0
+
+daretellen. Wir werden daher im folgenden immor voraussetzen,
+dass m<n ist.
+
+Da wir m gegebene Gleiohungen (1¹) als m Integrale des Sy-
+stems (A) betrac-hten ki'mnen, so konnen wir die Aufgabe in folgen-
+der anderen· Form ausdrueken: wir sollen die Differentialgleiehung
+
+9¹=dz-—p1dx,—-...p„dae„=0,
+
+wo die Vernnderlichen :cizp¹ durch m gegebenen Relationen (Γ)
+
+sehon verbunden sind5 durch die kleinste Anzahl η-ἧ- 1 -—m der
+
+Integrale integrieron. Wir kennen nach dem oben bewiesenen im·
+
+mer voraussetzen³ dass die gegebenen Gleichungen (I‘) in Bezug
+
+auf m der Griissen p,- z. B. in Bezug auf p ..... p„ auflsssbar sind.
+&Venn diese letzten in der ausgelifnsten Form die Gestalt
+
+pss—(9,(ae1...x„zp„,÷,...p„)=0 (ir-1, 2...m)
+
+haben, so hat die Differentialgleiohung ,ρ’ -—- Ο die Gestalt
+
+Ω’ = dz —— 9,de -- . . . —- estse„ —p„÷1cl.z„÷, - . . .p„d.v„ = Ο.
+wo
+{ps “-“ Θε- Pk -“ Gk] ’ἶ Ο ⁸
+Pi=es
+ΡιΖΘ
+
+ist. wir konnen den Differentialausdruok .Ω’ auf die neuen Veran-
+derliohen so transformieren, dass m der neuen Variablen htzohstens
+im gemeinschaftlisehen Faktor μ der Koefflzienten eintreten werden.
+Es seien die Formel dieser Transformation
+
+ae5=‹p5(y,...y,„÷1-„) (i=1‚2...n)‚ z=‹p(y,...y,„4„,)‚
+ΡωῡΞΨ-Ἡψμυῃὴῌ-Μ) j:1‚2...n—-m-.
+
+Setzen wir vorans, dass namlieh die Veranderliohen y, . . y„ nach
+dieser Transformation nur im gemeinschaftliohen Faktor μ euthal-
+
+ten sind (j=1, 2...n—m).
+

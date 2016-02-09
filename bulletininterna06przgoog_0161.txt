@@ -1,0 +1,50 @@
+143
+
+- Fig. 20. Coupe transversale d’une racine de pommier, faite tout pres d’une
+nodosite chenez-eune portes par cette raeine.
+
+Fig. 21. Nodosites chancreuses sur les recines d’un pommier de trois ans.
+La partie nontermino est agee de cinq ans. a, a -— bacteriose des-recines, pene·
+trent dans le trono de l'arbre.
+
+Fig. 22. Envahissement de l’eooree du poitier par la bacteriose venant de
+l’interieur de bois sons forme de raian longitudinum, provoquant la formation des
+cmx-asses de l'ecorce.
+
+Fig. 23. Coupe longitudinale‚ montrant la direction de la bacteriose dans le
+bois reconvert de l’ecorce crevassee.
+
+12. Μ. MARIE SMOLUCHOWSKI. Ο zjawiskach aerodynamicznych i towa-
+rzyszqcych im objawach cleplnych. (sur les phoenomena aet-ody-
+namiques et les effers tloermiqaes qui les accompaauent). Memoire
+presente par M. Lad. Natanson m. t.
+
+1. Equations fundamentales de l’Aerodynamique.
+
+ξ 1. L'Aerodynamique est restee tres en arriere de l'Hydro-
+dynamique qui, depuis lcs recherches fondamentales de Stokes‚
+de Helmholtz et de Kelvin‚ a fait des progres enm-mee, grace
+surtout Ξι 1’ἱῃ1;έι·ἓτ qu’elle a eveille chez les savants anglais (Lord
+Rayleigh‚ MM. Lamb‚ Love, Hioks‚ Reynold3,- Thom-
+son etc). En dehors de l'Acoustique‚ il n'y a que fort peu de cas
+particuliers (transpiration par des tubes Poiseuille‚ effusion par
+une ouverture dans une lame minoe, disques oscillants de Max-
+well et Meyer, resistance des corps projetes etc.) qui ·aient ete
+traites avec quelque approximation. tres vague quelqucfois3 mais
+pas une loi generale, pas une solution precise n'a cte trouvee jus-
+qu’a present.
+
+Les problemes les plus importante sont a peine αὔοι-(165, surtout
+en ce qui concerne les applicatione ξι l'aerostatique et a la meteoro-
+gie lesquelles par consequent sont plongees dans u1i etat d'empi-
+risme chaotique. ·
+
+C’est qu'on ne peut pas, en general, comme dans les calculs
+dc l'Hydrodynamique‚ regarder les gaz comme incompressibles et
+surtout que la compressibilite‚ determinee par ·la loi dc Boyle-
+charles, depend d'une nouvelle variable, dela temperatum, dont
+les variations jouent un' r61e aussi considerable que les differences
+de pression. Par consequent il faut ajouter, aux equations ordinaires
+
+nnuma 111. 4
+

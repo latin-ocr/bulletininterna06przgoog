@@ -1,0 +1,47 @@
+451
+
+Man kann alle vollstiindigen Integrale aus diesen Systemen von
+n—{—2 Integralgleichungen der Differentialgleiohung ,Ωο = Ο
+
+9⁴(xlo···P··⁰)=0 (i=1, 2···²²)›-F(2²1⁰···P-⁰)=02
+9²(x51⁰···p..⁰)= Ο
+erhalten, wo nur die Gleichungen
+94=0 (i=1, 2..n)
+
+01 .. . 0,, euthalten und in Bezug auf dieselben auflosbar sind. In
+der Tat die Gleiehung φ (41:1⁰ . . . μθ) = Ο 6011 von den willktlrliohen
+Konstanten 0„ (Γ, 0„ frei sein, da 616 (116 Relation zwisehen den
+Integrationskonstanten m? 2⁰ 1⁰⁶⁰ der 2n Integrale des Systems (B)
+bedeutet. wir zeigen jeta, dass wir immet voraussetzen kbnnem
+dass die Gleiehungen 6.=0 (i=1,2...n) in Bezug auf 01... 0„
+auflfisbar 661611.
+
+In der Tat es sei die Gleiehung cp: Ο, (116 kein Integral des
+Systems (Bl) ist und keine willkurliche Konstanten euthalt, mit den
+Gleiehungen (a) vertraglieh.
+
+Wir wissen (Nr. 6), dass in diesem Faue das System der n†2
+Integralgleiehungen der Differentialgleiehung Q„ = Ο
+
+03(x1⁰...p„⁰)=0(i=1‚2...n), F(x1⁰...p„⁰)==0,
+90(oe10- · Ν) = 0 (b)
+aus denen das Inte-gra} (a) erhalten werden kann, in der Form
+194(x1⁰...p„⁰)=0 (i=1‚ 2...n), F(x1⁰...p„⁰)=0‚
+φ (1⁶10· · ·10·⁰)= 0, (b')
+dargestellt werde-n kann, womit unsere Behauptung bewiesen ist.
+
+Wir haben also den Satz V:
+Sa-tz V. VVenn man die Differentialgleiehung
+
+Ωο = az„ - p10dae10. . . -- p„00iae„0 = o
+durch ‘n -1- 2 Integrale
+G‘(x1⁰...p„⁰)=0 (ir-21, 2...n)‚ F(x1⁰...p„⁰)=0,
+
+φ (2:1⁰ . . . p„⁰) = 0 (b)
+von der Eigensohaft, dass nur die n ersten Gleiehungen n willkur-
+116116 Konstanten 01 . . . C„ euthalten‚ in Bezug auf welche 616 auf-
+lesbar sind, und wo die Gleiehung φ = 0 kein Integral (166 Systems
+
+(131) ist, integriert hat, und wenn man die Grzsssen x? 20 p.⁰(i—-.-—. 1,2 . . . n)
+aus den Gleiehungen (b) und den Gleiehungen
+

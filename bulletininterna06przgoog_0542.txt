@@ -1,0 +1,49 @@
+718
+
+En appliquant 18 methodo oonnue de Diriohlet, q ui se simpli—
+fie essentiellement dans le eas considere, nous demon-
+trerons sans peine que φ (ξ, n) tend uniformement vers 18 h·-
+mite π, lorsque n croit indefiniment ¹).
+
+Supposons ensuite que ξ se trouve en dehors de l'intervalle
+(2²0 — η, xo -†— η) [eas 10 et 5⁰] et considerem, pour fixer les ideas,
+le eas 1⁰.
+
+On aura
+α>0, β>0,
+φ(ξ ²²)= ssssin (ΞίΞ-ὲ-ΙμάΖ-ῘΒΨῈΞἙΙᾺώ
+
+ 
+
+ 
+
+ᾶόὺ l'on eonolut que φ (ξπ) tend uniformementvers zero pour
+n = 00 81
+’ 0 < ξ < xo — η.
+On demontrera de 18 meme muniere que φ (x, n) tend aussi vers
+zero pour n = 00, lorsque ξ se trouve dans l'intervalle (x⁰ —f— η, 2π)
+[eas 5⁰], et oela independamment de 18 position de ξ dans oet in-
+
+tervalle.
+11 est aise de s'assurer enfin que dans les eas 20 et 4⁰ on 8
+
+{ig φ (5‚n)= ’ᾖ
+
+On voit dono que 18 fonction φ (ξ, n), definio par 18 relation (5),
+
+tend uniformement vers 18 fonction bien determinee φ, (ξ),
+lorsque n croit indefiniment.
+
+Quam: 8 la fonction limite φο (ξ), on peut 18 definii- par les
+conditione suivantes:
+
+⁹M5=0 μω· 0<ξ<ἣ-ῃ
+(1)οαῦεὲι pour emo—n,
+
+(8) &affl-:⁷³ pour ωο-η<ξ<ωο-1-η,
+φο(ξ)--7-2’ pour ξΞωο-ῐ-η,
+Ψο(ξ)ΞΟ pour xo†v<5<2⁷t·
+
+²) Compar„ par exemplo, E. picard: „Ti-tite d’Analym‘ Paria, 1901, Τ. 1‘
+p. 238 eto.
+

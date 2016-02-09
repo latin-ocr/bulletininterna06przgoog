@@ -1,0 +1,49 @@
+699
+
+die in Bezug auf die 714- 1 - m willkflrlichen Konstanten 01 ···Cn÷ Η..
+unabhangig sind, integriert und die Verflnderliehen 512„st 5⁰ 20 Pm45⁰
+aus den Gleiehungen
+
+Φοι (xm÷1⁰...oe„020p„.÷1⁰...p„⁰)=0‚ 1⁴3(h1..12‚„ae„.÷10..p„0).-.=O
+
+(a=1‚2...n—†—1-·m, i=1‚2...m)
+
+und den 2714-1———m Hauptintegralen in Bezug auf :cst-:p¹ (i= 1, 2..m)
+der Differentialgleiehungen der Matrix (Bl) eliminiert‚ 6ο wird man
+das gemeinsame vollstandige Integral der partiellen Differentialglei-
+chungen (Ι) erhalten. Alle vollstandigen Integrale konnen in dieser
+Weise erhalten werden. Wenn dieses Integra] es im gewsshnlichen
+Sinne sein 6011, 60 6011 aus den Gleiehungen (f) nur eine Relation
+zwisehen :1:4⁰ 20 fulgen.
+
+Diese Methode kann die Cauchysohe Methode der Integration
+der partiellen Differentialgleiehungen genannt. werden.
+
+5. Wir seben, dass die Bedingung3 dass λήξῃ-ΡΙ) partie-lle
+Differentialgleichungen (1) ein vollstandiges System bilden oder zu
+einem solchen von m<n —l— 1 Gleichungen sich redueieren lassen.
+nicht nur notwendig. sondern auch hinreiehend ist, damit sie ein
+gemeinsames Integral besitzen3 wobei das vollstfindige System der
+m partiellen Differentialgleiohungen ein vollstandiges Integral mit
+n ÷1 ——m willkurliehen Konstanten besitzt. Die-,se Theorie zeigt‚
+dass es bei der Integration der Differentialgleiehung
+
+dez-—pldoe1—...—p„dx„=0
+
+m<n—†- 1 Integrale
+1¹}(x1...x„2p1...p„)=0 (i=1‚2...m)
+
+willkurlieh anzunehmen miiglieh ist, die nur die Bedingung erfullen‚
+dass sie ein vollstnndiges System bilden oder zu einem solehen von
+m<n-{— 1 Gleichungen sich reducieren lassen. Es ist- klnr, dass
+n-†—1 Integrale der Differentialgleiehung Ω--Ο ein vollstandiges
+System bilden. Es folgt leieht daraus die Jacobisohe Methode der
+Integration einer oder des Systems der partiellen Differentialglei-
+chungen.
+
+6. Diese Theorie ‘euthalt in der rein analytischen Form die
+Ergebnisse der analytiseh-geometrischen Untersuchungen von S. Lie
+(M. Ann. Bd. 9). Wir werden uns beschrzmken. die ha'uptsaehlich-
+
+sten Satze in der F orm von S. Lie darzustellen.
+

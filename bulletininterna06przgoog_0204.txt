@@ -1,0 +1,44 @@
+186
+
+En appliquant 168 equations (1) aux directions ζ, ξ, η, 011 8111·8 16
+systeme:
+
+S’P ΘΦ
+ὂζή = μΔῗυζ -- ε ἔ-
+(5) ΞέεμΔῖυξ -εέζ
+&P ΞΦ
+ἔη- -ε-μΔῗυη-εὸη-
+
+Pour mettre mieux en evidence 18 signification de P, derivons les
+equations (5) par rapport 8 ζ, ξ, η, 06 qui donne, eu egard ὲ, 18
+condition d'ineompressibilite et ὸ, l’equation A² Φ = 0:
+
+(6) A'P = - ἕξ ἐξ
+
+tandis qu'en operant d'une muniere analogue sur les equations (l)
+on aurait
+
+(⁷) A²1⁰=-3}({}÷}})·
+Puisqne 18 derivee ἒξ devient zero 8 18 surfaee des parois iso-
+
+lantes, le eourant electrique ayant une direction tangente, elle aura.
+11116 valeur de l’ordre ὁ (18118 18 00110116 (16 passage. Nous en con·
+01110118 oeci: en dehors (16 18 conche, P est'identique 8 18 pression
+hydraulique p3 mais, tandis que p subit une variation brusque
+
+(de l'ordre ἐξ) (18118 068 eouehes, 8 081186 (16 18 pression electro-
+
+statiqueJ 18 grandeur P ,611 est approximativement depourvne3 il y
+reste seulement 168 termes d'ordre plus petit qui ne peuvent pro·
+duire qne des different-,es finies de P (18118 168 divers points de 18
+00110116.
+
+§ 4. Envisageons maintenant 168 equations (5, 2), (ὃ, 3) et re-
+
+marquons que les forces tangentes ἒξ, ἐξ sont finies, par 001186-
+quent les termes de droite ont une valeur de l'ordre δὲ, ceux (16
+
+gauehe sont finis. Dono² en multipliant ees equations par ζ et en
+les integrant entre les limites Ο et ὁ, 011 fera disparuitre les termes
+de ganche:
+

@@ -1,0 +1,53 @@
+ 
+
+‘102
+
+eine von vornherein gewahlte Funetion der y, .. . ,y2,. r 1-,„ z. B.
+19u=y1 sein wird. Wir werden dann
+
+0
+
+μ ενι-9130
+
+με)
+
+haben. Wenn wir diese Gleie-hung auf die ursprunglichen Variablen
+ηερ, transformieren, so folgt aus derselben und aus den F ormeln
+der Transformation infolge der Unabhangigkeit der Variablen
+y¹ .. ‚y2„ ÷ 1-m noch n -- m Gleiohungen. die zusammen mit der
+Gleiehung
+
+311 -· 3110
+
+e =0
+und den Gleichungen FAx, .. . p„)=0 (ξιτ-1, 2...m) ein System
+der n —-}— 1 Integrale der Differentialgleiehung Q=O d. h. ein ge·
+meinsames Integral des gegebenen Systems in Involution (Ι) bil-
+den. VVenn dieses Integral durch die Null-Setzung
+
+dz⁰ — p1⁰dz1⁰ - . . . - p„0doe.,⁰ = 0,
+
+wo Fa(³³1⁰···Pn⁰)=0: oe1(x1⁰...p„⁰)=0(i=1‚2...m)nie.ht er-
+halten werden kann, so neunt man das singulare Integra] des Sy-
+stems (I) in Involution. Das System (I) kann hochstens ein singu-
+lares Integra} besitzen. Die Eigensehaft der Singularium ist inva-
+riant gegen alle Pfaffsehen Transformationen.
+
+2. Alle gemeinsamen Integrale des gegebenen Systems in In-
+volution (Ι) Κίἱῃηθιι aus einem vollstandigen Integrale dex-selben
+erhalten werden. Es sei das vollstandige Integra] des Systems (Ι)
+
+&2(ae2...oe„zp1...p„C1 ...C„÷1-„,)=O‚ F‘(ael„,pu]=0
+(g) (i=1‚2...n1‚ a=1‚2...n-{—1-m)
+
+vergelegt. Es folgt aus diesen Gleiohungen eine oder mehrere Re-
+lationen zwisehen miz z. B.
+
+z=f(aek÷1...ae„), ae2=fi(aek÷1·-·x„) (i=1‚2...k].
+
+Wir kennen dann das Integral (g) in der Form
+
+Hzf-P1f1-····“Pkfk=²—221P1-···—·‘²²kP¹=⁷
+(g) ΦςΞ--Ξξ, PBH-:⁸325 (i=1‚2..k‚ j=1,2..n—k),
+⁸ J
+

@@ -1,0 +1,41 @@
+668
+
+und das System der gewfihnliohen Differentialgleiohungen (A) ist
+ein unbesohrankt integrableS. Die Formeln der Transformation
+
+ξεἰ’’τ(Ρι(3ίι···3Ι·πι-ὶ”ι--ιιι) (i=1,2...n)‚ 2=W(.²l¹···.²l²n-{-¹—m)e
+Pm÷4=²p··÷2·(!l1···ynu÷1-m) (j=1,2...n——m)‚
+
+die diesen Gleiehungen bei den konstanten Werten der ym419.. ymb„
+geuugen‚ haben die Eigensehaffi dass der Differentialausdruck
+
+Ω’ = dz — Θμίετ, ν- . .. -- &mdxm — pm†,doem4, — ...— p„doe„‚
+wo ”
+[Px-(922 P22-QJ =0
+Ρ), ··—· Θ).
+Pu '² Θμ
+ist, nach dieser Transformation die Variablen y ..... y„ hfiehstens
+
+im gemeinschaftlichen Faktor μ der Koeffizienten euthalt.
+
+Wir werden diese Transfer-madon die Pfaffsche Transformation
+fur den Differentialausdruok ,Q‘ nennen.
+
+Wir werden der grbsseren Symmetrie halber noch diejenigen
+m Gleiohungen hinzufugen, denen die Grossen p ..... p„ geuugen‚
+die mit Hilfe der Gleiohungen
+
+pf—Osssscv..x„zpm÷,...p„)=0 (i=1‚ 2...m)
+
+als Funktionen der y1....y,„÷,-m ausgedruckt sind, vorausgesetzt,
+dass ym41...y,„4„m als Konstanten zu betraohten sind.
+Wir seben, dass
+
+ist, wenn wir die Bezeiehnung der Formel (a) benutzen.
+Wir erhalten infulge dieser letzten‚ dass
+
+022012 jqpss-Q-Q] ι <22³2
+
+pss=Oss
+εΣβῇβ-θᾎψι-ΘᾸ ἀπβ-ΉΣβ ἒῖ-ῗ--Ι-Θνὲ-ἓᾙεβ
+

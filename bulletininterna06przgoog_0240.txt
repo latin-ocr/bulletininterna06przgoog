@@ -1,0 +1,54 @@
+442
+
+lesbar sind, so bekommt man naeh der Elimi'nation derselben das
+Integral f (z τι . . . (ιχ) ·- Ο der Differentialgleiohung (1).
+
+Wenn es dagegen nieht der Fau ist, so stellen diese n -Ι- 1 In-
+tegralgleiohungen der Differentialgleiohung Ω Ξ Ο das Integral der
+Differentialgleiehung (1) im erweiterten Sinne von S. Lie dar.
+
+Die in dieser VVeise erhaltenen Integrale nennt man niehtsingular.
+
+W'enn 'wir nun beaehten‚ dass die Relation φ (⁵⁶1⁰ . . μθ) Ξ 0 nur
+kein Integral des Systeme der Differentialgleiehungen (132) sein soll
+und im ubrigen ganz willkurlieh bleibt‚ so kbnnen wir den folgenden
+Satz II aussprechen.
+
+Sa-tz ΙΙ. Um die niehtsingularen Integrale der gegebenen Diffe-
+rentialgleiehung zu erhalten‚ soll man die Differentialgleiehung.
+
+90=d20—-p1⁰dx¹⁰—- ...-—p„⁰doe„⁰-·=0
+
+mit Hilfe irgend eines Systems der n -†— 2 Gleichungen integrieren‚
+die nieht alle die Integrale des Systems der Differentialgleiehungen (131)
+sind und deren eine die gegebene Gleiohung F(x1⁰ ωηο z⁰p1⁰ .. .p„⁰) ΞΟ
+ist. Es sei ein solehes
+
+Θι (501⁰ · · · x„⁰z⁰ - · ·P..⁰) = O, φ (101⁰. . .x„⁰z⁰pl⁰ . . .p„⁰) = Ο
+(Ε) Ε(ω,0...ρ,,ο);ο,
+
+wo φ (³:1⁰ . . ,ωηο 2⁰ 2²1⁰ . . . μθ) Ξ Ο kein Integra] der Differentiel—
+gleiehungen (Bl) ist. Man bekommt das Integral der Differential-
+gleiehung (1), wenn man die Grbsse x10...x„⁰z⁰p1⁰...p„⁰ aus den
+Gleiehungen ’
+
+(Ε) 63(x1⁰...x„⁰z⁰p1⁰...p„⁰)=0‚ (i=1‚2...n)
+‹p(x1⁰...ae„⁰z⁰p,⁰...p„⁰)=0‚ F(x,⁰....p„⁰)=0‚
+
+und
+
+x4=x4(ae1x¹⁰....p„⁰)=0(i=2...‚n), z=z(oe1oe1⁰....p„⁰),
+
+(a) p,=p4(oe1x,⁰....p„⁰)=0(i-=1...n),
+
+eliminiert, wo die letzten 2η Gleiehungen (α) die Hauptintegrale des
+Systems (131) im Bezug auf x, :³51⁰ sind..
+
+Was jetzt das System der n -†— 2 Integrale der Diffeiential-
+gleiehung ,Ωο Ξ Ο mit den vorgeschriebenen Eigensohaften betrifft,
+so kann man den folgenden Satz III beweisen:
+
+Satz ΙΙΙ. Um alle Systeme der η-Ι-2 Integralgleiohungen der
+Differentialgleiehung 520 ΞΟ zu finden, die nieht alle die Integrale
+des· Systems (131) sind und deren eine die gegebene Form
+

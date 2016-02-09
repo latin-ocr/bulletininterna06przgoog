@@ -1,0 +1,62 @@
+725
+
+8. Supposons maintenant que· la fonction F (x) soit continue-en
+tous les points de l’intervalle (0, 2π), 8’881;-8-ᾶί1·8 qu'il existe 1111
+nombre positis ὅ tel qu'on ait pour toutes les valeurs de x (18118 l’in-
+tervalle (0, 2π) et pour tontes les valeurs de h dont 18 1118ᾶι118 reste
+inferieur 8 ὁ
+
+¹F(:1:-†- h)—F(ae)1 < ε.
+
+ε etant un nombre positis, donne 8 l'avanee.
+Appliquons 18 theoreme precedent 8 88 888 particulier.
+
+‘Dans l’hypothese‚ faite par rapport 8 F (x), on peut choisir 18
+nombre η independamment de 18 position du point x dans un inter-
+valle queleonque (a, β). interieur ὲ, l'intervalle (0, 2π); il en sera
+(18 meme, par consequent, du nombre ν.
+
+D'autre part, (18118 18 888 considere, on 8
+
+Fe. ζωῷ-28 F<oe :02 = mx),
+
+L'inegalite (27) 88 reduit 8
+.Sv·—F(oe)! <2ε, (29)
+
+οὺ 18 nombre positif η, assez petit, et le nombre ν, assez grand,
+restent 188 memes pour tous les points de l’intervalle (a, β).
+
+011 peut (10118 811811881· 18 theoreme suivant:
+
+Theoreme. Si F(ae) est une fonction continue en tous
+
+ 
+
+les points de l'intervalle (0,2π), 811 peut, 18 nombre
+positis ε etant donne ὲ, l'avanee, trouver un autre
+nombre positis η, suffisamment petit, et un entier ν,
+suffisamment grand, et construite ensuite une serie
+trigonometrique finie
+
+ν .
+S„ εἶ) -1s- 27 5¹21}ss (a, 8ο8Ῐεω-1-ὂι8ἱ11 kx)
+nn!
+
+ 
+
+telle que 18 fonction F(x) puisse &tre representee par
+S„ aveo l’approximation (18111188 8 l'avance 23 en tous
+les points de tout intervallo (a, β), interieur 8 l'in-ter-
+valle (0, 271).
+
+C'est un theoreme. analogue aux theoremes de M. Picard et de
+Weierstrass.
+sinkn
+
+Si nous remplaqons dans S„ le facteur βίη
+
+ 
+
+par r* (0< r<1)‚
+6*
+

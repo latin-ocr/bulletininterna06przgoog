@@ -1,0 +1,49 @@
+691
+
+wo φ,(ω,”.. .p„⁰)=o (i=1‚2 ...m) ist. Wenn wir umgekert in
+die Gleiehungen (g) statt πῶϋ, pi, z ihre Werte (α’) einfuhren, so
+bekommen wir die Gleichungen (Ρ), wo φάκιθ. . .p‚,⁰) == Ο ist. Wir
+kbnnen diese letzte Transformation in folgender Weise ausfuhren:
+da die Gleiehungen (g) nach der Transformation die Veranderli-
+chen x, . ..ae¹¹² nieht enthalten‚ so kbnnen wir dienen letzten in den
+Gleichungen (g), sowie in den Formeln der Transformation (α’),
+willktirliche Werte beilegen. Wir wollen statt a: ..... x, diese
+· VVerte der x,⁰...x,„⁰ einsetzen‚ die den Gleichungen
+
+<P‹(x1⁰·--x⁰mx⁰„.÷1---p„⁰)=0 (i=1‚2...m)
+geuugen. Die Formel der Transformation gehen dann in
+xmff-a‘ Ξ (του-Η, Pa Ξ Pto Ζ = 20
+
+iiber. Wenn wir als'o in den Gleiehungen (g) statt x,...p„ die
+VVerte x10...p„⁰‚ wo ‹p1(x,⁰. .. p„⁰) =0 (iz 1,2 . ..m) ist, einsetzen,
+so bekommen wir die Gleiehungen
+
+1902(1v1⁰··-p..⁰)=0-. h;(x1⁰..p„⁰) == 0 (ε’)
+(a=122..n-}—1—m‚ i=1,2...m)
+
+wo oe5(ae‚⁰...p„⁰)=0 (2⁶:122. ..m) ist. Wir sehen 8180, dass die
+Gleiohungen (f‘) und (g‘) identinch sind. Dieser Sehluss ist riohfig,
+insofern wir die oben erwahnte Substitution der Werte von
+x,⁰...p„,⁰ ausffihren kssnnen, (1. h. insofern die Gleichungen (g') und
+die Gleiehungen
+
+m5(x,...p„)=0 (ἰ--1,2...ηε)
+
+vertraglioh sin‘d. Es folgt darana, dass die Gleiohungen
+
+62(oe,...p„)=0‚ E(oe1...p„)=07 oe5(ae,...p„)=0 (f)
+(a=1,2...m—{—1—m, i=1,2...m)
+und die Gleichungen
+3a(ae,...p„)=0, 1‹;(ae,...p„)=0, 00,(ae,...p„)==0
+(a=1‚2...n—{-1-m,i=1‚2...m)
+identisoh sind, insofern die Gleiohungen
+
+192(x,...p„)=0 F‚.(x1...p„)=0 (a=1,2...n-†-1-—m‚ i=1,2...m)
+
+infolge der Gleiohungen ‹p,.(ae,...p„)=o (iz- 1,2 . ..m) nicht illu-
+
+soriseh werden. Wir gehen nach dieser Bemerkung zu den Inte-
+
+gralen im gewbhnlichen Sinne des Systems in Involution (I) uber.
+annena 111. 4
+

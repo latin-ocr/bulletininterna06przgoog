@@ -1,0 +1,49 @@
+6
+
+1111118611 Ζ611611 und Kolonnen der gegebenen Det-erminante gebildet
+
+’ sind sowie die Summen der ersten Hauptunterdeterminanten jeder
+
+dieser Hauptunterdeterminante m—{-2““ Grades 8161611 Ν1111 sind, so
+sind alle Unterdeterminanteu ‘nt—kp* Grades der gegebenen Deter-
+minante gleieh Null. In der Tat folgt aus (16111 86166 11, dass alle
+Unterdeterminanten m÷1ffl⁸ Grades der erwahnten Hailptunterdeter-
+minanten mei—2⁸⁰¹ Grades gleieh Null sind3 es sind also alle Unter-
+determinanten naq-1⁸²³· GradeS, welche durch Hinzufugung zur Matrix
+der nieht versehwindenden Hauptunterdeterminante m“¹² Grades der
+Elemente von den tlbrigen Zeilen und Kolonnen der gegebenen
+Determinante gebildet sind, gleieh Null. Es folgt daraus nach dem
+bekannten Satze von L. Kron e eker, dass alle Unterdeterminanten
+m-†-1“'' Grades der gegebenen Determinante gleieh Null sind.
+
+Fur den Fan der sehiefen symmetrisehen Determinante geht
+dieser Satz in den Satz von G. Frobenius uber: wenn alle
+Hauptunterdeterminanten 2η-ἹΙ-2ω· Grrades5 welche durch Hinzuffigung
+zur Matrix der nieht versehwindenden Hauptunterdeterminante 2n⁸⁰¹
+Grades der Elemente von je zweien aus den 1111118611 Ζ611611 und
+Kolonnen der sehiefen symmetrisehen Determinante gebildet sind7
+gleieh Null sind, so sind alle Unterdeterminanten 212 —†- 1“·· Grades
+
+8161611 Null (l. 6.).
+
+Satz VI.
+
+Wenn alle Hauptunterdeterminanten m—}-2“'¹ Grades der sym-
+metrisehen oder der sehiefen symmetrisehen Determinantv sowie
+die Summen der ersten Hauptunterdeterminanten m -ξ- 1e m -- 1. . „¹”
+Grades jeder Hauptunterdeterminante m —†- 2, m, . . . .'“‘ Grades 8161611
+Null sind, 6ο 6111(1 alle Unterdeterminanten τιτι-1- 1”” Grades gleieh
+Null. Wenn 1116111 alle Hauptunterdeterminanten m‘wGrades 8161611
+Null sind, 66 161 dieser Satz naeh dem Satze V bewiesen. Wenn
+aber alle Hauptunterdeterminanten 711¹“¹Grades gleieh N ull sind, nieht
+aber alle ort—2¹⁰⁸ Grandes,⁷ 6ο sind naeh dem Satze V alle Unterdeter-
+minanten. m —1“'¹ und also wz-†—1“'¹Grades 8161611 Null u. 6. w.
+
+Es geht dieser Satz fiir den Fall der sehiefen symmetrisehen
+Determinante in den Satz von G. Frobenius iiber: Wenn alle
+Hauptunterdeterminanten 2n÷2⁶⁰¹ G‘rades (161· 6611161611 symmetrisehen
+Doterminante gleieh Null sind, so sind alle Unterdeterminanten
+aeq-1²⁰⁸ Grades 8161611 Null 11. 6.).
+
+Wir 6611611 aus diesen Siitzen‚ dass (116 Bedingung. dass namlieh
+

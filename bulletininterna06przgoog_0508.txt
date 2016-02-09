@@ -1,0 +1,47 @@
+686
+
+l 9 μ eine von vornherein gegebene Form z. Β. 19μ = y1 11811611
+wird. Dann wird
+
+μ .- eyl *— y1⁰
+μο
+sein und infulge (161 Unabhangigkeit (161 Veranderliohen y1 . . . .
+
+y2„41.-„. einen ganz willkurlichen Wert haben. Wenn wir also
+die Gleichungen
+
+Oa (x10...p„⁰)=0 (a=1,2...n-{-1-—m)‚
+
+wo E(x1⁰....p„⁰)=07 Q,(x1⁰....p„⁰) ---Ο (i=1‚ 2...m) ist,
+mit Hilfe der Formel (161· Pfaffschen Transformation auf die ur-
+sprflnglichen Variablen σε, z p⁶ transformieren, so bekommen wir
+n. -1- 1 - m Gleiohungen
+
+8oe(x1...p„)=0 (a=1,2...n-{—1—m)‚
+
+wo EQ:1 ...p„)=--0 (ir-1, 2...m) ist, die n-†—1—m Integrale
+der Differentialgleiohung 9¹ =O sind. Die n -}-1 Gleisshungen
+
+θα (11...p„)=o (oe=1,2...n—}—1—-m),
+F,(x1---p1)=0 (i=1‚2...m)
+
+sind also ein gemeinsamos Integral der partiellen Differentialglei-
+6118118611 (Ι) 88(1 (1). Wenn wir noch darauf aufmerksam macheu,
+dass wir bei der Transformation nur die Formel (8), die das Sy·
+stem der Hauptintegrale der Differentialgleiohungen der Matrix
+(Bl) sind, benutzen, so ki'mnen wir (168 Satz V aussprechen, in-
+dam wir das in dieser VVeise erhaltene gemeinsame Integral nicht-
+singular nennen: ’
+
+Satz V. Um das gemeinsame niehtsinguliire Integra] der
+m < 8-1- 1 partiellen Differentialgleichungen (Ι) in Involutiqn zu
+erhalten, bestimme 111811 ein System n-†—1 —†-m Integrale (161 Dif-
+ferentialgleichung
+
+90=d20-p10doe10—...—p„⁰doe„⁰=02
+62(x1⁰...p„⁰)=0 (a=1,2...n-†—1—-m)‚
+(f) E(x1⁰...p„⁰)=0‚ ‹p,-(x1⁰...p„⁰)=0 (i=1,2...m)‚
+
+das m 8686116868 Gleiehungen (I')
+·F,·(xl⁰...p„⁰)=0 (i=1‚2...m)‚
+

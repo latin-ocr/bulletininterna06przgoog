@@ -1,0 +1,45 @@
+689
+
+wo F} (κβ . . .p„⁰) = O ‹pdxf . . . = Ο (i = 1, 2 . . . m) ist zwei Systeme
+der Formeln der Pfaffsehen Transformation des Differentialausdru-
+ekes Q', so dass
+
+ρἐἐψω -- 20:²⁰ dx,⁰⁰—... - p„⁰⁰ dx„⁰⁰)
+wo 1¹}(x,⁰⁰...p„⁰⁰)==0 gvi(oe,⁰⁰...p„⁰⁰)=0(i=1‚2...m) ist, und
+,Q‘=fl{(d20 —pf (1ωο- ...—p„⁰ doess),
+
+wo R(.v1⁰...p„⁰)=0. ‹p4(x,⁰...p„⁰)=0 (i=1,2...m) ist, ist. Es
+existieren offenbar die Formeln der Transformation der neuen Va-
+riablen des einen Systems auf die neuen Variablen des anderen.
+Wenn wir mit t,÷, . .. tffidnj„ die unabhangigen Grssssen aus den
+<⁶1⁰⁰ 8001)βο und mit yu÷ ..... y„41„„ diejenigen aus den ³³1⁰ zo p? be-
+zeichnen, so wissen wir, dass tm÷ ..... tffib„ die Funktionen der
+y„÷,‚ . .. y„„4„-„ sind. Diese letzten F ormeln transformiren die Glei-
+ehung
+
+0120„ —p,⁰⁰dae,⁰⁰-...-p„⁰⁰doe„⁰⁰=0‚
+
+wo F÷(x1⁰⁰ . . .p„⁰⁰) = Ο, ψί (2:1⁰⁰ . . . p„⁰⁰) = Ο (i = 1, 2 . . . m) ist, auf
+die neue
+dzo—p,⁰dx,⁰—...—p„⁰doe„⁰=0
+
+wo E(x1⁰...p„⁰)=0, m‘(x,⁰...p„⁰)=0 (i=1‚2...m) ist. Es folgt
+(181·888, dass n †= 1 -- m Integrale
+
+62‘(x,⁰⁰...p„⁰⁰)=0 (a=132...n-}—1—m)
+
+wo R(:c,⁰⁰...p„⁰⁰)=0‚ wf(oe,⁰⁰... p,⁰⁰)=0 (1:1, 2... m) ist, der
+ersten in die n —f— 1 — m Integrale ΘΩι (³³1⁰ . . . . μθ) z Ο, wo
+R(oe1⁰....p„⁰):O. Q(x,⁰. ...p„⁰):0 (i=1‚ 2....m) ist, der
+zweiten mit Hilfe dieser Formel ubergehen. Es ist klar, dass wenn
+wir diese letzten auf die ursprfinglichen Variablen ηερ. transfor-
+mieren, so bekommen wir die Gleichungen
+
+3¹2(x,...p„)=0 (a=1‚2...n†1—2n)‚
+
+wo b} (xl. .. p„) =0 ist, die n—{- 1 ——m Integrale der Differential-
+gleiohung ,Q' =0 bilden. Wir schliessen daran-⁴1, dass das nicht-
+singulare Integral der partiellen Differentialgleiehungen (I)
+
+192(:c1..p„)=0‚ R(x,..p„)=0 (a=1,2..n—{—1—m‚ i=1‚2..m)
+

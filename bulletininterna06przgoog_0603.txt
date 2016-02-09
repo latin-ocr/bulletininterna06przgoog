@@ -1,0 +1,49 @@
+649
+
+von der Besohaffpnheit, dass (118 Gleiohungen
+[F,., RJ=O (i‚j=1‚2...m)‚
+
+wo pa = ἔξ- ist, (118 Folge (181· ersten sind.
+2
+
+Die m erhaltenen Gleichungen
+R(x,...x„zp,..-P.)·=O (i=1,2...m), (I')
+
+stenen in der grossten Anzahl m (118 Integrale 8118 (18111 Systeme
+(A) der n—}-1 Integrale der Differentialgleichung Ω =0 dar, die
+ohne die Integration erhalten werden 1ιό1111811, (18, wie- wir uns spa-
+ter iiberzeugen werden, die ubrigen n—{—1 — m Integrale aus dier-
+sem Systeme (A) nur durch die Integration erhalten werden 11611-
+11811. wir 8811811 (181·8118, (1888 (118 notwendige Bedingung dafur, (1888
+(118 888811811811 k Differentialgleichungen ein 8811181118811188 Integral.
+haben, (181·111 118818111, (1888 (118 Anzahl m der so erhaltenen Diffe—
+rentialgleiehungen (Ι) (118 Ζ8111 π-Ι- 1 nieht Uberschreite. Wir wet-
+den 8811811, (1888 (11888 Β8ᾶ111811118 auch hinreichend ist.
+
+3. Wollen wir jetzt ubergehen zur Bestimmung der ubrigen
+n—}-1 ——m Integrale aus (18111 Systeme (A) im Faue m < n-†-1‚
+und zum Beweise, dass die Gleichungen (I‘) im Faue m = γεῆ-1
+8811011 (188 881118111881118 Integral der Differentialgleichungen (1) bilden.
+
+Wir 8811811, (1888 (118 Integration der 888811811811 Differentialglei-
+chungen (1) auf die Integration der m(lc<m <n -†— 1) Differen-
+tialgleiohungen (Ι) von der Beschaffenheit, dass (118 Gleiehungen
+
+μζ, lvd-o (j, -z--1. 2...m),
+
+wo Pa == {g- ist, die Folge der Gleichungen(1) sind, hinauskommt.
+
+Das System der Differentialgleiohungen (Ι) von dieser Beschaf-
+fenheit heisst 8111 ν()1181;ὶ111(11888. .Ῑ8(188 System der Differentialglei-
+ehungen (1) kann nur (181111 8111 8811181118811188 Integral haben, wenn
+88 8111 νο118ῐ811ᾶ1888 ist oder wenn es sich auf ein 80181188 111 (181·
+011811 8888181811 Weise redueieren lasst
+
+Wir werden zuerst 8111188 Eigensehaften des vollstandjgen Sy-
+8181118 (Ι) 8118811811. Wir werden (181181 111111181· voraussetzen‚ dass (118
+111 Betracht kommenden Lsssungen (188 Systems (I) einfach sind.
+
+a) Das vollstandige System (I') geht nach (181· ΑυΗὸ811118 111
+
+Bezug auf irgend welche m der Grossen xi, z, Px wiederum in 8111 voll-
+

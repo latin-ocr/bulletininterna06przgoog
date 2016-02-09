@@ -1,0 +1,43 @@
+692
+Wenn die Glechungen
+
+(g) 32(x,...p„)=0‚ R(x,...p„)=0
+(a=1,2...n—{—1—-m‚ i=1,...m)
+
+das gemeinsame Integral im gewfihn'lichen Sinne des Systems (Ι)
+(1818161168, so folgt aus 11111611 11111 61116 1181811011 zwischen πίε. Dieses
+Integral ist nur daun moglich, wenn aus den gegebenen (1181811011-
+gen (1¹) hsschsten eine Relation ενι-’18811811 xffz folgt. Wenn 88 61116
+8018116 gibt und z den gegebenen Gleiohungen geniige leistet, 8ο
+181 (11688 8111 einziges gemeinsames Integra] im gewohnlichen 8111116,
+Wir werden im folgenden voraussetzen, dass die gegebenon Glei-
+chungen (I‘) in Bezug auf m der pi unabhangig sind. Das ge-
+meinsame niehtsingulare Integral im gewohnliehen Sinne kann aus
+diesem System der ‘te—fl -†—m Integrale der Differentialgleiehung
+[2on erhalten werden, das nie mehr als ττι-1- 1 Relation zwi-
+8811611 xi z enthfilt.. In der Tat wenn die Gleichungen φὶ (1,, . . . pst = Ο
+(ι’ = L 2. .. m) keine Integrale der Differentialgleiehungen der Ma-
+trix (131) sind und wenn die Gleiehungen (g) infolge dieser nieht
+illusorisch werden, so konnen wir das Integra] im gewffihnlichon
+Sinne (g) aus dem Systeme der n-{—1 »1- m Integrale der Differential-
+gleiehungen Q„ -- Ο 8111811611, das die Gleiehungen φ, (21⁰ . . .p,⁰) = 0
+(i= 1,2... m) enthalt. Dieses System hat infulge der oben ge-
+mae-hten Bemerkung die Gestalt:
+
+292(x1⁰...p„⁰)=0‚ F,- (x1‘'...p„⁰)=0‚ Q(x,⁰...p„⁰).-=O
+(a=1‚2...n†1—-m‚5:122...m).
+
+womit 11118816 Behauptung bewiesen 181. Da die n 4- 1 ersten
+Gleiehungen die Integrale der Differentialgleiehungen (le-r Matrix
+(B1)sind, 80 seben wir, dass (118 111 18181611 Gleichungen‚ die keine
+Integrale dieser Differentialgleiehungen sind. ohne diese Eigenschaft
+zu verlieren, frei von pf . ..pm0 gemacht werden konnen.
+
+Umgekehrt, man 61111111 11111 Hilfe des Verfahrens des Satzes V
+ein gemeinsames Integral im gewsshnliehem Sinne aus dem Sy-
+8181116 (f) der u —}- 1 —{— m Integrale der Differentialgleirhungen
+Qozo, das nie mehr als m—{—1 Relationen zwisehen x? 20, deren
+m keine Integrale der Differentialgleiehungen der Matrix (131) sind.
+enthiilt. Vor alle-111 861 110811 bemerkt: wir konnen 724— 1 Integrale
+(168 Systems (f)
+

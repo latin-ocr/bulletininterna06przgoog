@@ -1,0 +1,46 @@
+456
+
+Der Satz ΠΙ geht in folgenden Satz. uber:
+Wenn man das System n 4— 2 Integralgleiehungen der Diste-
+rentialgleiohung ,Ωο = 0 von der Form
+
+6¹(x10...p„⁰)= 0, (5:1,2...n)‚ Βρεμι. . .p„⁰)=0‚
+
+xlo=h({}]‚=1-o)‚
+
+wo h den gegebenen Wert hat, erhalten will, so soll man die Dif- ’
+ferentialgleiohung
+
+ἀει) -Ϋρῼᾶεῆθ —- . . . —p„⁰dz,⁰ = 0
+dumh irgend ein System der n Gleiohungen integrieren und danh
+die Gleichungen
+F(x1⁰. . ‚11:„0202210 .. .p„0)-.==0, ³:1⁰:
+
+hinzufugen. Also der Satz H nimmt schliesslioh die Form an:
+Um alle niehtsingulfiren Integrale der Differentialgleichung
+
+F = 0, wo {F -1- Ο ist, zu bokommen‚ soll man die Differential-
+
+cp1
+gleichung
+
+dzo -p20dx,⁰ — . . . —- ‚10··⁰d2·⁰ = Ο
+durch irgend ein System von n Integralen
+84(22⁰...p„⁰)=0, (i=1‚ 2...n),
+integrieren und daun die Grffflsse
+⁵⁶2⁰· . . x„⁰z⁰p1⁰ . . ,μθ
+aus den Gleichungon
+
+6.(x‚⁰...p„⁰)=0, (i=1...n), F(h...p„⁰)=0‚
+x4=ae‘(ae1hx,⁰...p„⁰)‚ (i=2...n)
+z=z (oe1hoe20...p„0)‚
+pi=p,(ae1hae,⁰...p„⁰)‚ (i=1...n)‚
+wo 2n letzte Gleiohungen 2n Hauptintegrale des Systems (131) in
+
+Bezug auf τι = h sind, eliminieren.
+Satz IV. Wenn man die Differentialgleiehung
+
+d20—p20d220—...—p„⁰doe.⁰=0
+durch n Integrale
+tp(x2⁰..x„⁰z⁰)=0‚ 8.(aeg⁰...x„⁰z⁰..p„⁰)=0 (i=1, 2..,n-1),
+

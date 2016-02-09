@@ -1,0 +1,44 @@
+476
+
+’ tees a une certaine 'hauteur du soleil. Cette table (qui faute de
+place n'a pu etre reproduite ici) presente une importance de premier
+
+ordre pour les buts exposes ci-dessus et sert regulierement a operer
+Α 11116 des reductions les plus essentielles.
+
+ξ 2. A c6te de la reduction a la hauteur il y a la reduction
+de l'insolation a la distance moyenne entre la terre et 16 solei13 on
+opere cette reduction tres importante afin d'eliminer l'influence des
+variations que cette distance subit au cours (16 l’annee. Au lieu de
+la distance, il est plus commode d’employer a cette fin le diame-
+tre apparent du soleil indique dans les Annuaires astronomiques
+(ou plutsst la moitie de ce diametre ρ); 611 designant par α la va-
+leur moyenne du rayon apparent du soleil, nous obtenons comme
+facteur de la reduction de l’insolation a la distance moyenne
+
+Dans 16 perihelie ce facteur est egal a 0-967 et dans l'aphelie
+a 1·034f Conformement a ceci il faut dans le premier cas diminuet
+la valeur de l'insolation (16 3·3⁰s0 et dans 16 second l'augmenter de
+3·4⁰l0. On avait calcule ce facteur pour Varsovie dans les inter-
+valles de cinq jours3 il a ete facile d’operer ensuite la reduction
+pour chaque jour en particulier. Conformement a ce qui precede,
+la plus grande reduction tombe vers la fin du mois de decembre
+(avec le signe —) et vers le commencement du mois de juillet
+(avec 16 signe -Η, et les valeurs de l'insolation a la fin du mois
+de mars et au commencement du mois d’octobre restent invariables.
+
+ξ 3. Les deux reductions precedentes n'epuisent nullement tou-
+tes les causes de variatione subies par l'insolation. Si, en nous
+servant de materiaux recueillis par l'observation‚ nous comparons
+les donnees de l'insolation notees durant differente mois a de dif-
+ferentes hauteurs du soleil, nous nous apercevrons tout de suite
+que les valeurs obtenues de cette maniere different considerable-
+ment entre elles. Il est donc necessaire d’etudier l'origine de ces
+differences‚ d’examiner d’ou elles viennent, si la hauteur du soleil
+est la meme et si les valeurs de l'insolation ont ete reduites a la
+distance moyenne.
+
+La raison en est la suivante: a c6te de la hauteur du soleil et
+de la distance variable de la terre, l'insolation subit l'influence:
+1) de la quantite (16 vapeur d'eau contenue dans l’atmosphere,
+

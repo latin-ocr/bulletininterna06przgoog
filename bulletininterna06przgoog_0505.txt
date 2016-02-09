@@ -1,0 +1,50 @@
+683
+
+φ,(.τ,0...ω,,02ορ,0...ρ,,0)-;-Ο (i=1‚2...m)
+
+fast willkflrliob sind, so hat man unendlioh viole Pfaffsehe Trans-
+
+formationen. Es seien die Formeln zweier solehen Transformationen
+vorgelegtz
+
+ωψεωωῌαμ xmx⁰ ρο) 3:1‚2. .n—m
+p=p1(ae,...x,„x⁰ 12⁰) 2=1‚2. .n (a)
+z=z(ae,.. aemx⁰ p„⁰)
+
+wo R(x,⁰...x„⁰zop,⁰...p„⁰)=0, m1(x,⁰....x„⁰zop,⁰...p„⁰)=0
+
+(ι’-..ι- 1, 2. .m) ist und x,..x„ gewisse Funktionen der y„ .y‚„‚,„„.
+unabhangige in Bezug auf y1.. ,μω sind3 und
+
+πωΗΞ-ωωϋαμηωωωθθ..,1990) j=1,2...n——m
+p⁶=p4(:c,...x„x,⁰⁰...p„⁰⁰) i=1‚2...n (α’)
+
+z = z (x, . . . xmx,⁰⁰ . . .p„⁰⁰)‚
+
+wo R(x,⁰⁰...p„⁰⁰)=0, w¹(ae,0⁰...p„⁰⁰)=o (i=1‚2...m) ist,
+und x,...x,„ gewisse Funktionen der t,...t2„41..,„ unabhang'ige
+in Bezug auf t ..... tm sind. Es ist klar, dass es die Formeln der
+Transformation der Veranderliehen ῃ, . . ,y2„4 1-.„, auf die Varia-
+blen t:···t2n÷1—m gibt.
+
+Die Gleichungen (a), wo nur 112⁴(x20 . . . p„⁰) =0 (i= 1, 2. . An),
+und die Gleichungen (a‘) wo nur ψ, (³:1⁰⁰. .p„⁰⁰)= Ο (i-——..1,2..m)
+ist, sind zwei Systeme der 2n -†- 1 -- m vollstandigen Integrale
+der Differentialgleichungen der Matrix (131). Da das unbeschrankt
+integrable System der gewohnliohen Differentialgleiehungen nur
+ein System dor vollstandigen Integrale besitzt‚ so sind 2η4-1ήω
+‘unabhangigen der Grssssen πθ 2012‘0 die Funktionen der 2n-{-1 —m
+unabhangigen der Grfissen 2:⁶⁰⁰ 20 p400. Diese Relationen bleiben
+auch daun, wenn wir E(x,⁰....p„⁰)=-:.O, R(x,⁰⁰..,.p„⁰⁰)=0
+(i = 1, 2 . . . m) sewen, da aus der Gleiehungen R (³⁷1⁰ . . . p„⁰) = Ο
+die Gleiehungen R(x,....p„)=0 und also E(x,⁰⁰....p„⁰⁰)=0
+(i=1‚ 2.. .m) folgen. Es folgt darana, dass ym41‚.y2„÷1-‚„ die
+Funktionen nur tm 4 1, , , 132„ Ὗ. 1 —m sind.
+
+§4⁴
+
+1. Wir wollen jetzt den Differentialausdruek
+Q‘=dz—p,dz,—...—p„dx„
+
+wo F}(x,...ae„zp,...p,‚)=0‚ [F„F„]=o (i,k=1‚2...m) ist,
+

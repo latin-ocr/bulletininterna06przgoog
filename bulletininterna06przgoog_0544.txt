@@ -1,0 +1,52 @@
+720
+
+,τμη
+ι·- · .
+[εἰηῖιωάτ-ΞΫ-ΫῙΞΜ εἰῃίεωο.
+ὅθ’-η
+
+Remarquant maintenant que, d’apres l’hypothese faite au sujet
+de FOE), on peut changer l'ordre des integratione dans l'integrale
+double du second membre de l'egalite (10), on obtient
+
+(11) ἕξ) 4- πΣ-Βί-’Ῑ '‘Z-7 (a, eos ιι· xo -{- b, sin (ωε {gsnFOE φ (gn) αξ,
+
+ 
+
+k η
+οὺ ⁰
+x0÷2q
+sin {Za—ff (ετ-ς)
+φ (ξ 202 [aa-- dm
+2sin (ΕΞ-ξ
+-τσ-τι
+
+est precisement la fonction φ (ξ, n), que nous avons consideree dans
+le numero precedent [l'egalite (5)].
+
+L’egalite (11) a lien, evidemment, quelle que soit la position du
+point ,τετοῦ dans l’intervalle (η, 2π-η).
+
+5. Posons maintenant
+
+(12) S„= ΞΕ -ῊΣ {lg-'⁷3⁹3 (a200skx0-ff—b,sin laxo)
+k=1
+
+et considemus la serie
+
+(13) S = (ξ ἼμΣ ἓξὲξ] (fficoskxodrbffiinkxo).
+ket
+
+Cette serie sera convergente et sa somme sera egale ὲ, la limite de
+S„ pour 72:00, si cette limite existe.
+
+On a, d’apres (11),
+
+S”=251cZsF(3)⁹'(5’ md}
+
+Par consequent,
+(14) 8:313 s„ :li-¹2 27¹NJsff<eoee md&-
+
+ΟΥ, les fonctions FOE) et φ (ξ, n) satisfont ὴ tontes les conditions du
+lemme du numero 2, comme nous l'avons dejiz montre dans le numero 3.
+

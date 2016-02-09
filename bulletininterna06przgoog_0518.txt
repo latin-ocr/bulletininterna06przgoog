@@ -1,0 +1,51 @@
+694
+
+19¹2(x,⁰...p„⁰)=0 (a=1‚2...†c—m)‚ Fa(x÷⁰·-·P„⁰)=0 (c'=1‚2...m)
+‹p(x,⁰...x„⁰20)=0‚ oe4(x,⁰....v„⁰z0)=0 (2=1‚2...m) (f“)
+
+darstellen. Mann kann beweisen, dans die m-†-1 letzten Glei-
+chungen ganz willkurlioh gewahlt werde-n kbnnen, nur sollen m
+von ihnen keine Integrale der Differentialgleiehungen der Matrix
+sein. Wenn wir in der Tat diese Gleiohungen in dieser Weise
+wahlen, und mit Hilfe derselben m-}—1 der Grossen x? 20 aus
+der Differentialgleiohung 90=0 eliminieren‚ so bekommen wir die
+Gleiohung mit nur n --m Differentialen. Wenn man die n--m
+Koeffizienten derselben gleich Null setzt und noch die Gleiehungen
+b}(x,⁰...p„⁰)-—-O (i=1‚2...m.) hinzuftigt. so bekommt man das
+gewunschte System der Integrale der Differentialgleiohung 52on,
+Wenn das Integral im gewohnliohem Sinne der Differentialglei-
+chungen (I), dass wir aus den η -}-1 -†-m Integralen des Systems
+(f“) erhalten‚ die Gesta-lt
+
+2=j(x1...x„)
+
+hat, und wenn diese infolge der Gleisshungen ‹p¹(.z:1 .....1:„ 2)=0
+(τί-τ.- 1, 2 . . . m), die keine Integrale der Differentialgleiohungen der
+Matrix (Bl) sind, nicht illusoriseh wird‚ so kann man das System
+(f“) noch in der Form
+
+ο- ...³f.
+
+&ic—2⁰ . φί (2:1⁰ . . . 1,,030) = Ο
+
+z =f(x,⁰ . . .x„⁰), Pa
+(a=1.2...n, i=132...m)
+darstellen. Es folgt damus, (lass die. Gleichung φ (2:1⁰ . . :1:„0 20) = Ο
+
+die Folge der Gleiehungen 20 = f (1:1⁰ . . ωηο), (ps (x, ⁰ . . x„⁰ ²0) = Ο
+(i=1‚2...m) ist, d. h. das Integral
+
+,ε = s(·²³1 . . . πη)
+
+im gewbhnliohen Sinne genugt der von vomherein gegebenen
+Gieiohung
+
+φφ), ...x„2)=0
+infulge der m von vornherein gegebenen Relationen
+(p,(:1:1 ...x„2)=0 (5:1, 2...m)‚
+
+die nur keine Integrale der Differentialgleiohungen der Matrix
+(132) sein sollen.
+
+Wir konnen also den folgenden Satz VI ausspreehen:
+

@@ -1,0 +1,50 @@
+713
+
+48. Μ. w. S'l‘EKLOFF. Ο teoryl szeregow trygonometrycznych. (Sm- la
+them-ie des εόήεσ εήηοπωηέίνίφιοο). Μὸιηοὶτο presente} par M. st.
+Zaremba m. c.
+
+1. Le but principal des ²recherches qui vont suivre consiste
+8 donner une demonstration nouvelle d'un theoreme qui 8 ete etabli
+pour 18 premiere fois par M. Liapounoff en 189& demontre' ensuite
+par M. Hurwitz dans son Memoire recent: „Sur quelques applicatione,
+geometriques des series de Fourier“ ¹), ot qui ne presente qu'un
+cas particulier du theoreme beaucoup plus general enonce dans ma
+Note du 6 mars 1903 (Gomptes-rendus).
+
+La methode que nous 8110118 developper peut presenter un in—
+tcret non seulement parce qu'elle conduit 8 une demonstration nou-
+velle du theoreme important, tout ia. l’heure mentionne‚ mais parce
+qu'elle permet en meme temps d'etablir d'une muniere assez simple
+et directe d'autres propositions interessenteS, concernunt 18 εὶιῤοίθ
+des series de Fourier. Je mentionnerai, par exemple‚ un theoreme
+nouveau. analogue aux theoremes connus de M. Picard et VVcier-
+strass‚ et conduisant. comme ceux-ci, 8 des propositions importantes
+sur 18 representation approchee des fonctions et sur le developpe-
+ment des fonctions continues en series des polynssmes
+
+O’est pourquoi je me permeet-s de publier' mes recherches,
+
+2. Demontrons d’abord un lemme preliminaire.
+
+Soit f (x) une fonction de 18 variable reclle x, bornee et inte-
+grable ὲ. 1’111ῒρτί8111· d’un intervalle (a, b), a et b etant des nombres
+donnes,
+
+SupposonS‚ pour fixer les ἰάἐεε, que b > α.
+
+Soit φ (x, n) une autre fonction de deux variables x et n pou-
+vant d'ailleurs contenir d’autres parametres a, β, .
+
+Supposons que φ (x, n) reste bornee et integrable par rapport
+ὲ, x dans l’intervalle (a, b), quelle que soit 18 valeur reellc de n,
+et pour tontes les valeurs des variables reelles α. β,... compriscs
+respectivement dans certaines domaines (A), (B)‚...‚ determines
+pour chacune de ces variableS.
+
+Supposons que φ (r, n) tende vers une fonction φο (x), bornee
+et integrable par rapport ὴ x dans l’intervalle (a, b), lorsque n croit
+indefiniment, α. β,... restant compris dans les domaines (A), (B),..,
+
+¹) Annales de l’Ecole Nor-male, T. xlx, 1902.
+

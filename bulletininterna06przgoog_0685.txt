@@ -1,0 +1,59 @@
+731
+
+1⁶¹(20÷0)³2r1⁵·‹oe0—0)‚
+
+ 
+
+ 
+
+C’est le thebore'zme de Riemann [compar. A. lam-nack, Bulletin des
+Scienees Mathem„ 1882, p. 293}
+
+12. Passons maintenant ὲ, la demonstration du theorema de M.
+Liapounoff.
+
+Reprenons l'egalioe (19) [en y remp1a9ant xo par x]
+
+ 
+
+δεξ-ι-Σδίἷζηφμειεω-ι-ωεῑῃ κω);-21-ἦζῖ’ἒξ) αξ. (19)
+
+Soit η’ un autre nombre positis satisfaisant aux conditions
+
+⁹7⁴::²T2<:7²=
+
+et considerem l'intervalle (η’, 2 π-η’).
+
+ΠόὲαΙίιό (19) a lieu pour tous les points de eet intervallo„
+
+Multiplions cette &galiae par F (cc) dx et inoegrons-la eh &tendant
+l'integration ὸ, l'intervalle (η’, ,Qu—¹17¹).
+
+On trouve, en se rappelant que la serie S eonverge uniform6·
+ment (11⁰ 6),
+
+'‘⁰3‘'ss-1-112⁵i¹fkn<anal44=bl>=gqfit& (ᾖῖἒξ) αξ)ᾱω, (36)
+ι-ι η’ ”·η
+
+ 
+
+ 
+
+Ιιη
+οὺ l’on a pos&
+1 ‘⁷² 1 Μ’
+α, :RsF(²)⁰⁰⁸kxd²' b :33 F(x)smlcoedx
+η ωεαῃῃ s
+
+Soit maintenant f (x) une fonction domme, born6e et integrable
+'dans l'intervalle (0, 2⁷2).
+
+Definissons la. fonction 1‹’(oe). qui figure dans la formule (36),
+de la manssare suivante:
+
+F(ae)=0, si -η<α><η’,
+F(ae)=f<x), si ffgaegm—q‘, (37)
+F(ae)=0, si 2π’-η’<ακ2π-Ι-η.
+
+On a alors
+

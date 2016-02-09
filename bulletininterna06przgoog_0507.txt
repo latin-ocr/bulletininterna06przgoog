@@ -1,0 +1,50 @@
+685
+
+wo R(oe1⁰....p„⁰)=0. Q(ae1⁰....p„⁰)=0 (i=1‚2...m) ist,
+setzen. Wir sollen die Gleichung 52¹=0 und also die Gleiehung
+90¹=0 durch π-Ι- 1 — m Integrale integrieren, oder anders ge-
+sagt, wir sollen die Gleichung
+
+,Ωο = (ἰεῦ --p10dae10 — . . . — p„⁰d.v„⁰ = Ο
+durch n -†- 1 -†- m Integrale
+
+Ooe(x1⁰...p„⁰)=0 (a=1.2...n-†-1—-m)‚
+E(210...p„⁰)==0‚ m‘(x1⁰...p„⁰)=0 (i=1‚‚2...m) (f)
+
+integrieren, zwisohen denen es m gegebenen Gleichungen
+R(x1⁰...p„⁰)=0 (i=1‚ 2...m)‚
+
+die die Integrale der Gleiehungen der Matrix (Bl) sind, und m
+Gleiohungen
+
+P‹(ae1⁰···va⁰)=0 (z‘=1‚2...m)‚
+
+die nur keine Integrale der Gleichungen dieser Matrix sind, gibt.
+Wenn wir umgekehrt ein solehes System der n-ff— 1 —-{—m Integrale
+der Differentialgleiohung ,Ωο =O finden, 80 1ςὸ1111811 wir claraus
+n -}- 1 — m Integrale der Differentialgleiehung 9¹ --..-· Ο 1111(1 folglieh
+n-{-1 Integrale der Differentialgleiohung Ω =O‚ d. h. das gemein-
+same Integral der partiellen Differentialgleiohungen (I) und also
+der partiellen Differentialgleiohungen (l) finden. In der Tat 08 sei
+
+62(oe,⁰...p„⁰)=0 (a=1‚2...n—{-—1—m),
+E(x1⁰...p„⁰)==0, oe¹(:151⁰...p„⁰)=0 (i=1‚2...m) (f)
+
+ein solches System der n—{—1 —f—on Integrale der Differentialglei—
+ehung Ωο = 0. Es ist unmoglich² dass es infolge dieser Gleichungen
+
+2:00
+
+μυ
+
+ware. In der Tat, im Faue wenn ἐξ = Ο (i = 1, 2 ‚ ‚ ‚ m) ist, ist
+Β = 1.
+μο
+Wenn aber nieht alle {l}
+
+konnen wir die Formel der Transformation (b) 80 vestimen, dass
+
+(i = 1, 2 . . . m) verschwinden‚ so
+
+-.- -φ-μ-
+

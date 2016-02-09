@@ -1,0 +1,57 @@
+652
+
+ο) Die Gleiehungen des volletssndigen Syetems (1‘) (m <m k6n-
+nen durch ein aequivalentes System det Gleiehnngen
+
+OE‘(x,...x„2p,...p.)=0 (i=1‚2...m)
+von der Besehaffenheit‚ dass
+NJ„ Φ,]·-·Ο (ἱ, k--.1‚ 2...m)
+
+identiseh ist, ersetzt werden. Man neunt mit S. Lie dieses letzte
+System ein System in Involution wir werden zu diesem Zweeke
+eine gewisse Transformation benutzen. Es seien k partielle Diffe-
+rentialgleiehungen
+
+(a) ](«τ.....τ,τξί -³²-)=0 (i=1,2...k)
+
+ox, ..... &xa
+
+gegeben. Die Integration dieses Systems redueiert sich auf die In-
+tegration der Differentialgleiehung Ω = 0 d'ureh n —{- 1 Integrale,
+die die gegebenen Gleiehungen erfullen. Wir wollen nun die Glei—
+
+ehung Ω = Ο und die gegebenen Gleiehungen auf die neuen Va.-
+riablen mit Hilfe der Formel
+
+z=H—†—x,p,—†—...—†—xqpq‚ xpe-pf, p5=—-x.‘ (i=1,2...q)
+
+transformieren. Wir werden die Gleiehungen
+
+Q= ἆΗ-Ρῖωἰᾘ - ——..p'd2·.‘—-pstdoeff÷1———.„,....—pdx==0
+(a‘) f‘((x‘. wx‘xst„ .„.x H.{—H.. ΘΗ ΠῨΗ. .3—H)---
+
+&fx ἐπ’ 31’xst ex„
+
+0(2:-- 12 k)
+
+erhalten. Wir seben damae, dass die Integration der gegebenen
+Differentialgleiehungen (α) sich auf die Integration der Differential-
+
+gleiehungen (α’) redueiert. Es erhellt weiter aus den Formeln der
+Transformation, dssa
+
+τ , Μ
+--Ι-Ρα Ξξὲξῇ εἶθ-(ἕὲτ-Ι-Ρῶξέᾖ), (a·=1‚2--q)
+εἰ, ef( εί, &fx
+
+ὃπως-Θῆ, ὲῇ-τ-ἑῇ (j=1‚ 2...n—q)
+
+ist. woraus folgt‚ dass
+
+[sn ἡ] = [fa fs]
+
+ist, d. h.‚ dass das neue System vollstandig oder in Involution isg
+wenn das ursprflngliehe ein solehes ist.
+
+Wir wollen uns jetzt zu den Gleiehungen (I‘) wenden.
+

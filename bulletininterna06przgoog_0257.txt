@@ -1,0 +1,48 @@
+und daher wo
+
+εει-ΖΟ 4- §⁸:⁸¹ (ΣΡ ἐξ - H)d:c1 ist, 8111811811.
+
+Wenn man aus·den n -1- 1 ersten Gleiohungen (M) die Grossen
+22⁰..x„⁰p,⁰..p„⁰z⁰ mit Hilfe der Gleiohungen (a) eliminiert‚ so be-
+kommt man das Integral
+
+29,(x1x2...zp2...p„)=0 (izz, 2...n), p1-}-H=0 ,(Ν)
+
+(181· Differentialgleiohung (1).
+
+Wenn diese letzten Gleichungen in Bezug auf pl ..... p„ und
+in Bezug auf Gl . .. C„ auflffisbar sind, daun bekommt man nach
+der Elimination der Grbssen p. . . . p„ das vollstandigo Integral im
+
+gewsshnliohen Sinne. der Differentialgleiehung (1).
+
+Allo 8018118 Integrale kiinnen erhalten werden, wenn wir (118
+Gleiohungen (L) so 1118111811. (1888 sie in Bezug auf p2⁰ μθ 1111(1
+01 . . . 0„ 811Ηὸ811111· sind, z. B. wenn man fur das System (L) das
+System:
+
+20=ng,⁰—}—...—}-C„x„⁰-†—G1
+ΝΞ 02 2 · ·1›„⁰= <322⁰
+nimmt.
+ἱ Jacobi hat bei der Integration (181· Gleichung (1) fur das Sy-
+stem (L) das System
+
+20: 0121122⁰=G2..x„⁰= C„
+
+genommen. Dieses System fuhrt nur daun zum gewfjhnliohen voll-
+standigen Integrale, wenn aus den 2n— 1 Gleiehungen
+
+ῆερ,(οω. ρ.ο. ρο) (ἱε2...η),
+’ΜΟ-ΡΗΣ) ·-.-Η)οοι (α”)
+P—=P(2·10..„0p2⁰...p„⁰) (i=2...n)
+
+nur eine von p, . . . .p„ freie Relation folgt, d. h. wenn die n -— 1
+ersten Gleiohungen des Systems (a“) in Bezug auf 1⁹2⁰ . . p„⁰ auf-
+
+ldsbssz S‹;.Iz:,;1·ni<·,ht immet der Fan ist, so setzt A. Mayer fur das
+
+System (L) das System
+
+20=C,cc2⁰—}-...-}—C„x„⁰-}—C'1
+p3⁰=04 (i=2...n),
+

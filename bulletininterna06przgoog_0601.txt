@@ -1,0 +1,50 @@
+647
+
+wir kennen dieses System (d) noeh in folgender Weise erhalten.
+wir kennen aus (1811 Gleichungen (8) n 4- 2 der Grbssen πῆμ’
+mit Hilfe der Gleiehungen (b) eliminieren. Mann bekommt (181111
+
+(188 System
+
+xg=x;'(x,a,...a„-1) i=1,2...n
+z = ε’ (ιι-ια). . . α,,,,) (e‘)
+P⁸=P‹'(x1az···a»-1) i-21,2...n,
+
+wo a, . . . . α,,, (118 n — 1 ubrig gehliebenen Gressen der Grssssen
+:1:4⁰zop00 bedeuten. Diese Gleiehungen stellen offenbar ein System
+
+der Integrale (188 Systems (131) dar.
+VVenn wir aus diesen letzten Gleiehungen die Grbssen α, . . α,-,
+
+81111118181811, 8ο bekommen wir (181111 (118 Gleiehungen (d). Wir kim-
+nen also (188 Integral (d) der Differentialgleiehung
+
+F(x,.. ,οη- ..... ⁰².)=0
+
+in der Form (ε’) daretellen, wo a„ ..απ - (118 Parameter sind.
+Es folgt dax-aus, dass jedes gemeinsame Integral der gegebenen
+Differentialgleiehungen (1), (188 kein singulares Integral der Diffe-
+
+rentialgleiehung
+
+F(ae,.. ²33⁶ ..... Ξ)εο
+
+1ει1;ἲ (118 Gestalt (θ’) besitzen soll. Da das gemeinsame Integral der
+Differentialgleiehungen (1) der Differentialgleiehung
+
+&z &z
+F} (x ...... x„ 2 3—- ..... '3— Ε Ο
+x cx„
+
+genugtg so 8011811 (118 Gleiehungen (α’) (181· Gleiehung
+. E(x,...ae„zp,...p„)=0
+genuge leisten. Es folgt (181·8118, (188 infolge derselben Gleiehungen
+
+Ε-μΣαί &F ἓ x2†?ff4 {Z†2'27EQ=0 (f)
+320, ⁸ 5*aeoe 'ex &z 32: &pa &qv
+
+ἱεῖς (18 aber die Gleiehungen (e‘ )‚ wo α konstant sind, die
+Integrale des Systems (131) sind, so ist 111ἰο138 dieser Gleiehungen
+
+und der Gleiehung (f)
+

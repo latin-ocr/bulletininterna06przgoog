@@ -1,0 +1,42 @@
+Σ (gi-m& ⁰7²- ἔςΙῘΞ-(Ξέ --{-10 -93‘ ΡΞὲ--ο (i‚J·==1‚.2 ..ω
+
+Wir haben also den Satz I: Das gemeinsame Integra} der Dif-
+ferentialgleiehungen (1)
+
+E(x,.....x„zg}¹ ..... ἐξ)εο (i=1‚2....k)
+
+erfullt die Differentialgleiehungen
+
+[F F1=5 ς’ (ᾆξ’-Η 9} Ξζ-ξ- (ΞΖ-Ξ -Ηο 02)
+
+(Ji=1‚-2 mk)
+
+Jede der neuen'Gleichungen
+
+[Ρη FA=0 (j, 2=1. ἕως),
+
+wo p, durch ἕξ- ersetzt ist, stellt die Differentialgleichung dar,
+α
+
+die das gemeinsame Integral der gegebenen Differentialgleiehungen
+(1) besitzt.. Wenn man die unabhangigen aus diesen Gleiehungen
+und die unabhangigen von den Gleichungen (1) zu diesen letzten
+hinzufugt‚ so reduciert sich unser Problem auf die Integration der
+Ie1>k Differentialgleiehungen. Wir verfahren mit diesem letzoen
+Systeme in derselben Weise‚ wie mit der gegebenen. wir kommen
+in dieser Weise zu einem der folgenden drei Fallet VVenn die er·-
+haltenen k, Differentialgleiehungen unvertrfiglieh sind, so haben die
+vorgelegten Differentialgleiohungen (Ι) kein gemeinsames Integral.
+Wenn zweitens die Anzahl der so erhaltenen unabhangigen Diffe-
+rentialgleichungen‚ die das gemeinsame Integral des Systems (1)
+besstzen, grijsser als n—{-1 ist, so schliessen wir wiederum durans,
+dass die gegebenen Differentialgleiohungen (1) infulge der Defini—
+tion ihtes gemeinsamen Integrals kein-solehes Integral haben.
+
+Im dritten Falle ubersohreitet die Anzahl der so erhaltenen
+Gleiehungen eine gewisse Zahl m<n†1 nieht, wenn man dieses
+Verfahren ful-taeta, d. h. in diesem Faue erhalten wir „agn—kz
+Differentialgleichungen
+
+(I) E(x,.....x„z{²-¹.....ssf-)=o (z'=1,2...m)
+

@@ -1,0 +1,49 @@
+171
+
+la direction X, dont 18 vitesse ne depend que de 18 valeur de x,
+les ραι-018 etant parfaitement polies ou 32 une distance telle qu'on
+
+peut negliget leur presence. En negligeant 18 conduction, on aura
+donc les equations:
+
+Qud-202 §effnde
+
+σιω dx 3882
+gamm: 0 (38)
+uQ÷kpdg=(k-1)4“({Zs
+
+Oe qui est interessent c'est que, dans ce 088, 011 8 une solution
+exacte, tundis que (18118 l'Hydrodynamique‚ on ne conna‘lt pas de
+solution exacte des equations completes, sauf dans quelques cas tres
+simples comme 16 precedent. Un mouvement stationnaire analogue
+d'un liquide serait impossible, puisqu'il n'y aurait pas de forces
+d'expansion visqueuse qui pourraient s'opposer ὲ, l‘acceleration pro-
+duite par les differences de pression.
+
+Les equation· (38,2) et (38‚1) peuvent &tre integ-rece immedia—
+tement:
+
+Qu = b ἡ (39‚2)
+
+du 3
+
+AE=3uffiu -l—p—a). (39‚1)
+De meme (38, 8) apres avoir ete divisse par gg, dont 18 valeur
+
+est (10111166 par l'equation precedente:
+
+ 
+
+p=(k{²)bu—{-(k—1)a. (39‚3)
+La. substitution (16 cette valeur (18118 (39‚1) et l’integration donnent:
+x=m†”3ffj'—buss“ (40)
+
+(k-{- 1)Ξ αἳ- kau--c
+
+οὺ l’integrale peut &tre evaluee par des fonctions cyclometriques ou
+logarithmiques.
+
+Le probleme est resolu‚ mais il paruit assez douteux qu’il pos-
+sede des applications dans 18 pratique. Nous avons trouve ici quatre
+constantes arbitraires‚ alors que nous sommes habitues 8 definir le
+

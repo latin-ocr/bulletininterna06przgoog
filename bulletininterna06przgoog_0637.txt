@@ -1,0 +1,46 @@
+683
+
+w=(x2⁰--·x„⁰20p,⁰-·-p„⁰)=0 <i=1,2...m)
+
+fast willkurlieh sind, so hat man unendlich viole Pfaffsehe Trans-
+
+formationen. Es seien die Formeln zweier solehen Transformationen
+vorgelegt:
+
+z=z(ae,...ae„,x,⁰...p„⁰).
+
+wo 1⁴⁷⁶(x20...x„⁰zop,⁰...p„⁰)=0, ‹p1(.v,⁰....x„⁰zop,⁰...p„⁰)=0
+(i = 1, 2. . m) ist und x, . ‚xm gewisse Funktionen der y1 . . y„ , ,-ω,
+αηαὴὴέιιςίςο in Bezug auf y, . . .y„, sind3 und
+
+Μεωψαμηωωωθο.φοῦ) j=1‚2---n—m
+p1=p4(oe,...oe„oe,⁰⁰...p„⁰⁰) i=1,2·--⁷2 (δ’)
+εεε(ω,...εε,,.ω,00...Ρηοο),
+
+wo E(x,⁰⁰ . . .p„⁰⁰) = Ο, ψί (2:1⁰⁰ . . .p„⁰⁰) = Ο (iz 1, 2. . .m) ist,
+und πμ . ‚xm gewisse Funktionen der t,...t2„4 1-„. unabhnngige
+in Bezug auf t ..... tm sind. Es ist klar, dass es die Formeln der
+Transformation der Veranderlichen y, . . . y2„ ÷ 1-„, auf die Varia-
+blen t,...t2„41-„. gibt. ’
+
+Die Gleiohungen (a), wo nur φ, (2:1⁰ . . . p„0)=0 (i= 1, 2. mu),
+und die Gleiehungen (a‘) wo nur amm-1⁰⁰. .p„⁰⁰)=0 (i=1,2. .m)
+ist, sind zwei Systeme der 2n —†— 1 — m vollstandigen Integrale
+der Differentialgleiohungen der Matrix (Bl). Da das unbesohrankt
+integrable System der gewbhnliehen Differentialgleiehungen nur
+ein System der vollstandigen Integrale besitzt‚ so sind 2n†1—3m
+'unabhangigen der Grossen :1:4020 Ps⁰ die. Funktionen der 2n-}-1—m
+unabhan'gigen der Grfissen 2:¹⁰⁰ 20 p400. Diese Relationen bleiben
+auch dann, wenn wir Fffxp . . . . p„⁰) = Ο, Ε (oe100....p„⁰⁰) =0
+(iz 1, 2...m) setzen, da aus der Gleiehungen R(x,⁰...p„⁰)=0
+die Gleiehungen F} (x, . . . . p„) == Ο und also F, (11:1⁰⁰ . . . . p„⁰⁰) = Ο
+(iz 1, 2...m) folgen. Es folgt datam, dass ymssz..y2n÷1—m die
+Funktionen nur tm 4 1, , , t2„ ,ι 1- m sind.
+
+§4⁴
+
+1. Wir wollen jetzt den Differentialausdruek
+Q‘=dz—p,dz, —...—p„dx„
+
+wo B}(x,...x„zp,...p„)=0, [R³ Fk]=0 (i‚k=1,2...m) ist,
+

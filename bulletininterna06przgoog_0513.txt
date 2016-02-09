@@ -1,0 +1,45 @@
+689
+
+wo E(x,⁰...p„⁰)=0 oef(x,⁰...=0 (i=1‚2...m) ist zwei Systeme
+der Formeln der Pfaffsehen Transformation des Differentialausdru-
+ekes Ω’, so dass
+
+9¹: ᾖ, (dzw —— μω dx,⁰⁰ -- . . . — p„⁰⁰ dx„⁰⁰)
+wo 113(x,⁰⁰...p„⁰⁰)=0 30¹(x100...p„⁰⁰)=0(i=1‚2...m) ist, und
+Q‘z ἕψει, - p1⁰ ἀπο - . . . - p,⁰ doess),
+
+wo F5(x,⁰...p„⁰)=0. Q(x,⁰...p„⁰)=0 (i=1‚2...m) ist, ist. Es
+existieren offenbar die Formeln der Transformation der neuen Va-
+riablen des einen Syntems auf die neuen Variablen des anderen.
+Wenn wir mit ἰή, . .. affl-. die unabhangigen Grssssen aus den
+<⁶1⁰⁰ κω μω und mit ym÷ ..... μὴμὴ, diejenigen aus den x? 20 101⁰ be-
+zeichnen, so wissen wir, dass ζμ, . .. t„41-„, die Funktionen der
+μμ, . .. μ,,,,,,,-,, sind. Diese letzten Formeln transformiren die Glei-
+ehung
+
+azm-p,⁰⁰dae,⁰⁰-...—p„⁰⁰0zae„⁰⁰=o‚
+
+wo F¹ (2:1⁰⁰ . . .p„⁰⁰) = Ο, ²1²‹(⁵⁶1⁰⁰ . . . p„⁰⁰) = Ο (i = 1,2 . . . m) ist, auf
+die neue
+dzo—p,⁰dx,⁰—...—p„⁰doe„⁰=o
+
+wo R(:v1⁰. . .p„⁰) =0, ‹p4(ae,⁰. . .p„⁰)=O (i= 1‚2. . . m) ist. Es folgt
+ἀπεῖπε, dass n -Ι- 1 -- m Integrale
+
+8³¹(x,⁰⁰...p„⁰⁰)=0 (a=1‚2...n-{—1-m)
+
+wo R(x,⁰⁰ ...p„⁰⁰)=0‚ w5(x,⁰⁰...p„⁰⁰)=0 (i=1‚ 2 mm) ist, der
+ersten in die n —-}- 1 — m Integrale ΘΩι (³³1⁰ . . . . μθ) = O, wo
+R(x1⁰....p„⁰):O‚ P‹(⁵¹51⁰····P·⁰)-—-’-0 (iz-1, 2....m) ist, der
+zweiten mit Hilfe dieser Formel ubergehen. Es ist klar, dass wenn
+wir diese letzten auf die ursprungliohen Variablen ηερ, transfor-
+mieren, so bokommen wir die Gleiohungen
+
+32(ae1...p„)=0(a=1,2...n-'{-1-m)‚
+
+wo b} (cc, . μμ) = 0 ist, die n—}-— 1 —- m Integrale der Differential-
+gleiehung Ω’ ---Ο bilden. Wir schliessen darauS, dass das nieht-
+singulare Integral der partiellen Differentialgleiehungen (I)
+
+192(x1..p„)=07F}(oe1..p„)=0(a=1‚2..n-{-1—m‚i=1‚2..m)
+

@@ -1,0 +1,45 @@
+668
+
+und das System der gewehnliohen Differentialgleiehungen (A) ist
+ein unbesehrankt integrableS. Die Formeln der Transformation
+
+x.·=‹p1,·(y „y„÷-„,) (i=1‚2...n)‚ z=‹p(y,...y,„4„„).
+Pm÷1= ²!2..÷,·1·(y ..y2„÷,-,„) (j=1‚2...n—m).
+
+die diesen Gleiehungen bei den konstanten VVerten der φήῃ.. yfflffl,¹
+geuugen‚ haben die Eigensehaft. dass der Differentialausdruck
+
+Ω’ =-- dz — (³91dx, ν·- . .. —— &mdxm - pm÷‚dx„÷, — . . . —- ρ,,ι1;ι;,,τ
+wo ’
+[Px—Ox Ρμ-Ομ] =0
+Ρλ -- Ox
+Ρμ Θμ
+ist, nach dieser Transformation die. Variablen y ..... y„ hfichstens
+
+im gemeinschaftliehen Faktor μ der Koeffizienten enthisst.
+
+Wir werden diese Transformation die Pfaffsehe Transformation
+fur den Differentialausdruek Ω’ nennen.
+
+Wir werden der grijsseren Symmetrie halber noc-h diejenigen
+m Gleiehungen hinzufugen3 denen die Grzsssen p ..... p„ geuugen.
+die mit Hilfe der Gleiehungen
+
+pi—-Offssctm.x„zpm4,...p„)=0 (ia—1, 2...m)
+
+als Funktionen der y„ . . . y,„÷,„m ausgedruekt sind, vorausgesetztff
+dass ym÷1-·· y„4„‚„ als Konstanten zu betraehten sind.
+Wir seben, dass
+
+dp τ-Σβ-ἔῗβέαωβ (i-.1,2...m)
+
+ist, wenn wir die Bezeiehnung der Formel (a) benutzen.
+Wir erhalten infolge dieser letzten‚ dass
+
+ἀρ,;Σβ[ρβ-Θβ, -Θ,] ἀωρ-
+
+Ρβ ἓΘβ
+2 Σβ [ρβ -Θβ, p. — θλ]ρβ = Θβαωβ ἿιΣβ (ἕξεθ- “pagg—3 ) ⁶2²ss
+
+p.- = ω..
+

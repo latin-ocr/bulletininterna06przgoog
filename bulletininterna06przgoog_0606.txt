@@ -1,0 +1,56 @@
+652
+
+c) Die Gleiehungen des vollstandigen Systems (1‘) (αξη) Ιςὸιι-
+nen durch ein aequivalentes System der Gleiehnngen
+
+OE.(x,...x„zp,..·P·-)²0 (i-=1‚2...m)
+von der Besehaffenheit, dass
+NJ„ fid· 0 (i, λετ-1, 2...m)
+
+identiseh ist, ersetzt werden. Man nennt mit S. Lie dieses letzte
+System ein System in Involution Wir werden zu diesem Zweeke
+eine gewisse Transformation benutzen. Es seien lc partielle Diffe-
+rentialgleiehungen
+
+(a) fi(x,.. ...ῌΞΞ ..... c<{'-ffiao (i21,2...k)
+
+&gx
+
+gegeben. Die Integration dieses Systems redueiert sich auf die In-
+tegration der Differentialgleiehung Ω = Ο d'ureh n -ἦ- 1 Integrale‚
+die die gegebenen Gleiehungen erfullen. wir wollen nun die Glei-
+ehung Ω =- 0 und die gegebenen Gleichungen anf die neuen Va-
+riablen mit Hilfe der Formel
+
+z=H-†-x,p,—{—...—†—xqpq‚ (vv-‘PC' p4==—x.' (i=1‚2...q)
+
+transformieren. Wir werden die Gleiohungen
+
+Q=dH—p,‘doe,‘—.. .—p'd:1·‘—p†,„„dxff—....-p,d.z,=0,
+(α’) s'((x,‘. ,π ¹:045.. .x„. Ημὲ-ΗΗ εΗ εΗ .ἰξ)
+
+xxae÷c
+
+ 
+
+=0 (2‘=1.2..k)
+
+erhalten. Wir sehen damus, dass die Integration der gegebenen
+Differentialgleiehungen (a) sich auf die Integration der Differential-
+gleichungen (a‘) reduoiert. Es erhellt weiter aus den Formeln der
+Transformation‚ dssa
+
+ᾖ.. jg= Ξῖ ῖ-(ῖ-ψ-Ξ-Ι) <..>
+ss} Sfi‘ ef.. &fx
+
+ΞῈΦΗ &To-5³ &pq-H &pfl-,- (J 19 2 . . . n q)
+
+ist. woraus folgt. dass
+
+υ.. fa = [fia ff]
+
+ist, d. h.. dass das neue System vollstnndig oder in Involution ist,
+wenn das ursprflngliehe ein solehes ist.
+
+Wir wollen uns jetzt. zu den Gleichungen (I‘) wenden.
+

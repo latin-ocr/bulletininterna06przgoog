@@ -1,0 +1,53 @@
+428
+
+ο X1..·....X,‚
+-X„ (11) ...... (pl)
+
+A1=
+
+ 
+
+ 
+
+-X„ (1‚p)·····(pp)
+
+versohwindet. Diese Gleiohungen (A) sind hinreiohend und Ω hat
+nach der Transformation die Form
+
+9=essdy²ffidy2÷ ...-{-Y‚,dy,)‚
+
+wo Y2 . . . Y, von γι frei sind ¹).
+2. Der Differentialnusdruck
+
+9=df0÷F1dj1†....-}-F.df.
+
+mit m 4— 1 Differentialen‚ wo alle Veranderlichen unabhangig sind,
+kann immor durch m -Ι- 1 und nieht weniger endliohe Gleiohungen
+zum Versohwinden gebrqeht werden. Die allgemeinste Methodo da—
+fur ist die folgende: Man stellt zwisohen fo, f„ . . . f„ k(<m-}-1)'
+beliobige Gleiohungen
+
+fo = 6„ (ἡ, 7242 ...... f..)
+(a) f¹ = θ, (fi, βψ ...... f..)
+
+auf, deren eine die Vel-anderhohe fo bestimmen soll, und dann
+haben die gesuchten m -{— 1 Relationen die Form 2)
+
+(β) f = Θο ..... fb-l- - ΘΗ,
+
+12 ÷2⁷229F÷9s ο, F.. †2²0s.f†÷>f.-⁰
+
+Wenn wir die Veranderliohe f⁰ auf die neue H mit Hilfe der
+Formel
+
+11==s0 ÷F1s2÷---÷F2-1s„-1
+
+transformieren‚ so bekommen wir den Differentialausdruok und das
+System der Gleichungen (β) in der Form
+
+¹) Diase Gleiehungen sind nufgentollt worden bei J aeobi (J. Croll, 2), A. Ma.-
+yer (Math. Anu. Bd. 173. Verg. auch meino Arboit (Donkschrift. dor Nem-un.
+Univ,‚ 1896).
+
+²) S. Lie‚ Math. Aua„ Bd. 9.
+

@@ -1,0 +1,56 @@
+731
+
+Ρωοψονὲ-Νωο-οχ
+
+G'est le th6or23me de Riemann [compar. A. Hal-nack, Bulletin des
+Scienoes Mamm„ 1882, p. 2931.
+
+12. Passons maintenant ὲ, la deSmonstration du them-&me de M.
+Liapounoff.
+
+Reprenons l’egalite (19) [en y remplaqant xo par x]
+
+ 
+
+εεξ-ι-Σῧὶῑζηῳ,ωειεω-ι-ῡ,εῑηιεω)ε2έη s 2¹25) αξ. (19)
+...2 .-η
+
+Soit η’ un autre nombre positis satisfaisant aux conditione
+
+η<ἤ<π,
+
+et oonsidssrons l'intervalle (η’, 2 π-η’).
+
+ΙίόςαΙίῢό (19) a lieu pour tous les points de cet intervalla.
+
+Multiplions cette &galim par F (x) dx et integrons-la eh &tendant
+l'inoegration ὲ, l'intervalle (η’, fen—27¹). '
+
+On trouve, en se rappelant que la εότίο S eonverge uniformd-
+ment (n⁰ 6),
+
+'‘aff“ ÷n 5⁹³7¹J⁷¹J⁷²<a1a24bkbl>= 23⁹?stss (stag) asyla, (36)
+.-2 η, μη
+
+οὺ l'on a pose
+
+ 
+
+ 
+
+ne— ¹ ⁸⁷³- '
+ffir-:J-{sffglmoskxdffi b,‘=}tsF(qx)sinkxdae.
+η (Jc=0‚ 1,2,....)η
+
+Soit maintenant f(x) une fonction ᾶοιιῃόθ, Βοτιιόθ et intssgrable
+'dans l'intervalle (0, 2π).
+
+Βόίὶηἰεεοῐιε la fonction F(ae). qui figure dans la formule (36),
+de la maniCffe suivante:
+
+F(ae)=0‚ si -η<ω<η’,
+F(oe) =s(x), Si n‘gxg2n—nss (37)
+F(oe)=0, si 272—27'<oe<25t-†-⁴q.
+
+On a alors
+

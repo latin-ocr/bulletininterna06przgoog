@@ -1,0 +1,43 @@
+435
+
+F(x1x2..x„zp,..p„)=F(x,⁰...p„⁰)=0
+
+haben3 was die andere betrifft‚ so muse sie nur die Bedingung er-
+fffllen, dass nnmlioh aus del-selben keine Relation zwisehen x„ ε, Ρ,
+folgt, d. h. sie muss kein Integral der Differentialgleichungen (131)
+und im tibrigen ganz willkurlich sein. Es sei numlieh
+
+(p(x1⁰....p„⁰)==0
+
+eine solche Relation. NVenn wir eine der Grossen πθ 2⁰ 1>‹⁰ mit Hilfe
+dieser Gleiohung aus den Gleiehungen (a) eliminieren, so bekommen
+wir die Formel der Transformation:
+
+2⁶:21(y1 ysayam), 2:2(91 y2--y2„÷1)·P‹=P‹(y1312--312-41),
+(i=1‚2...n) , (O)
+
+wo y, .. . y‚„41 212 Unabhangige von den Grossen 1:1⁰... μθ sind.
+NVollen wir mit diesen Formeln den Differentialausdruok Ω
+transformieren, so bokommen wir
+
+Q=dz—p1dx1 -- -· -p„dx„= Uldffiff’Uz dy²†·· †U2n-÷-1d!l2···÷1⁷
+
+wo [ΛΤ-ἑᾷ -Σαραὲἶῗ (i= 1,2..2n÷1)ist.
+
+Im besonderen ist
+
+oder mit Hilfe der Gleiohungen (B):
+3
+U1=- {F(2n“ “ap ·—— 1²22> {)=O.
+
+VVas die ubrigen Koeffizienten U (i=-. 2, 3 . . . 272.-†-1) betrifft, so kann
+man beweise-n‚ dass
+
+2”†l
+
+2⁷(22—y013-452 ⁶3)‘²⁹¹²“-03{5'dff
+ez
+
+ist.
+In der Tat ist
+

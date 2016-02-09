@@ -1,0 +1,48 @@
+5
+
+selben gleieh Null 8111(1; und ferner (1888, wenn die Summe der
+ersten Hauptunterdeterminanten der sehiefen symmetrisehen De-
+terminante ungeraden Grades gleieh Null 181, 8118 ersten Unter-
+determinantem derselben gleieh Null sind.
+
+Satz 111.
+
+Der Satz ΙΙ kann in folgender Weise verallgemeinert werden:
+wenn alle Unterdeterminanten m-†-1 Grades sowie die Summen
+der ersten Hauptunterdeterminanten jeder Hauptunterdeterminante
+m—{—1 Grades der symmetrisehen oder der sehiefen symmetrisehen
+Determinante gleieh N ull sind, so sind 8118 Unterdeterminanten
+mm Grades der gegebenen Determinante gleieh Null.
+
+In der Τ81 sind in diesem F 8118 118811 dem Satze II 8118 Haupt-
+unterdeterminanten mm Grades der gegebenen Determinsznte gleieh
+Null. G. Frobenius (l. 8.) 1181 1181118888, (1888, wenn alle Unter-
+determinanten ιιι-1- 1“” Grades sowie 8118 Hauptunterdeterminanten
+mm¹ Grades der symmetrisehen oder der sehiefen symmetrisehen
+
+Determinante gleieh Null sind, alle Unterdeterminanten »2“'⁸Grades
+gleich Null sind.
+
+Satz lv.
+
+VVenn der hi'mhste Grad der 818111 versohwindenden Unterdeter-
+8111188188 (181· symmetrisehen oder sehiefen symmetrisehen Deter-
+minante gleieh m 181, 80 gibt es immor mindestens eine solehe
+Hauptunterdeterminante m-ff-lw· Grades der gegebenen Determinante.
+dass die Summe ihrer ersten Hauptunterdeterminanten von Null
+verschieden 181, (18 80881 11881] (18111 Satze ΙΙΙ 8118 Unterdeterminanten
+m‘fflGrades gleieh Null wiiren. G. Frobenius hat bewiesen‚ wie
+oben erwahnt 181, (1888, wenn der hzzehste Grad der nieht ver-
+sehwindenden Unterdeterminanten der symmetrisehen oder der
+sehiefen symmetrisehen Determinante gleieh m 181, 88 immer die
+nieht versehwindende Hauptdeterminante dieses Grades gibt. Unser
+Satz fugt noch 8188 weitere Eigensehaft dieser Hauptunterdeter-
+1111888188 hinzu.
+
+Satz V.
+
+Wenn alle Hauptunterdeterminanten m-i-2‘m Grades der sym-
+metrisehen oder der sehiefen symmetrisehen Determinante. welche
+durch Hinzufssgung zur Matrix der 818111 versehwindenden Haupt—
+unterdeterminante m“” Grades (181· Ε181881118 von je zweien 8118 den
+

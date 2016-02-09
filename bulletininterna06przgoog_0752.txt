@@ -1,0 +1,47 @@
+794
+
+densateur‚ nous pouvons en deduire la resistance W en nous ap-
+puyant sur la formule
+
+t lo
+(1) ΒΔΓ W: ῦῖῑοὲ-ΕΡιὲςῗ-Εοιᾟ
+Oette formule n’est exacte que dans le cas οὺ l'influenee (16 la
+polarisation et (16 16 capacite electrostatique des electrodes entre
+lesquelles nous mesurons la resistance du liquide peut &tre negliges.
+
+Le calcul montre que ces conditions sont templies dans 16 eas
+
+011 166 rapports 9 et —¹ sont petits par rapport 6 1’111111;6 et quand
+
+k 0
+16 resistance (16 passage Δ W est petite par rapport a la resistanee
+1116611166. Dans cet 61101166, 110116 desig-none par Ic la capacite dite
+(16 polarisation des electrodes et par 01 leur capacite elect-rostatique.
+Nous avons choisi nos dispositions experimentales (16 facon que ces
+conditions soient remplies.
+
+Une etude (16 16 6011(11161;1111111;6 (16 l'alcool ethylique et de l'eau
+nous ont demontre que les mesures pouvaient se faire avec 11116
+approximation allant jusqu’a 0:3⁰so· La methode' est tres facile en
+pratique‚ les mesures penvent s'executer tres rapidement. Nous avons
+applique cette methodo 6 deux etudes differentes: dans 16 premiere,
+nous nous sommes proposes (16 110116 assurer si 16 101 d'Ostwald
+pouvait &tre appliquee aux dissolutione (16 1’661(16 trichloracetique
+dans (16 1’616001 ethylique. Les experiences ont· (1011116 11116 repense
+affirmative: il etait possible alors de calculer, pour la premiere fois
+par unc methodo electrique, 16 valeur d’une constante de dissocia-
+tion‚ dans un liquide. autre que l’eau‚ pris comme dissolvant. Getto
+valeur pour l’acide trichloracetique dissous dans l'alcool ethylique est:
+
+K = 7, l. 10²⁶.
+
+Dans la seconde stude, nous nous occupons de l’influence qu’exerce.
+6111· 16 conductibilite d’une (1166016ῐί06, l'addition ὲ, cette dissolutiom
+d'un corps nonelectrolyte. En particulier, l’etude des dissolutions
+de l'alcool trichloracetique dans des melanges d'alcool ethylique ct
+(16 1161121116, 110116 a permis de νέα-11161· la loi d’Arrhenius
+
+J<==K⁰ (1—}X)²
+
+pour des melanges 6 hautes teneurs du corps non-conducteur.
+

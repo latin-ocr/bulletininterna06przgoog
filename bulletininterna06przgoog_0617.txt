@@ -1,0 +1,42 @@
+663
+
+Diese m Systeme (i = 1, 2 . m) der gewfihnliehen Differential-
+gleichungen kimnen durch ein einziges System dargestellt werden,
+indem wir alle Gleiohungen durch dy¹ (i π 1, 2. ..m) multiplioie—
+ren und addieren.
+
+So bokommen wir das System der gewbhnlichen Differential-
+gleichungen
+
+(ιε-τ Σ’β(Θς5 -Σ μή ἕρβ-ῄωβ
+
+ἔνι-Ρ ÷1
+(ἶφι-ψ “ “ 2?ss 013ἓέ ἀωρ
+n ι n÷1 j=1.2..n—m2 (Α)
+dp ÷ = Ess('0.v{ ’Ἡ ²⁰ ÷'3}{5)‘Lrss
+dlqu= Σβ 33³* ‘²²3⁹
+
+denen (116 Formel der gesuchten Transformation bei den konstan-
+ten &⁰412ss . μὴῌ-η, geuugen sollen‚ oder besser: denen die Relatio-
+nen zwisehen x„ z, pm4„ welche man nach Elimination der y1.. y,
+erhalt, genugen sollen. Die Anzahl dieser Relationen ist 2n †2 —- 2m
+und ist derjenigen der Gleichungen (A) gleich. Also mus das Sy-
+stem (A) der gewohnliohen Differentialgleichungen ein unbesohrankt
+integrables sein. Wenn wir das beweisen‚ so wird damit bewiesen‚
+dass die Formel der Transformation‚ die den Gleichungen des Sy-
+stems (A) genug0n‚ diejenigen der gesuehten Transformation sind.
+WVenn in der Tat das System (A) ein unbesohrankt integrables ist,
+so bestimmt es (116 Veranderliohen z, xmp„ p„†‚-‚ μ, als Funktionen
+der xpmxm. Wenn wir jetzt diese letzten als (116 beliebigen Fun-
+ktionen der y„ ···;²lsn÷1‡m> die in Bezug auf y ..... y„ unabhangig
+sind, betraehten. so zerfallt das System (A) infolge der Willkur-
+liehkeit der dy ..... dy... in m Systeme (A‘)‚ woraus folgt‚ dass (116
+Formel der Transformation, (116 (1611 Gleichungen (A) genugffll, (116-
+jenigen der gesuchten Transformation sind.
+
+Wir sollen also beweisen‚ dass das System (A) ein unbesohrankt
+integrables ist. Wir geben zu diesem Zweeke einige Hilfsformeln.
+
+¹) G. Morem. (l. 6.) hat dieses system, (116 erate und letzte Gleichnngen aus-
+genommen‚ als das erato Pfaffsche des Aundruckes 9¹ gesunden.
+

@@ -1,0 +1,57 @@
+719
+
+Ge rcbsultat a lieu pour tout nombre donn& η < ηο et pour eha-
+que valeur donnde de 2³0, prise dans l'intervalle (η, 2 π-η).
+
+4. Soit maintenant F (x) une fonction quelconque, bornee et in-
+tdgrable dans l’intervalle (0, 2 π).
+
+Envisageons l’identite oonnne, fundamentale dans la theol-ie des
+sest-ies de Fourier,
+
+ 
+
+n dsssignant un entier queleonque (positis).
+
+Multiplions cette identitb, par F(5) ἀξ et intfssgrons-la, en dcen-
+dant l’integration ὲ, l'intervalle (0, 2π).
+
+On obtient l’dgalioe bien oonnue
+
+ίπ
+
+(9) ’ξ’-9 -ι- fvj* (α, cos 10 x 4- bk sin lc x) :JFQD
+
+ 
+
+ 
+
+ 
+
+οὴ l'on a pos&
+
+a,={s}(g)0oskgd5‚ b,=‡s}(g)sink5dg (k=0‚1‚2‚...)
+
+Reprenons les nombres η et so, deSfinis dans le 11⁰ preoedent.
+Multiplions (9) par dx et intssgrons-la entre les limites ,το-η et
+ωο-Ἱῑ-η. On trouve
+
+ 
+
+ 
+
+ 
+
+ffgq†”2 {3}le (a¹² 003 kx„ -†— b„ sin lesco) =
+k==1 η
+204⁷} ’π
+1 j* j* Sin {23:21- (ξε-ξ) Ι (10)
+2sm ---2—
+aro—⁷1
+
+puisque
+
+u÷n n÷n
+sdae=2n‚ seoskxdngffl-J‘E ooskx0‚
+0—⁷1 τευ-ι
+

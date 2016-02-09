@@ -1,0 +1,53 @@
+718
+
+En appliquant 18 methode eonnue de Diriehlet, qui 86 sim pli-
+fie essentiellement (1811816 688 considere, nous (16111011-
+trerons 88118 peine que φ (ξ, n) tend uniformement vers 18 li-
+mite π, lorsque n erofft indefinimenv).
+
+Supposons ensuite que ξ 86 trouve en dehors de l'intervalle
+(⁵⁰0 — η, :150 -{-27) [688 1⁰ et 5⁰] et considemus, pour fixer les idees,
+16 688 1⁰.
+
+On aura
+
+ 
+
+ 
+
+α>0 β>ο
+
+(1*οὺ l'on 601161111 que φ(ξ,η) tend uniformement vers zero pour
+
+52:00, si
+
+0 <² ξ < xo — η.
+011 demontrera de la meme muniere que φ (x, n) tend aussi vern
+zero pour n = 00, lorsque ξ 86 trouve (18118 l'intervalle (ω, -Ι- η, 2π)
+[688 5⁰1, et 6618 ἱ11ἀ6Ρ611ᾶ81111116111 (16 18 position de ξ (18118 661 in-
+
+rvalle.
+¹⁵0 11 est 8186 (16 s'assurer enfin que (18118 168 688 2⁰ et 4⁰ on 8
+
+{iffi (ΜΨ)Ξ ⁷2³
+
+On voit (10116 que 18 fonction φ (ξ, n), definie par 18 relation (5),
+
+tend uniformement vers 18 fonction bien determinee φο (ξ),
+lorsque n croit indefiniment.
+
+Quant 8 18 fonction limite <p⁰ (ξ), 011 peut 18 definir par les
+conditione suivantes:
+
+⁹²0(5)=0 pour 0<ξ<ωο-η,
+π
+
+Ψο(ξ)ΞΞ pour 5=1⁶o-⁷7‚
+
+(8) φο(ξ)--π pour oeo—n<5<x0†n‚
+φαεν-ἐζ pour 5=xo÷m
+<100(5)=0 pour x0†n<5<2n.
+
+¹) Compar„ par exemplo, Ε. picard: ,Τιίἱιέ d’Analyne“ Paria, 1901, Τ. 1⁸
+p. 238 etc.
+

@@ -1,0 +1,51 @@
+660
+
+geuugen‚ und die Grleiehungen (1“) das System der n -ἦ- 1 Integrale
+dieser ‚letzten Gleiehung daretellen. Wenn man diese letzten auf
+die ursprflngliehen Variablen transformiert, so erhalt man, dass
+die Grleiehungen (1¹) n—†—1 Integrale der Differentialgleiehung
+
+dez—pldxl—...—p„dx„:0
+
+daretellen. Wir werden daher im folgenden immet voraussetzen,
+dass m ς n ist.
+
+Da wir m gegebene Gleiehungen (1¹) als m Integrale des Sy—
+stems (A) betraehten ki3nnen‚ so kennen wir die Aufgabe in folgen-
+der anderer Form ausdrueken: wir sollen die Differentialgleiehung
+
+9'=dz—p,doe,-...p„dx„=0‚
+
+wo (lie Veranderliehen x,- z p¹1 durch m gegebenen Relationen (1¹)
+
+sehon verbunden sind, durch die kleinste Anzahl n-{—1 ——m der
+
+Integrale integrioren. Wir konnen naoh dem oben bewiesenen im-
+
+mer voraussetzen, dass die gegebenen Gleiehungen (1‘) in Bezug
+
+auf m der Grssssen p,- z. B. in Bezug auf p ..... pm-auflbsbar sind.
+&Venn diese letzten in der ausgelfisten Form die Gestalt
+
+pf—&,(x,...x„zp„‚÷,...p„)=0 (i=1, 2...m)
+
+haben, so hat die Differentialgleichung Ω = 0 die Gestalt
+
+Ω’ = (13- Θμίπ, -· . . . — Θ,,,ιίειτ,,ι —pm41dx„÷, — . . .p„dx„ == Ο,
+WO
+[Pe ·““ Θις Pk “““ 8k] ’ἓ Ο
+ΡεΞΘι·
+{²1:²²9
+
+ist. Wir konnen den Differentialausdruek Ω’ auf die neuen Veran-
+derlichen so transformieren‚ dass m der neuen Variablen hbchstens
+‘lm gemeinschaftlisehen Fakt-or μ der Koeffizienten eintreten werden.
+Es seien die Formel dieser Transformation
+
+oeisz(y,...y,„4,„„) (i= 1, 2...n)2 z= m(y,...y,‚4,-„)‚
+pfflffl= zpffj(y,...y,„†„„,) j=1‚ 2...n—m·.
+Setzen wir voram, dass nzimlieh die Veranderliehen y: . .y„ nach
+
+dieser Transformation nur im gemeinschaftlichen Faktor μ euthal-
+ten sind (j=1‚. 2...n--m).
+

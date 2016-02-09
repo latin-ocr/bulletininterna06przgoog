@@ -1,0 +1,45 @@
+793
+
+53. MM. J. KOWALSK! et B. ZDANOWSKI. Nowa metoda oznaczania opo·
+tow elektrycznych ptynow i 1111116 jej zastosowan. (Nouvecce methodo
+pour la mesure des ratumne-es e‘lectrolutiques liqames et plu-
+sieurs de ses applications). Memoiro 1116561116 par M. A. Witkowski m. t.
+
+L'excellent ouvrage de MM. Kohlrausch 61 Holborn: „Leit-
+vermi3gen der Elektrolyte insbesondere der Lijsungen ¹)“ contient
+un 61161911 complet des methodes pour la mesure de conductibilite
+electrique des electrolyteS. Nous y trouvons que, si pour les me-
+511165 (165 16515160665 relativement petiteS, celles qui ne depassent
+pas 100.000 0111115, 011 connait (165 methodos faciles et 1165 exactos,
+il n'en est pas ainsi pour 165 1116511165 (165 resistances plus elevees.
+Si 011 veut atteindre une exactitude suffisantc‚ il faut sacrifier beau-
+coup de temps 61 beaucoup de travail.
+
+Les difficultes deviennent de plus en plus grandes 6 111651116 que
+165 165151611665 augmentent3 et comme le dit M. Kohlrausch en
+parlant de celle de ces methodes qui est la plus exacte et 16 plus
+ingenieuse‚ ces difficultes sont presque insurmontableS‚ s'il s'agit de
+mesurer les resistances superieures ὲ. 10⁶ ohms ²).
+
+Pour combler cette 16611116 qui existait dans l'ensemble des me—
+511165 electriques‚ nous nous sommes proposes de rechercher 11116
+1116111οᾶ6 qui fat facile a appliquer et 1165 exacte en 11161116 temps.
+Pour y arriver, nous avons modifie la methode 1110110566 1161 Sie-
+mens pour l’etude dc 16 1651516066 (165 6611165 electriques, methodo
+(1116 „du condensateur“. de facon a 66 qu'elle puisse donner (165
+1651111615 exacts en l'appliquant a la mesure de la conductibilite
+electrique. ,
+
+Νο115 chargeons un condensateur d’une capacite C ὲ, travers une
+resistance R -1— W, ou R ’651 11116 1651516066 connue purcment oh—
+mique3 et W la resistance electrolytique 6116161166. Le temps de
+charge peut 6116 regle 1165 exactement au moyen d’un pendule de
+Helmholtz'. Apros la charge, nous dechargeons 16 condensateur
+6 travers un galvanometre balistique et nous trouvons ainsi 16 110-
+16111161 Ε, auquel 16 condensateur 61611 charge. Connaissant la force
+electromotrice E„ que nous avons employee pour charger notre con-
+
+¹) Leipzig 1898, chez B. G. Teubner.
+⁷) F. Kohlrausch „Uber Widerstandsbestimmungen von Elektrolyten mit kom-
+stantem, oder mit Wechselstrom. Z. f, ph. Ch. XV, p. 126.
+

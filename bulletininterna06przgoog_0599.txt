@@ -1,0 +1,52 @@
+645
+
+und (181· Gleiehung
+Q=dz—p,doe,—...--p„doe„=o
+
+genuge leisten. n -Ι- 1 Gleiohungen (a) bilden also ein System von
+n -1- 1 Integralen der Gleiehung
+
+Q=O
+
+von der Besehaffenheit, dass 88 (1811 888811811811 Gleiehungen (1')
+genssge leistet und in Bezug auf Ρ. (r-= 1, 2.. . .n) sich auflbsen
+lasst. Wenn man umgekehrt die Differentialgleiehung
+
+Q=dz—p,dx,—...—p'„dx„=0
+
+durch die kleinste Anzahl n-f- 1 der Integrale integriert, die die
+gegebenen Gleiehungen (1‘) erfullen und in Bezug auf Pa (i=1, 2..n)
+unabhangig sind, 8ο bekommt man daraus durch Elimination die-
+ser Variablen eine Gleichung
+
+z=j(x ...ae„)‚
+
+die offenbar ein gemeinsames Integral der gegebenen Differential-
+gleiehungen (1) 1)11(181;. Wenn das System der n-}-1 Integrale der
+Differentialgleiehung Ω = Ο, (118 die gegebenen Gleiehungen (1')
+erfullen, sich in Bezug auf Ρ, (i = 1, 2...n) nieht auflsssen lasst,
+so dass man nach Elimination dieser Variablen mehr 818 81118 Re-
+lation zwisehen z, ω, bekommt, so bildet ein 80181188 System kein
+gemeinsames Integral der Differentialgleiehungen (1) im 811πὸ111111-
+811811 Sinne. Wenn man aber die Definition des gemeinsamen Inte-
+grals der gegebenen Differentialgleiohungen (1) verallgemeinert, so
+neunt man mit S. Lie ein 80181188 System der η-Ι- 1 Integrale der
+Differentialgleiehung Ω =- 0 immer 8111 gemeinsames Integral der
+gegebenen Differentislgleichungen (Ι). Die Integration der Diffe-
+rentialgleiehungen (I) im allgemeinsten Sinne besteht also in der
+Bestimmung des Systems (A) der n—{-1 Integrale der Differential-
+gleiehung Ω = Ο, (118 (118 888811811811 Gleiehungen (1‘) erfullen. Da
+wir dieses Problem in der allgemeinsten Form betraehten werden,
+
+8ο setzen wir voram, dass (118 gegebenen Differentialgleiehungen
+
+(1) uberhaupt in Bezug auf irgend welche k Grossen x„ z, —3—72 un-
+
+x
+
+abhangig sind. Θ ¹
+2. Wir wollen vor allem die notwendigen Bedingungen fur die
+Existenz (188 gemeinsamen Integrals der gegebenen Differential*
+
+14!-
+

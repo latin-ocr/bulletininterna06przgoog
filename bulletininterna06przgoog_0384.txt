@@ -1,0 +1,47 @@
+570
+
+r -— den Radius der zylindrisohen Rflhrer.
+v = 2 π r. n -— die lineare Genohwindigkeit der Oberflaehe des
+RfihrerS.
+
+{- — das mittlere Geschwindigkeitsgefalle in der rotierenden Was-
+sersehieht.
+A — die Auflzssangsgesohwindigkeitskonstante nach der Gleiehung:
+A: -F-[t- . lg Ξζ-ΞΞ . 2-303 3533.
+Ax -· die Aufli3sungsgeschwindigkeit nach der Gleiehung (3a)
+Ax = A . Co .
+3 —— die Dioke der adhiirierenden Diffusionssehieht = Ξ- 1).
+
+3. Einsluss der Ruhrgesehwindigkeit auf die Auf-
+168ungsgesehwindigkeitskonstante. Die sehon bereits
+nach der Methode B angestelten Versuche ergaben‚ dass die Kon-
+stante A proportione] der Umdrehungszahl der Zentrifuge ist ¹³). Das
+numliehe Ergebnis geht jedoch mit noeh viel grosserer Genauigkeit
+aus den naeh der Methode G sowohl mit dem zylindrisehen wie
+auch mit dem sehraubenffirmigen Rubrer ausgefuhrten Versuehen
+hervor.
+
+Samtliehe unten angegebenen Tabellen beziehen sich auf Ver-
+suche, die mit Alabaster ausgefuhrt worden sind, falls nieht aus-
+drueklieh ein anderes Versuehsmaterial vermerkt ist. Die Tempe-
+ratur der Versuehe betrug 25⁰ 0. Die Sattigungskonzentration ist
+bei 250 gesunden worden zu 00= 0·002094g 03604ι in 1 em⁸ ⁸).
+Die Zahlen Ax beziehen sich offenbar auf den Gips‚ das naturli-
+ohe zweifaeh gewasserte Oalciumsulfat &2:804oe H² 0, also Ax:
+A . σθ’, wo Ου’ = 00026509 CaSO⁴ . 2 H2 0 in l em3.
+
+¹) Fur don Diffusionskoeffizienten k fiir CaSO⁴ lingon keine unmittelbaren Mes·
+mugen vor. Wir haben denselben aus den lonenbewegliehkoiten nach dor be-
+kannten Nernnt'schen Gleichung (Nm-nst. Theor. Chem. 111. Auflage S. 261) zu
+
+k ε 14ῡῆ = 00605 35:¹11
+
+²) Zeit. anorg. ch. 35, 28 Tab. 2 (1903).
+⁸) zoit. phys. Ch. 35, 287 (1903); zeit. anorg. Ch. 28, 320 (1901).
+
+ 
+
+Θ- berechnet.
+
+ 
+

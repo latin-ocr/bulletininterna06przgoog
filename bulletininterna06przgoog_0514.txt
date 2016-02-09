@@ -1,0 +1,54 @@
+690
+
+aus demjenigen Systeme· der n -ι- 1 «Ι- m Integrale
+
+Oa(oe,⁰...p„⁰)=0 (a=1‚2...n-{-1—m)‚
+E(x,⁰...p„⁰)=0 m1(oe,⁰...p„⁰)=0(i=1,2...m)
+
+der Differentialgleichung ΩΟ = O, das die m gegebenen Gleichun-
+gen φί (2:1⁰ . . . p„⁰) = Ο euthalt, erhalten werden kann. wir kbnnen
+diesen Sohluss auch in anderer VVeise auspreohen: Die Niehtsin-
+gularitat des Integrales der partiellen Differentialgleiehungen (I) ist
+eine invariante Eigensehaft hinsiehtlich auf alle Pfaffsche Trans-
+
+formationem.
+2. Wir wollen jetzt eine Bemerkung uber den Zusammenhang
+zwisehen den Gleiohungen
+
+(f) 62(oe1---p‚.)=0‚R(x1-··p„)=0=
+φ,(ω,...ρ,)-;ο (a=1‚2...n÷1—m‚ i=1,2...m)
+
+und den Gleichungen
+
+(g) 292(=v1--z›„)=0 1⁴}(x1··p„)=0 (a=1‚2..n-}-1-m2·=1.2..m>
+
+machon. wir erhalten das gemeinsame niehtsingulare Integral
+(g) der Differentialgleiohungen (1) durch Elimination der Grbssen
+(εἶ’ 20 p? aus den Gleichungen
+
+(ε’) 62(oe1⁰...p„⁰)=0, F1(x,⁰...p..⁰)=0,
+φ,(ω,”...Ρ,,”)-;Ο (α-τ1,2...η-1-1-1η, i=1,2...m)
+
+die n†1-†-m Integrale der Differentialgleiohungen 90=0 hildem,
+
+und aus den 2n-{-1 —m Hauptintegralen der Differentialgleiohun-
+gen der Matrix (131) z. B.
+
+τηρ-τ „„(x,...x‚„x,⁰...p„⁰) j=1‚2...n——m
+(a) p5=p1(x,...x,„x,⁰...p„⁰) i=122...n
+z=z(oe,...x„x,⁰...p„⁰)‚
+
+oder andere gesagt: wir erhalten das gemeinsame Integral (g) der
+Differentialgleiohungen (I) durch die Transformation der Gleichungen
+
+82(x,⁰...p„⁰)=0‚ R(x,⁰„.p„⁰)=0 a=1,2..n-}—1—-m‚ i=1,2..m)‚
+
+wo m1(x,⁰...p„⁰)==0 (i=1,2...m) ist, auf die neuen Variablen
+ηερ, mit Hilfe der Formeln
+
+x„,„=x,„,‚-(x,...xmx,⁰...p„⁰)
+
+(a‘) p5=p4(x,...x,„ x,⁰...p„⁰)
+
+2=z(x,...xmoe,⁰...p„),
+

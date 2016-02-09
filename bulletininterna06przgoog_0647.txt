@@ -1,0 +1,46 @@
+693
+
+62 (x,⁰...p„⁰)=0 H(x,⁰...p„⁰)=0 (f)
+(a=1‚2...n†-1——m-‚ i=1‚2...m)
+
+mit Hilfe der in letzten
+wa(x1⁰·--ae..⁰20)=0 (5:1,2...m)
+
+so umformen‚ dass sie die n †1 Integrale der Differentialgleiehungen
+der Matrix (Bl) sein werden. Wir wissen in der Tam, dass die
+Gressen x? 20 ρξ’ in die 212 —†— 1 ——m Integrale dieser Gleiehungen
+nur mit Hilfe der 2114— 1 -— m unabhangigen Funktionen C,- (2:1⁰. .. pff}
+eintreten. wir kimnen also 2η -†— 1 —-— m dieser Grssssen z. Β.
+“fua-H> κο, p? durch (31...C,„4,„„, und durch die m ubrigen dieser
+sil-ossen 251⁰...oe0m bestimmen. WVenn man diese Werte ins System
+(f) der Integrale einsetzt. so ergibt sich, dass die m letzten Glei-
+chungen φι = Ο (ἱ = 1, 2 . . 7 m) die Grbssen 2:1⁰. . ,xm euthalten und
+in Bezug auf dioselben unabhangig sind, da diese Gleiehungeu
+keine Integrale der Differentialgleiehungen der Matrix (131) sind.
+⁷&Venn die ubrigen n-{—1 Gleiehungen des Syscems (f) x,⁰...x''‚„
+euthalten werden, so konnen wir dieselben mit Hilfe der m letzten
+Gleiehungen eliminieren‚ und werden diese n—†-1 Gleichungen nur
+O„ G,„-„„„, enthalten‚ d. h. sie werden zu Integralen der Differen-
+tialgleiehungen der Matrix (Bl). Es sei das System (f) in dieser
+neuen Form
+
+292(x,⁰...p„⁰)=0‚ R(x,⁰...p„⁰)=:0, m3(x1⁰...x„⁰20)=0 (f')
+(a=1‚2...n—†—1—m‚i=1‚2...m‘)
+
+dargestellt. &Venn wir jetzt die Grfissen κί’ zop? aus den Gleiohun-
+gen (f') und den Gleiehungen
+
+x‚„47-=xm†,-(xl...xmx,⁰...p„⁰) j=1,2...n—-m
+p1=ps(ae1...xm.c,⁰...p„⁰) 2:1‚2...n (a)
+
+2:2(x1...xmx,⁰...p„⁰)
+eliminieren, so bekommen wir offenbar die Gleiohungen
+θα(ω,...Ρ,,)-;Ο, E(x,...p„)=0 (a= L. 2.. n—Jf— 1 —m‚12=1,2..m)
+
+die das gemeinsame Integral im gewbhnlisshen Sinne der partiellen
+Differentialgleiehungen (I) daretellen‚ da die Gleiehungen (f‘) nur
+’γι-ΡΙ Relationen zwisohen :1:5⁰ 20 enthalten. Wir kennen das System
+(f') noch in der Form
+
+4⁴}
+

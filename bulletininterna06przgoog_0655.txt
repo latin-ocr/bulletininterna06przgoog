@@ -1,0 +1,49 @@
+701
+
+Satz VI. Wenn mann (118 Integralmannigfaltigkeit Mw-‚n (188
+gegebenen Systems(1‘) in Involution‚ die 818 Punktmannigfaltigkeit
+betraehtet n —- m-dimensional ist, bestimmt hat und, wenn man
+durch jedes Element derselben (118 charakteristische Mannigfaltig-
+keit fuhrt‚ so etha-lt man 81118 Integralmannigfaltigkeit M„ (188 ge-
+gebenen Systems (1‘), (118 818 Punktmannigfaltigkeit ausgefasst n-
+dimensional ist. vorausgesetzt‚ dass die Integralmannigfaltigkeit
+Mra—un 8ο gewahlt ist, dass keino der erwzihnten charakteristisehen
+Mannigfaltigkeiten mit der Mannigfaltigkeit Mra—m unendlich viele
+gemeinsame Punkte hat.
+
+Der Inbegriff der ocn÷ 1-”⁸ Integralmannigfaltigkeiten Mn-„⁸
+heisst ein vollstandiges Integral des Systems (1¹) in Involution.
+
+Man kann ein 80181188 8111811811. 111(18111 111811 durch jeden Punkt
+der Punktmannigfaltigkeit von n -}- 1 - m Dimensionen ¹) die 8118-
+rakteristisohen Mannigfaltigkeiten fuhrt, vorausgesetzt‚ dass (11888
+Punktmannigfaltigkeit mit keiner der oharakteristisehen Mannigfal-
+tigkeiten unendlich viele gemeine Punkte hat.
+
+,ξ 5.
+Wir wollen jetzt zur Theon-ie der singularen Integrale ¹uber-
+
+eben.
+g Wir haben (118 Differentialgleichung
+
+Ωέᾗξ (0120 -ριοαωιο - ...-p„0ozae„0) =o
+
+wo 1¹} (κιο . . .p„⁰ == Ο, φ,- (3:1⁰ . . .Ρ,,θ) == 0 (i = 1, 2 . . .m) ist, durch
+die Null-Setzung des Ausdruckes
+
+⁶3²0 -—- p1⁰dx1⁰ — . . . —p„⁰dx„⁰
+
+integriert. Wir 1ζϋ1111811 (11888 Gleichung. im Falle, wenn 1118111 8118
+
+351} (τ’ == 1, 2 . . . m) Null 8111ᾶ, (1111·811 (118 Null-Setzung
+
+μ- = 0 -
+
+μο
+integriorem. Wir haben gesehen, (1888 wir in diesem Faue die Wahl
+der Formel der Transformation so einriehten konnen, (1888 l 9 μ
+
+·) S. Lie hat beim Beweise dieses Satzes (nur fiir (1811 Fau zweier (1181811118-
+gen) irthiimlieherweise 81811 (181· n — 1 dimensionalen Punktmannigfaltigkeit dio
+n dimensionale genommen. (M. Ann.. Bd. 9, p. 271).
+

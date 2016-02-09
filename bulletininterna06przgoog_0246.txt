@@ -1,0 +1,54 @@
+448
+
+Man kann aus (161116161611 n—{—1 Gleiohungen, wo φ’ (ηοω, . . . p„)=-0
+ist, p1 . . . p„ 116611111111611, da (11666 Gleiohungen bei aa = <³21⁰ die Form
+
+64(x1⁰x,...p„)=0‚ (iz-1, 2...n), F(ael⁰oe,..p„)=0,
+
+wo φ (z :1:1⁰ x, . . . μ.) = Ο, 161, annehmen.
+Wenn wir also aus den Gleichungen (6) 110611 :131⁰ eliminieren,
+60 bekommen wir n -Ι- 1 Ι11168161816161111118611
+
+f(zae1...x„)=0‚ 29.(ae2...p„)=0 (i=1‚ 2...n—1)‚
+F(x2...p„)=0,
+
+(116 nur eine von p, freie Gleiohung
+f(zx1...x„)=0
+
+611111611611, (116 6111 Integral im gewzshnliohen 8111116 (161· Differential-
+gleichung (1) ist.
+
+Um (16.6 Integralsystem (b') von n—{—2 Gleiehungen der Diffe-
+rentialgleichung Ωο = Ο 11111 (1611 011611 erwahnten Eigensohaften zu
+erhalten‚ 6011611 wir 6111 Integralsystem von n † 1 Gleiohungen dieser
+Differentialgleiehung mit denselben Eigensehaften 611611611 1111(1 (161111
+1111 Sinne (166 Satzes ΙΙ und ΙΙΙ verfahren.
+
+In (161· Tat es 661
+
+‹p(z⁰x1⁰...x„⁰)=0‚ zp(2⁰xl⁰...x„⁰)=0,
+O;(z⁰oe1⁰..p„⁰)=0 (i=1, 2..n—1)‚ (b‘)
+10¹(ae10 . . .p„⁰) = Ο
+
+6111 System (161· Integrale der Differentialgleiohung ,Ωο = Ο, (166 11111·
+zwei von μθ 11616 Gleiehungen <p= Ο, ψ =.() euthalt, deren eine
+‹p.-=O kein Integral des Systems (31) ist.
+
+wir kfinnen zwei der Veranderlichen 2⁰, 1133, 11111 Hilfe der
+Gleiohungen
+
+φ-Σ-Ο, ψ’-τ-Ο
+
+aus der Gleisshung Ω0 = Ο eliminieren. Dio n—-I Koeffizienten bei (1611
+Differentialen der ssbrigen n-—I Veranderlichen 20:115? 6011611 infolge
+(161· Gleichungen (b'), verschwinden. wir konnen also (11666 16121611,
+8161611 Null gesetzten‚ als n—-1 unabhangige Gleichungen (166 Systems
+(b‘) 61111611111611. Wenn wir noch (116 Gleichungen
+
+(12:20, ψ-τΟ
+
+1116601118611, 60 6611611 wir, dass das System (b‘) in 61611 6111 System
+der n —†- 1 Integralgleiehungen der Differentialgleiehung ,Ω0 = 0
+
+ 
+

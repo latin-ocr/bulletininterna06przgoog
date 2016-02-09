@@ -1,0 +1,54 @@
+437
+
+wir erhalten also
+-Q‘=V.dy2-†--···-†-V2·.dy2.‚
+
+ΠΟ
+
+κεαψυωιέζξχῑ (i=2, 3·.2n)
+
+ist, vorausgesetzt‚ dass wir namlieh y22÷1 als die Funktion der
+y, . . . y„ aus der Gleiehung
+
+G(y,...y2,4,1)=0
+
+ 
+
+bestimmen.
+Die Relation (b) gibt uns in diesem Falle, dass
+
+‡·({7‘}—214)a20=0.
+
+ist, da F (ειη . . . p„) = Ο ist.
+Da aber 3!ss . . . y„ unabhangig sind, so folgt
+
+&V
+
+-έ-ᾹΚΞΟ (iz-:2 ..... 2n)
+
+991
+und durch Integration
+
+52 dyx ·
+
+V,=e K (22:2....2n)
+
+wo Y. von y1 frei sind.
+Wir haben also
+JZdy1 ‚
+
+,Q‘=dz—p1dx....-—p„doe„=e (12dy,-}- ..... ÷Y,„dy‚.),
+
+wo y1 nur in dem gemeinschaftliehen Faktor figurieren kann.
+Wir haben hiermit den folgenden Satz Ι bewiesen:
+Satz I. Um die Formel der Pf a f f seben Transformation des
+Ausdruekes
+
+„Q‘=dz—-p,dx1—...—p„dx„,
+
+wo B (ae1.. . x„ z pl . . . p..) =0 ist, zu erhalten, soll man die Diffe—
+rentialgleiehungen (B) in der Form
+
+x4=ae1(y1x1⁰····Pn⁰) ²=²Q1x¹⁰⁰⁰p⁶⁰> (a)
+pi=p,(y¹xlo....p„0) (εει, 2...n)
+

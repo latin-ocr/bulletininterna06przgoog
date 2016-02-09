@@ -1,0 +1,43 @@
+704
+
+hinzufflgen. Man erhult das singulare Integral im Faue, wenn ein
+solches existiert, wenn man
+
+&H
+
+ε-(ιῑ “ ⁰ ’
+seta, vorausgesetzt. dass nicht alle 23} (εει, 2. m) versehwin-
+den und also ἐξ, 01..(]11111,,1,,,. U„ . .. ἶ]1,1,1,1,,111 unabhangig sind.
+Es folgt aus den1 Formeln der Transformation
+&H &H
+o] Ξ εῖ( ²1:203
+infolge der Unabhangigkeit der Variablen ἐξ 1 61.. . . . . ('„÷1..„.
+U,....U„÷1..m‚ dass Ξ-ῗ-τῡ (i=1.2....n-†-1--m) ist. Das
+t
+
+singulare Integral des Systems (Ι) in Involution genugt den Glei-
+chungen
+
+Ξ-ἕ-ΞΟ (ἐ-τ-Ι,2..η-Ι-1-Μ) Ε(ω1..Ρ,1)--Ο (i=1, 2.. m)
+wo die Grbssen C, ...qu-‚n mit Hilfe der Gleichungen (g') eli-
+miniert sein sollen. Wenn das vollstandige Integral ein im ge-
+
+wfihnliohen Sinne ist und die Form
+
+92
+
+z=f(a:l ...ω1101 ...01111-111), μεξωί (23:1, 2...n)
+hat, so genugt das singulare Integra] den Gleiohungen
+3&(’{=O (i=]‚2..n-†—1—-m‚ Ε(ω1..Ρ11);-Ο (i=1‚2..m),
+
+wo C1.. . (,»„÷ 1—m mit Hilfe der Gleichungen des vollstandigen In·
+tegrals eliminiert sein sollen.
+3. Da die Formeln
+&H &H
+C¹ =C⁷a(³³1····Pn>3) -— ὖε-(ῑ- ΞΠ1
+(i= 12. ..η-1-1--φη1 j=·2,.3. n.-†—1——m)‚
+
+wo F (ω1.. .„p)= Ο (i= 1, 2. .m) ist, diejenigen der Pfaffschen
+Transformation fur den Differentialausdruek Ω’ sind, so stellen die
+Gleiohungen
+

@@ -1,0 +1,45 @@
+ 
+
+<30>S=“⁰†2⁸¹1„⁰,2'‘2'²<a ooskaeffl siukam: {2- ῥηαηῖἷεωξ),
+
+ear la serie (19) eonverge uniformement [voir n⁰ 6].
+Supposons que la serie de Fourier
+
+Φ (x) =⁶-}† Zakeoskoeff-bksinkx)
+ω
+
+converge pour ω = τεο.
+En employant la mssthode de Riemann (Gesammelte Werke,
+Leipzig, 187 6 p. 232), nous demontrons que dans le cas oonsidaebrd
+
+lim S‘ εἷο-ΡΣΨ, melanto-fb sinkoeo).
+
+D' autre part. l’egalitd (30) ayant lieu pour tontes les valeurs
+positives de η, plus petit-es qu 'un nombre donne} ηο < π, donne
+
+hms—11m—sdx(s1=().g)dg
+onadone
+
+Φ ⁷1
+
+Φαρεῖς-Ὶῑ-Σωφοεὲωο-ᾆ-ὂρἰηήωο 0=lgm45713sdoe(sF(§)dg),
+
+. tut
+ce qui nous permet d'einoneer-ce ιὴόοτόῐηθ ςόῃόταίε
+
+Τὴέοῐὲηὶε. Pour que la serie de Fourier‚ correspon-
+dant ὲ, une fonction F(.2·) bornffle et intdgrable dans
+l’intervalle (0,2n)‚ eonverge en un point quelconque
+ωο, ἰῃιέτὶθιη ὲ, l'intervalle(0, 2π), ἱ1 est necessaire que
+l’expression
+
+K=--sdae (smm) 431>
+
+ait une limite bien determinee pour ηε 0.
+D'autre part, s‘i cette limite existe et si la serie de
+Fourier converge pour ae= ατο, elle a
+
+²gun 3}ston amm)
+
+pour somme.
+

@@ -1,0 +1,49 @@
+706
+
+darstellen1). Die Differentialgleiohungen der Matrix (ΒΞ) stellen die
+Verallgemeinerung der kanonisohen Hamiltonschen Differential-
+gleiohungen‚ und die Formeln (h), (k) stellen die Verallgemeinerung
+der bekannten Satze von Jacobi uber den Zusammenhang zwisehen
+einer partiellen Differentialgleichung und dem Systemc der kano—
+nisohen Differentialgleiohungen dar.
+
+ς’ 6.
+
+S. Lie hat eine neue Methode der Integration des Systems der
+partiellen Differentialgleichungen (I) in Involution gegeben, die da-
+rin besteht‚ dass man die Integration dieses Systems auf die Inte-
+gration einer partiellen Differentialgleiohung mit nur n—†— 1 — m
+unabhssngigen Variablen reduziert. Wir wollen diese in der analy-
+tisohen Form darstellen. Wir kbnnen immer voraussetzen, dass die
+
+q
+
+ΟΖ
+
+gegebenen Gleichungen (1¹) in Bezug auf m der Griissen a - z. B.
+ἢ π cx,-
+in Bezug auf {32- ..... {z aufgelssst sind:
+cml cxm
+32 32 &z .
+(I) gxi = &1(ae1’· u κη’. Ζ, ἔῷὦῖιῖ υ ι ι ι &gv-²⁸) ι = 1, 2 ο ο ο ο ’,ἶ
+
+Die Integration dieses Systems besteht in der Integration der
+Differentialgleiohung
+Q‘=dz—Oldx1-—-..—- &mdxm—pmffldxm ΓΙ -..—p„d;c„=...-O
+mit Hilfe n -ἦ- 1 -- m· Integrale. Die F ormeln der Pfaffschen Trans·
+
+formation geuugen dem Systeme der gewahnliohen Differentialglei-
+chungen
+
+1
+m
+kM) 01me- ²²2*ss (3533 “FP 1333) doea
+1
+m —m
+άκεΣβ(Θβ- p„÷, §jz-355) doess
+1 1 *³
+¹) Dieso Gleiohungen fur den Fan
+33} ’ΞΟ (i:1‚2....m)
+
+sind von Saitikow (Ι. e.) gegeben.
+

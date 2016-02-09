@@ -1,0 +1,42 @@
+2
+
+Es sei fel-ner ΑᾐἹΙὮ die zweim² Unterdeterminante‚ welche die. i, j“
+Zeilen und lc, q²‘ Kolonnen der gegebenen Determinante Δ nicht
+euthalt.
+
+Satz l.
+Wenn fur die Determinante Δ
+’(2) Ξ( Aa: 0
+ist, so ist ¹
+(3) ὲΔΣνΑΜ, = {212 <z=1,2,..n>.
+ι ι
+
+Es ist hinreiohend‚ diesen Satz nur fiir den Fall i=1 zu be-
+weisen‚ d. h. zu bewe-isan, dass, wenn
+
+μεθ
+ὲΔῖΑΜΞΣΑ,
+
+da man die i“ Zeile und ἐι* Kolonne immer an die Stelle der ersten
+Zeile und ersten Kolonne set-zen kann, ohne die Bedingungen des
+Satzes zu vot-andern.
+
+Wir k6nnen die Bedingung
+
+Σ Α, =
+
+durch Entwickelung jeder Unterdeterminante Am... Α,,,, nach den
+Elementen der ersten Kolonne in der Form
+
+(21) A„ -ξ- Σ a„ te„ = 0
+
+darstellen. Man hat offenbar
+R„ = Σ* Amr.
+
+Wir erhalten durch Multiplikation
+
+ist, daun ist
+
+*au-Htw —aany · · · —atn Ru
+(ιη, αρε, . . . 6¹2..
+

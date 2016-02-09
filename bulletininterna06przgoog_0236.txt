@@ -1,0 +1,57 @@
+ 
+
+ 
+
+438
+
+integrieren und dann die Anfangswerte τέ) z“ μθ der Veranderliehen
+(ηερ, durch zwei Relationen verbinden‚ deren eine
+
+F(ael..x„zp1..p„)=F(oe1⁰....p„⁰)=-O
+gegeben ist und eines der Integralc des Systems (131) daretem, und
+die, andere
+‹p(x,⁰...p„⁰)=0
+nur die Bedingung erfullen soll, dass sie dag-egen kein Integral
+dieses Systems ist. Die neuen Veranderliohen sind y1 und 2n—-1
+
+der Griffssen ³³1⁰ . . . . μθ.
+Es ist klar, da ἐξ l: Ο ist. dass das System (a) auch in der
+Form ἱ
+221: 2⁷⁶ (91331ο - · - -P‚.⁰)
+τεί =x,(ae,ae1⁰....p„⁰) <i=2, 3.. . n)
+z = z (x1x20....p„⁰)
+.=p,(x1x1⁰....p„⁰) (i=1, 2...n)
+
+dargestellt werden kann, wo die 222 letzte Gleiehungen das System
+der 212 Hauptintegrale des Systems (Β.) in Bezug auf oe‚=x,⁰ bilden.
+
+Es gibt unendlieh viele Formeln der Pf a f f sehon Transforma-
+tion, da die Relation
+
+(p(x1⁰.....p„⁰)=0
+
+unendlioh vielo Formen annehmen kann. Es seien die -Formeln
+zweier solcher Transformationen
+
+1) oe1=x1(ylxl⁰....p„⁰)
+
+24=oe4(x1x,⁰....p„⁰) (i=2....n)
+
+z =z (x1x10....p„⁰)
+
+Pe=ps(⁴151x1⁰····p‚.⁰) (i=1‚2....n)‚
+
+wo F (131...p„)=l⁷' (2:1⁰...p„0)=0 und φ (J10...p„⁰)=ist;
+
+2) und x1=x1(ae1x2⁰⁰....p„⁰⁰)
+
+oes=xf(x1x,⁰⁰....p„⁰⁰) (i=2...n)
+
+z ==z (x1x100....p„⁰⁰)
+
+p1=p1(x,xl⁰⁰....p„⁰⁰) (2:1,2...n)‚
+
+wo F(x1. . .x„zp1...p,‚)=1v‘(.r1⁰0...p„⁰⁰) =0 und Φ (ae100....p„⁰⁰):=0 ist.
+Die neuen ,Vorandorliehen sind in diesen Systomen 222. unab-
+hangige Grezssen von den y1x1⁰ . . . μθ, und tl x1⁰⁰ . . . p„⁰⁰
+

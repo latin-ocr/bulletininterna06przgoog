@@ -1,0 +1,60 @@
+5¹61
+
+ten. Ale Au flfisungsgeschwindigkeit wollen wii· weiterhin
+nach der Gleichung (3) Aa: fur den Fan c = 0 und F = 1 definie-
+
+mn, d. h.
+Ax ε Α 0„ . At. (322)
+
+Die Auflsssungsgesehwindigkeit ist also die in der
+Zeiteinheit (l Stunde) von der Einheit der Oberfla-
+che (l cm2) aufgelbste Stoffmenge‚ wenn die Obbrfla-
+ohe bestandig mit einem Strome des reinen Lfisungs-
+mittels mit willkurlieher‚ aber unveranderlieher
+Gesohwindigkeit umspult wird. Der so defini‘erte Wert
+der Auflfisungsgesohwindigkeit ist nur noch von den Konvektions-
+bedingungen abhangig3 . die Bestimmung dieser Werte z. Β. fur
+die in der N atur vorkommenden Ablagerungen ki'mnte bei der Beur-
+teilung geologisoher Erscheinungen Wichtigkeit gewinnen.
+
+Da dx= V.dc ist (V— Volumen der Lsssung), so geht die
+Gleichung (3) in (4) uber:
+
+A
+
+dc= -V. F(C, — c) dt, ἶ (4)
+woraus nach der Integratioxss ἱ
+V 00 V 0 -— ει
+A= ῖῙΙηθ-Ἔ,ον. A=F(t2—tl)lnG⁰-—c²— (5)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anderseits gilt fur die Diffusion in der adharierenden Schiche H„
+deren Dioke 8 sei, die Fiok’sehe Diffusionsgleichung
+
+ἅψεις. Ρέαι (6)
+
+Als erste Annaherung wollen wir annehmen, dass der Konzentra-
+tionsabfall im Diffusionsgebiete Η1 einen linearen Verlauf habe ¹),
+
+¹) Dies ist ja sicher nieht der Fau, da das Konvektionsgebiet H, vom Diffu-
+sionsgebiete nicht durch eine scharfe Grenzlinie getrennt werden kann. Vielmehr
+
+liosse sich das Konzentrationsgefallo durch eino Kurve M R T (Fig. 1) veranschaur
+
+lichen. Niehtdestoweniger kbnnen wir jedoch immor dio Gleiehung (7) ἷξε 0⁰-
+
+ 
+
+ε
+aetnam nur in diesem 1⁴alle wird 8 nicht die totale Dieke der Diffusionssehieht
+(durch die Kurve Μ R Tbegrenzt) sein, sondern diejenige‚ die durch die im Punkto
+M gezogene Tang-onte bestimmt wird. Der durch die Gleichung· (7) definiet-te 'Dis-
+fusionsweg entem-ioht reohnerisch der wirklich existierenden Diffusionsechicht.
+

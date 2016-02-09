@@ -1,0 +1,46 @@
+687
+
+und m Gleich ungen
+Q4(ae1⁰...'p„⁰)=0 (i=1‚ 2...m)‚
+
+die nur keine Integrale der Differentialgleiehungen der Matrix (13¹)
+sind, euthalt. XVenn man aus diesen n†1—1-m Gleiehungen (f)
+und aus den 222 -1- 1 -— m Hauptintegralen der Differentialgleichun-
+gen der Matrix (131) die Grbssen ,τέ’ 20p1⁰ eliminiert, so bekommt
+man n-†—1 Gleie-hungen‚ die das gemeinsame niehtsingulare Inte-
+gral der partiellen Differentialgleiehungen (I) bilden.
+
+Wenn aus diesen n -†— 1 Gleiehungen nur eine Relation zwi-
+sehen aaz folgt, so stellen diese das gemeinsame niehtsingulare In—
+tegral im gewsshnliehen Sinne dar3 sie stellen im entgegengesetzten
+F alle ein gemeinsames niehtsingulares Integral im erweiterten Sinne ι
+
+von S. Lie dar.
+
+WVas solehes System der n —{- 1 -}-m Integrale der Differential-
+gleiehung ΩΩ ---· Ο 1161111113, das m gegebene Gleichungen (1¹) und m
+Gleiehungen‚ die nur keine Integrale (161 Differentialgleiehungen
+der Matrix (131) sind, 6111111111, so bestimmen wir, offenbar ein sol-
+ehes ohne die Integration in folgender Weise: Wir bestimmen ein
+System der n-f— 1 Integrale der Differentialgleichung ,90:0, das
+k (Ο ς Ιεςφη) von der gegebenen Gleichungen R (2:1⁰ . . . Pn⁰) = Ο
+(i = 1, 2 . . . m) und m —- q (q ς k) Gleiehungen m5(ae1⁰...p„⁰)= Ο,
+die keine Integrale der Differentialgleiehungen der Matrix (ΒΞ)
+sind, enthalt. VVenn wir noch die m —- k ubrigen (161· Gleiehungen -
+(1¹) und ΙΝ) q) willkurliehe Gleiehungen‚ die q Gleiehungen er-
+halten, die keine Integrale der Differentialgleichungen der Matrix
+(Bl) sind, hinzufiigen‚ so bekommen wir das gewunsehte System
+der n-†-1 Integrale (161 Differentialgleiehung ,ΩΟ-ΣΟ. Jedes sol-
+61168 System der Integrale kann in dieser Weise erhalten werden.
+
+Man kann beweisen‚ dass alle gemeinsamen niehtsingulitren
+Integrale der gegebenen partiellen Differentialgleiehungen (I) in
+Involution aus denjenigen Systemen der n-†—1—{—-m Integrale der
+Differentialgleiehungen ΩΟ == Ο erhalten werden kbnnen, die die-
+selben m Gleiehungen (p, (x10...p„⁹).—.= Ο (iz 1, 2.. .m)‚ die keine
+Integrale der Differentialgleiehungen der Matrix (132) sind, enthalten.
+Es sei das gemeinsame niehtsingulare Integral
+
+3¹2(x,...p„=:0 (a=··-1‚2...n-{—1—m)‚
+Fl(x,...p„zp,...p„)=0 (i=1‚2...m)
+

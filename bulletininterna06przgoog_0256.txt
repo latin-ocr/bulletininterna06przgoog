@@ -1,0 +1,55 @@
+458
+
+92 H( 'ez 9²)—0
+{vi-{— xl...x„8—x²·...}x—u —
+
+hat. Wir werden sie nach der Methode von Cauohy integrieren⁶
+Das System der gewbhnlichen Differentialgleiohungen (131) hat
+in diesem Falle die Form
+
+dx„ dx„ dz dp1 dp„
+
+dx1=fl =....== =——— =—„-= ,,.--.-ῇ-
+
+{LJ‘ ³51 . ,9-Ῑὲ ‘Es &H
+91²2 ep„ 12&ch ε ἴ,
+
+und sein Sys'tem der Hauptintegrale in Bezug auf xl :h die Form
+
+ 
+
+x4=x1(x1x2⁰...x„⁰p2⁰...p„⁰) (i=2...n)
+(a) z=zo-}—z(x1x2⁰...x„⁰p2⁰...p„⁰),
+p1=p,(oe1x2⁰...x„⁰p1⁰...p„⁰) (i=1,2...n).
+
+5
+
+Um die Gleichung (1) zu integrioren‚ mussen wir die Glei-
+ohung
+
+az„ -p20dx20 - ...-p„0doe„0= ο
+durch' n Integrale
+(L) 6‹(⁵⁶2⁰···20P2⁰···P„⁰)=0(²3:122···⁷2)
+
+integrieren (Satz 11,111) und dann die Grssssen ‘¹²2⁰- .x„⁰z⁰p1⁰ . . μθ
+aus den Gleichungen
+
+61:0(i=1,2...n)‚ p1⁰-†-H⁴(oe1⁰h...p„⁰)=
+
+und den Gleiohungen (a) eliminieren.
+Man wird nach der Elimination p1⁰ das System
+
+(M) 61(x2⁰..p2⁰)=0,(i=1‚ 2..n)‚ p14H(ae1..p„)=O
+(a‘) 'x1=x,-(oe1x2⁰..p„0), Ps=p1(⁰31x2⁰· ‚p2⁰..p„⁰), (z'=2‚3..n)
+
+z :20 —{-—z‘ (ae1x20 . ..51:„01920 . ..p„⁰)
+wo die 222 —- 1 Gleichungen (α’) die Hauptintegrale des Sysoems
+
+ 
+
+doe1=Q—- =ffi=—— dz Ξ
+εΗ &H ΘΗ
+ῖῑ ³70.. 2P55*H
+(ΒΞ) --ςὲεεζ Ξ-ἐεπ
+&H 2H
+

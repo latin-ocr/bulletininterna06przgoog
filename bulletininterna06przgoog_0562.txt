@@ -1,0 +1,44 @@
+738
+
+f(x) == 3-1-2' (a, 008 kx -ι- b. sin k ω) -Q- ρ.. (54)
+
+Ona
+
+sg²dx =s²;²(x) dz— '‘gf—aj'w-ff—be).
+
+On en eonelut, en vertu de (53), que
+
+za
+lingspssdoe == 0.
+0
+
+Soit maintenant φ (x) une fonction telle que les integrales
+
+ 
+
+επ επ επ
+
+squ(x)f(x)dx‚ sffxmoskoeax, smmsinkxdx
+
+0 0 0
+
+aient un sens bien determine et que
+επ
+svs-Kx) dx < 0²,
+0
+
+Q designant nn nombre assignable.
+Multiplions (54) par φ(.τ) dx et integrons-la entre les limites α et β,
+
+α et β etant des nombres queleonque8‚ compris dans l'intervalle
+(0, 2η).
+On trouve
+
+sm (x)f(oe) dx = ⁷393& -ι- a} (a, a: -}-. b, bg) -fl-sz„ φ (ω) dx,
+
+οὺ l'on a pose
+
+β β
+αιἐ-ἐ-Ῐφ(ω)οοε]εωείω, ὂ,’;ἐ-]φ(π)3ἰηῶωὰ.
+a (k=0‚ 1,2‚...) a
+

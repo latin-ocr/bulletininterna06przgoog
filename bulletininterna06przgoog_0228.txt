@@ -1,0 +1,45 @@
+430
+
+nimmt. W ir werden im folgenden voraussetzen‚ dass die gegebene
+
+Gleiehung (l‘) die p enthalt. so dass z. Β. {E ·;Ι-· Ο ist
+
+W 1r kunnen unser Problem in der ἱοΙςέιιιᾶθιι, noch beqnemeren
+
+Form daretellen: wir sollen die Differentialgleichung
+Q‘zdz—p1dx—..—p,dx„=0,
+wo die Veranderlichen x, p, z durch die gegebene Relation
+Ῑ1’(αι;1 ..x„z, p, ...p„)=0
+
+sebon verbunden sind‚ durch die kleinste Anzabl n der endlichen
+
+Gleichungen integrioren.
+2. Wir setzen zuerst vorans, dass die gegebene Gleiehung (1‘)
+in Bezug auf eine der Veranderlichen p z. B. p, anfgeli’mt ist,
+
+und also
+p1= O(x1...x„zp2....p„)
+
+ist. Die Differentialgleiehung Ω’ hat jetzt die Form
+Q'=dz— &dOE1—P2dx, —.. —.p„dx„=0.
+
+Wir werden uns spater von dieser Voraussetznng frei macheu.
+Wir wollen nun auf die Differentialgleiehung Ω’ =0 die Pf a f f sobe
+Transformation anwenden. Das System der Differentialgleichungen
+
+(A) ist:
+
+ez -6‘923— 9:12,— — «Qu—0
+Sy, 3311 -ἾΡ ἓθι ‘⁶ p”3!l1— '⁹
+&Oc 8:152 ΒΘ Q σΘ 32
+33730391-7-..7 -7-337κ 0391ψὲοΖ {iix-*-
+÷fl⁶pflf —÷{QP —20=Q
+Ρο30 οιιΡ 091
+,ᾎέ ,314 013 -2p=0 (i=2‚3....n),
+03309191
+—{{÷2=0
+{ngfiffnix‘ ΞΟ, (i=2,3...n)
+οΡ 391
+
+oder:
+

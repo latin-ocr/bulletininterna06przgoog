@@ -1,0 +1,50 @@
+439
+
+z. Β. y1 2:¹⁰ . . . oe„⁰z0p1⁰ . . . p0„„, und t, “²2⁰⁰ . . . .x„⁰⁰z⁰⁰p,⁰⁰ . . . p„⁰⁰.
+
+Wir ki’mnen beweison, dass x1⁰ . . . x„⁰ 2⁰ 1²1⁰ p„-2⁰ nur durch
+:1:2⁰⁰ . . . x„ ⁰⁰2: ⁰⁰22, ⁰⁰ . . . p„⁰⁰ ausdruckbar sind.
+In der Tat sind die Systeme der Gleiohungen
+
+1) x4=·x¹(oe1oe1⁰x,⁰....p„⁰) (i=2....n)
+z=z (21x1⁰ ....... p„⁰) wo ‹p(x1⁰....p„⁰)=0
+p2=pff(x,oe1⁰ ....... p„⁰) (i=1‚ 2....n)
+und
+2)x,-=xs(x1x1⁰⁰....p„⁰⁰) (i=2....n)
+z =z(a·1oe1⁰⁰....p„⁰⁰) wo OE(x1⁰⁰....p„⁰⁰)=0
+p.==p4(x1ae1⁰⁰....p„⁰⁰) (τί-ΣΙ, 2....n)
+
+zwei Systeme der vollstandigen Integrale (les Systems (131). Da aber
+das System der gewiihnlichen Differentialgleiohungen nur ein System
+der vollstandigen Integrale besitzt, so folgt„ dass 2η Unabhangige
+von den Grossen ³³1⁰ . . . μθ gewisse Funktionen der 2n Unabhzingigen
+von den (Ξῖ-(358011 11⁰⁰. . .p„⁰⁰ sind.
+
+Diese Relationen bleiben auch dann, wenn wir noch die Relationen
+F (11⁰ . . . μθ) = Ο. F (zi-1⁰⁰ . . . p„⁰⁰) = Ο hinzufugen‚ da aus der ersten
+die. Relation F(;c1 . ..1, z . . . ρ..) == 0 und also die zweite folgt.
+
+Wenn wir mit den Formeln
+
+x1=x¹(y1x1⁰....p„⁰)
+
+ae4=x‘(x1oe,⁰....p„⁰) (2=2....n)
+
+z =z (oe1oe10....p.⁰) (D)
+p4=p4(x,x1⁰....p„⁰) (i=1‚2....n)‚
+
+wo F (2:1⁰ . . . μθ) = Ο und φ (11⁰ . . .p„⁰) = O ist, don Differential—
+ausdruck
+
+Ω’-- dz — pldx1 — ..—-p„dx‚„
+wo J‹''(11...p„)==0 ist, transformieren‚ so bokommen wir
+,ς λ dih
+Ο ,ἱ Ω’ = e M 7
+wo M dio Vel-anderliche y1 nicht euthalt. Es folgt darauS, dass
+M: (.Q‘me—s‘z‘iy1 )y,:y,o
+
+odor dass
+
+, -“ (Ῑλ ἀέίὼγι -- 111⁰
+M z (deo —- p2⁰dx1⁰. . . —- p„⁰ (ΜΡ) e
+

@@ -1,0 +1,53 @@
+1-47
+
+La deduction peut &tre rendae plus rigoureuse‚ en appliquant le
+theorbme en question ὲ, une quantit& finie de gaz, en transformant
+l’integrale de surfaoe θη int6grale triple et θη 18 ερθθὶ81ἰε8ηίῑ pour
+une quantit& &Mmentaire ¹).
+
+g 4. Il faut remarquer cependant que cette equation ne sera
+pas rigoureusement exacte, pas plus que les &quations (3), puisqu'on
+ne peut pas supposer que 1θ frottement intdrieur et 18 conductibi—
+lites de 18 chaleur soient des phenomenes tout-it-fait independantS.
+On pourrait ιηὲῐηθ douter qu'il y ait en g6neral des phenombnes
+queloonques‚ simultansss et coexistants, qui soient rigoureusement
+indefipendants l’un de l'autre. Dans notre cae, M. Na tanson2) 8 (16-
+ωοηιτθ, θη effet, que 18 ῐῙιέοτίθ ΠιοΙθθηΙ8ἱτθ θὶηθῐη8ιίᾳηθ foul-nit,
+pour les phenomknes de eonductibilitd dans un gaz, desexpressions
+differentes suivant que θθ gaz est θη repos ou en mouvement3 mais
+en gweral, 18 ἀίίῖθτθηθθ sera treas petite et il sera difficile d'en (ἰθ-
+montrer l'existence par 18 voie θκρθτίιηθηωΙθ. Nous nous bornerons
+dono 8η ᾶθὲῑθ d’exactitude auquel permet d’atteindre l'hypothbse (1θ
+”1’ἰηάθρθηᾶ8ηθθ“ ou de la „superposition“ des Ρὶιθηοῐηὲηθε de vis-
+coeit& et de conductibilitd. De meme, nous omettrons 18 consideration
+
+des deal-ts de 18 loi de Boyle-Charles‚ θη supponant l'e-xactitude
+de 18 fol-mule
+
+{=Ra Q
+
+ᾗ 5. Εηέοῐηιηθ, les &qnations fondamentales de l'Adrodynamique
+serunt, outre 18 formule θὴθθ (9), les suivantes:
+
+ 
+
+ 
+
+ 
+
+ 
+
+l'equation de continuiwt
+ξς μαψ) ,με-(ρῳ 4³<0²⁶0=0 (Π)
+
+ 
+
+ 
+
+ot Hx 32
+
+Q-
+
+¹) Smoluchownki „Sur l’atmosphbre etc.“‚ loe. cit.
+. ²) Bulletin Internat. de l’Aead. d. Se. de Orac-ovie 1902, p. 137.
+

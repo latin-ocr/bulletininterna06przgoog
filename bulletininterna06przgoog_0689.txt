@@ -1,0 +1,53 @@
+‘135
+
+Designons maintenant par ὁ un nombre positis plus petit que
+la plue petite dee parties εί et ε,”’, et supposons que
+
+ινιιξῠ. (47)
+
+Dans 66 cas on aura, pour tous les points de chacun des
+intervalles ef
+
+1F(u-}-h)— F(u)! < ε, (48)
+
+car les points u—†-h et w appartiennent tous les deux, en vertu
+de (47 ), ὲ. l’element e„ οἰι l’oseillation de 1⁴¹(u) ne surpasse pas ε.
+Eorivons Δ sous la forme suivante
+
+ΔΞΣᾸ ἿιΣ s -ΡΣᾸΗ -ΡΣᾸν (4⁹)
+
+en entendant par
+
+ω
+
+l'integrale etendue ἐι l'element ω (ω = εί, οβ’, ε,”’, 6,).
+On a, en tenant compte de (46),
+
+ΙΣΛ<Σ
+¹2s=<21J1<2w2 e <m
+
+M designant 16 maximum de 11⁴ (ιι)“ι dans l’intervalle (ζ, 2π-1-ζ).
+D'autre part, on trouve, en vertu de (48),
+
+Es <Με Σε,” <2πΜε,
+e,''
+et, en tenant compte de (45),
+
+¹2s¹<2M²Z⁶‘<2M²⁸·
+e
+
+On a dono, eu egard ὲι (49),
+ΙΔΙ <6M²s÷2nMe=2M(3M-{-n)s=s‘.
+
+On en eone-lut qu’on peut trouver un nombre positis ὅ tel qu'on
+aura pour toutes les valeurs de h, dont le module est inferieur ὲ ὅ,
+et pour tontes les valeurs de ζ dans l’intervalle (-η, -Ι-η)
+
+ 
+
+s¹<2M²Z e ‘‚<2M²s
+
+ 
+
+ 
+

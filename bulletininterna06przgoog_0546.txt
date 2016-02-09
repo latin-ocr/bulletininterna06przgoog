@@ -1,0 +1,61 @@
+722
+
+· Mais, quels que soient les nombres η et xo, ohoisis de la ma-
+niere indiquee plus haut (numero 3), l’integrale
+
+'²⁰4‘
+(20) 2—{7- sFnoe) αξ
+το-τι
+
+a un sens bien determine, oar F(5) reste bornee et integi-able dans
+l'intervalle (0, 2π).
+Il s’ensuit que la serie (13) converge en tous les points
+
+de l’intervalle (η, 2π-η) et que sa somme est egale
+ἐι la valeur de l'integrale (20).
+
+6. Demontrons maintenant que la serie (13) oonverge uni-
+formement dans l'intervalle (η,2π-η).
+Pour oela considerons la differenoe
+
+1
+
+ᾃ-εεῇῆ
+
+επ
+s Fe) [ φ (ξ, n>- wo] αξ.
+En vertu des proprietes de la fonction φ (ξ, n), indiquees dans 16
+
+numero 3, on peut affirmer qu'il existe un nombre ν tel qu'on aura
+pour ηξν et pour tontes les valeurs de ξ dans l’intervalle (0, 2n)
+
+³Q(52⁷2)-<1>0(5)1<⁸‚
+
+ε etant un nombre positis donne ὲ l’avanoe.
+On aura dono
+
+2πη {mo} dege-²23,
+
+ε
+
+{s-Q<
+
+ 
+
+M designant 16 maximum de 1F(g)1 dans l'intervalle (0, 271).
+
+Pour chaque valeur de η < ηο, ΗΧ66 d’une maniere queleonque,
+on peut, par consequent, donner ὲ l‘avanoe un nombre positis ε’ et
+puis, choisir 16 nombre ν (16 faoon que l'on ait
+
+(21) y 8,,- Sy < ε’ pour n ξ ν,
+
+et cela pour toute position du point ³³0 dans l’intervalle (η,2π-η).
+Gette inegalite demontre la proposition enonoee au debut (16 66 n0.
+7. On peut maintenant deduire de l'egalite (19) quelques oon-
+
+sequenoes interessantes que nous allons indiquer avant de passer
+
+iz la demonstration du theoreme de MM. Liapounoff et Hurwitz.
+Faisons une hypothese particuliere au sujet de la fonction F (ξ);
+

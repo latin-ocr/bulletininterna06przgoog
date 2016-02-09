@@ -1,0 +1,51 @@
+174
+
+Il est vrai que nous aussi, nous avons neglige un facteur: l'effet
+de l’inertie du gaz, qui diminuere cette differenee et produira des
+oscillations qui tendront 8 s’evanouir. Par consequent, notre 881881
+118 serait exact que pour un gaz tres rarefie. Cependant, cet exemple
+prouve qu’une erreur — tres petite peut-&tre — est inevitable si l’on
+emploie 18 foi-mule adiabatique 8 l’evaluation des mesures de 18
+81181881 specifique (188 gaz faites d'apres 18 methode de Clement-
+D esormes. Leur effet 8818 8118 augmentation apparente du coef-
+fieient k, le contraire de l'effet de 18 conductibilite. D'ailleurs‚ il
+dependra de 18 1118111818 dont 88 produit 18 8018ρ18881011ς 81 18 re-
+servoir avait, par exemple‚ une forme spherique‚ 8 parcis dilatables,
+18 diminution des longueurs serait la meme (18118 toutes les direc-
+tions:
+
+&u - &v — &w
+'923 “““ Θῇ -“ &z
+et, par consequent, p„ = p„ = p„ = p, c'est-n-dire que 18 viscosite
+n’aurait aucun d’effet‚ ni mecanique. ni thermique (puisque Φ = Ο).
+
+ξ 26. Le systeme des equations aerodynamiques est si compli-
+que qu'on ne peut esperer de le resoudre directement que dans
+des exemples d'une simplicite exceptionnelle‚ tels que ceux que
+nous venons de citer. On peut aussi employer‚ outre les methodes
+des ξ 7 — g 13, 18 methode des approximations successive& En
+voici des 888 particuliers: Si le coefficient κ (18 conductibilite ther-
+mique etait infini, on aurait un mouvement rigoureusement isother-
+
+mique. La meme conclusion s'applique approximativement 8 tous
+188 888 ou 18 conductibilite joue un 1618 preponderant, comme les
+
+mouvements „calmes“ (18118 188 conduits etroitsr, 8 11188818 que Ξ
+
+κ
+
+= (50118ίὶ.
+
+differe de zero, 18 distribution de chaleur et de mouvement s'ecar-
+
+te de l'etat limite, de sorte qu'on pourra developper tontes les
+variables en series potentielles de 18 forme
+
+μω αεηψξψῗψᾌψω
+
+θεῳψέψῇψω
+
+En decomposant les equations (10, 11, 12) apres avoir substitue ces
+
+expressions, d’apres les degres de (ἐ), on aura une serie d’equa-
+

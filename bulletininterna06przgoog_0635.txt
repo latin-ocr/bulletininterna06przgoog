@@ -1,0 +1,59 @@
+681
+
+sein} damit die Veranderlichen (ηερ, den Gleichungen (I‘) genti-
+gen. VVas aber die fibrigen m Relationen zwischen κβ 20 p¹ betrifft7
+so bleiben diese letzten ganz willkurlieh, nur sollen sie keine Re-
+lationen zwisehen ω, zp¹ nach sich ziehen, da diese Veranderliehen
+nur den Relationen (I‘) geuugen sollen3 mit anderen VVorten diese
+
+m ubrigen Relationen
+
+m4(oe,⁰...ae„⁰zop,⁰...p„⁰‘)==0 (i=1‚2...m)
+sollen keine Integrale der Differentialgleiehungen der Matrix (B1)
+sein. Wenn wir jetzt voraussetzen‚ dass die 2n÷1 -— 2m unab-
+
+hangigen von der Verflnderliohen 2:1⁰ 20 μθ gerade y„4,‚ . y,„41-„
+sind, so erhalten wir die Formeln der Pfaffsohen Transformation
+
+xm4j=oe‚„÷,-(x,...x„‚x,⁰...p„⁰) (j=1,2...n—m)
+
+p³=p‘(x1...oemx,⁰...p„⁰) (i=1,2...n) (a)
+z=z(x1...x„x,⁰...p„⁰)‚
+x4=x,'(y,...y‚„x,⁰...p„⁰) (i=1‚2...m)‚ (b)
+
+wo Ε. (ae,⁰ . . . :1:‚4020 μθ . . .ρ,,0) = Ο, φ, (ιι-,0 . . x„⁰20 μθ . . . p„⁰) = Ο ist.
+
+Die Veranderlichen xsszp¹ geuugen in der Tat den Differential-
+gleichungen der Matrix (131), da die Gleiehungen (a) ihre Integrale
+sind, und sie erfflllen die m gegebenen Gleichungen
+
+1⁴}(x1...x„zp2...p„)=0 (z‘=1‚2...m).
+
+WVenn wir jetzt die Funktion μ hinzufugen‚ die aus der Glei-
+ehung
+
+ 
+
+ 
+
+⁶ v Ἴ «Ἃ...
+2835..{¹3⁶22w=-233½-ff1?-232¹÷:220{‘53..p„>‘²2³ <0>
+
+bestimmt ist, so werden wir alle Bedingungen des Satzes ΙΙΙ er-
+fullen, und sind die Formeln (a), (b) diejenigen der Pfaffsehxen
+Transformation.
+
+Was die Funktion μ beu-iffi, so erhalten wir, im Falla, dass
+
+ 
+
+st—Te——OEF-AEu) =O (ss=1‚2...m)
+
+c p,..p5-1zp3÷1...pm)
+
+ist und nur in diesem Fan, d. h. im Faue„ dass {ql—‘zi =0 (i=1.2..m)
+ist und nur in diesem Faue, dl 9u=0‚ d. h. 19μ enthssilt nicht
+die Veriinderlichen y ..... y„n und diese Veranderliehen versohwin-
+
+den nach der Pfaffsehen Transformation des Ausdruekes Ω’.
+

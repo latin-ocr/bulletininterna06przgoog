@@ -1,0 +1,49 @@
+172
+
+flux‚ p. ex. (1666 166 tubes de Ρο16661116, par trois (10666661 la
+pression 66 deux points 61 16 temperatum du gaz. Mais, 60111166
+nous le verrons plus loin‚ il n'y 6 16 qu'une apparente simplicit&
+(16 16 101 (16 Ρο16661116, 666666 par l'omission (16 16616616 66606-
+(161166, 60161616661 (16 1’16Η116666 (16 1’6161 (16 mouvement dans la
+proximite‘: des 66116161166 (16 tube.
+
+ξ 25. Un exemplo qu'il serait plus facile de 16611661 est 16
+mouvement variable (1611611161 les conditions: v = w = 03 u = f(.v, t);
+mais 66 9101116166 66 pourrait 6116 166016 (1666 10616 66 ς666161116.
+
+Nous supposerons (1066 (166 16 gaz, 6 pression 16111616 10⁰ 6116111-
+ρ61611116 00, soit 6061666 (1666 un cylindre‚ 6 parois poliss, ferme
+d'un 6616, (16 l'autre 6616 6(116611661 66 piston, 6 166666 nsgligeable,
+qui y soit 6610666 par 6116 force constante ας pour simplifier, nous
+nsgligerons aussi l'effet de l’inertie du gaz, en supposant un mou-
+vement 1661661666, 66610366 (1666 10616 son 1116161661
+
+(41) u = mf(t).
+
+Or, 16 force 6616116616 a doit 6116 116166666 par 16 somme de
+16 pression 1616116616 (16 gaz et (1611011616661 161611661, 6’661-6-(1116,
+
+(1611166 (1)1
+
+(42) Ρπεα--ρ-ξμξζξ.
+
+L'introduotion (16 {³3² ἴα) 61 16 substitution de p (1666 1’6(1661106
+
+thermique:
+3u)²
+
+ex
+
+35÷k2033=<2‡—1>{‘2(
+
+donne l'squation:
+df 3ak
+
+(43) dt†-4—!L-J'-{-s'²=0.
+On 611 ᾶ6(1611 par intbgration:
+(44) }=Ae“‘—-{; 0111 α--ἒΞ-ἶι-Ιΰ
+
+et„ en introduisant 16 1161661 16111616
+
+ἒξ (ἐξ τ-ο--Ρο ·- a,
+

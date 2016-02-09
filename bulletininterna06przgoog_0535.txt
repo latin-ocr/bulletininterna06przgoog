@@ -1,0 +1,43 @@
+711
+
+az„ —pm÷10dae„.÷10 - . . . -ρραωρ -- 0
+
+mit Hilfe der n -Ι- 1 - m Integralfm⁷ die die Parameter y2, . . . y„
+nieht enthalten‚ und nach der Transformation mit den Formeln (an),
+wenn man noch die Gleiohung ·
+
+91 = θ 1
+hinzuffigt, das Integral der Differentialgleiehung
+{03le ÷y2ssz †·†ym('-‘)m·
+
+Wenn man darin μ, . . ym als die Variablen betraehtet und noch
+die Gleiohungen
+
+φτ--θί (i=2...m)
+hinzufflgt, so bekommt man das gemeinsame Integral des Systems
+
+31:29„ {²²⁹⁴ (i=2...m).
+
+Wenn man endlich das letzte auf die ursprflnglichen Variablen
+<15⁶ng mit Hilfe der Formel (P) transformiert, so bekommt man
+dann das gemeinsame Integral des Systems der partiellen Diffe-
+
+rentialgleiohungen (I). Wenn das System der n-{— 1 - m der In·
+tegrale der Differentialgleiehung
+
+dz„ —Pm÷1⁰daem÷1⁰ — . . . —p..⁰dae„⁰ = Ο
+
+Θα (oem410...oe„⁰zop,„41⁰...p„⁰)=0 (a=1, 2....n-†-1—m)‚
+und das System der n -Ι- 1 - m Integrale der Differentialgleiohung
+dz —aeffidael -Pm÷1d<¹³m÷1 —— . —p„dae„ =0
+
+die Form
+¹902(oe1y2··.²lmym÷1··pn)=0 (a=1,2...n-}—1—m),
+hat, so ist klar, dass die Gleiohungen.
+θα (ae1y2...y„.oe„.4¹ ...p„)=0 (a=1‚ 2...n—†—1—m)
+bei ω, = Ιιι die Form
+Q02(23m-†-1···5¹¹3v·22Pm4-1···Pn)''-=0 (oe=1,2...n—{—1 —m)
+
+annehmm, und also die Parameter y, . . . ,ym versohwinden. wir
+kbnnen endlich den Satz aussprechen:
+

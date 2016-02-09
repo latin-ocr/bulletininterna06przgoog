@@ -1,0 +1,51 @@
+646
+
+gleiehungen (1) suehen. Wir kennen hierbei immer voraussetzen,
+dass jede der gegebenen Gleiehungen (l') die Variablen pi enthfflt.
+Das gemeinsame Integral der Differentialgleiehungen (1) bildet
+gleichzeitig ein Integral jeder von diesen Gleiehungen z. B. der
+Gleiehung
+
+E(x,...x„2p,...p„)=0.
+Das niehtsingulare Integral dieser letzten lassi: sich in folgender
+
+Weise (Satz ΙΙ, erste Mitteilung) bestimmen: Man soll die Differen-
+tialgleiehung
+
+90=d20—p,⁰doe,⁰—...p„⁰doe„⁰=0
+durch n-†-2 Integrale
+OE2(ae,⁰...p„⁰)=0 (a=1‚ 2...n)‚ R(x,⁰...p„⁰)=0,
+(b) (p(oe,⁰...p„⁰)=-O,
+
+wo <p (³²1⁰ . . . μβ) = Ο kein Integral des Systems der gewffihnliehen
+Differentialgleiehungen
+
+ 
+
+dx - -ᾱω, - az .-
+Ἶ “ ὲΙῆ -τ“ῆῖ
+’Ἲῖ ὣῖοῖ ⁴⁶²⁰ ᾖ
+..--- dp, .. ---—;{13.-,
+-. , ἢ ,-......- „
+(132) ἒΞ-Ι-ρῖζ-Ιὲ {gt-PR&
+
+bildet, integrioren und dann die Grssssen πθ, 20, p? aus den Glei-
+ehungen (b) und aus den Gleiehungen
+
+xffi==x5(ae,x,⁰...p„⁰) 13=1‚ 2...n
+
+(e) z —z (x,x,⁰...p„⁰) (ἓξ-Ξ τΙῑΟ)
+ΡεῧΡι(ῑΰιΦιο···Ρ,.ο) ’ὶ--1,2...η,
+
+die das System der Hauptintegrale des Systems (Bl) darsizellen²
+eliminieren. Die erhaltenen κήξ-1 Gleiehungen
+
+(d). θα(ω,...μ,)--ο (a=1‚2...n)‚ 111(x,...p„)==0,
+
+§tellen ein niehtsingulares Integral der Differentialgleiehung
+
+F(ae,.. ..ΜΞ ..... ἐξ)ῧο
+
+dar. Die Gleiehungen (d) sind offenbar ein System der n-†-1 In-
+tegrale des Systems der gewijhnliehen Differentialgleiehungen (B4).
+

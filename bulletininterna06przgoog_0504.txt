@@ -1,0 +1,51 @@
+682
+
+Wenn 61161· 1116111 6116 {2} (ἐπ 1, 2 . ..m) Null sind, 60 6111111111
+ί19μ (116 Verfinderliehen y, . . . y„ und folglioh x„ . .x‚,.
+
+Wir 11ὂ1111611 111 diesem Faue zwisehen den m Differentialglei·
+ehungen
+
+dae,=A,dy,÷...-{-B.0zy„ (k=1‚2...m)
+
+die Gleiehung (0) wahlen. Wir konnen daun 19μ willkurlieh wahlen
+und die Gestalt der Funktionen x ..... x„ hangt von der Gestalt
+(166 19 μ ab. Wir kijnnen z. B. lqu=y, wahlen.
+
+Wir haben 6160 (1611 allgemeinen Satz IV: Um die allgemeinsten ·
+F ormeln der Transformation des Ausdruokes
+
+Q'=dz—p,dx,—...—p„dx„
+
+zu erhalten, wo AE(x,..x„zp,.,p„)=0‚ [E.² Fk]=0 (i‚k=1,2..m)
+ist, 116611 (161· m der neuen Verfinderliehen z. B. y,. .y,¹² 11ϋ611616116
+1111 gemeinschaftlichen Faktor μ (161· Koeffizienten (166 transfor-
+mierten Ausdruekes bleiben‚ 60 6011 111611 (166 System der 2n-†—1 —m-
+Hauptintegrale der Differentialgleichungen der Matrix (131) bestim-
+men, und zwisehen den Anfangswerten πθ 20 μθ (161· Veranderli-
+chen xizpfl 2m Relationen
+
+F}(:c,⁰..x„⁰zop1⁰..p„⁰) =O, φ(ει>,0 ..x„⁰20p,⁰..p„⁰)=0
+(i=1‚2...m)
+
+aufstellen‚ wo die m letzten Gleiehungen 11111· 1161116 Integrale der
+Gleiehungen der Matrix (131) sein 6011611. WVenn 111611 (116 m unab-
+hangigen (161· Veranderliehen x. z ρ, 616 willkurliche Funktionen (161·
+y„ .. y,‚„4„„„‚ welche in Bezug auf y ..... y„ unabhangig sind, und
+wenn man die 222 -Ι- 1 —- 2m unabhangigen der Grbssen τέ) ²010?
+fur {Vn-w· . .y,„÷,„„, nimmt‚ 60 bekommt man (161111 (116 Formeln der
+
+gesuehten Transformation auf die 11611611 Variablen y„ . ·-¹l²··1¹-m·
+
+Im Faue wenn 1116111 6116 {A versehwinden, 60 kann man (116
+Wahl der willkurliehen Funktionen der y, . .. yffib„ 60 6111116111611,
+
+(1666 19 μ 61116 von vornherein gegebene Funktion ist.
+
+Wenn aber ἓέεῡ (i=1‚ 2....m) sind, 60 versehwinden
+y„ . ‚yn 116611 dieser Transformation.
+
+Da die Gleiohungen
+
+ 
+

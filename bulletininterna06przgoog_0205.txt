@@ -1,0 +1,63 @@
+187
+
+. ο 5}- ζα ζ = ο (8)
+pendant que, du cote droit, on obtieudra des quantites finies de la
+muniere suivante:
+
+L'operateur Δ2 ne peut pas &tre templace, en general, par
+
+9² 3² ἓξ
+ἔξ, -1- ἔῆ, 4· ὂζρ,
+
+8⁶ &P
+
+puisque nous avons suppose les directions des axes ξ, η, ζ variables,
+suivant la direction normale ὸ, la surface. Mais en tout cas, le terme
+
+de l’ordre le plus grand, qui seul entre dans ce calcul, puisque les
+
+. . ‚. . 9²0} 3²⁰⁷}
+autres disparalssent par lintegratlon, sera Ῑζῑ, ou ἃς,
+&vt
+
+vement). Lorsqu'on considere que -ὂ-ζῑ est ‚fini dans la distance ὁ,
+
+et que υξ disparsit pour ζ = O, l'integration partielle donne par cou—
+sequent:
+
+ 
+
+respecti· ·
+
+δ
+(9)
+
+325 = — υξ
+
+§je—gg} ζάζεζῖζδ ςῗξζέἀζεὸρἒξᾊ- ve a
+
+ 
+
+ 
+
+ 
+
+Dans l’integrale
+
+5:⁴2 ἐξ
+on peut supposer la constance approximative de ἐξ, ce qui donne
+lieu ἐι un developpement semblable:
+Sfecdss=-5228?{}2-⁰cdss=⁹⁹‘{-Jz⁹³ (10)
+
+Le resultat definitis est que la vitesse tangente, ὲ, la distance ὁ des
+parois, aura une valeur finie, notammeut:
+
+ 
+
+‘'-3--3 v Ξ----’---ῑ“-; (11)
+
+ξ 5. 11 est evident que les lignes de flux seront approxima-
+tivement parallelos aux parois3 par consequent, les vitesses normales
+ne penvent pas exceder l’ordre de grandem· ὀ, puisque le flux tra·
+versant la conche d’epaisseur ὁ suivant une directiou tangente sera
+

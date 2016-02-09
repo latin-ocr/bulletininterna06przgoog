@@ -1,0 +1,53 @@
+461
+
+wir haben geseben‚ dass die Differentialgleichung
+Q'zdz—p1doe1..—p„doe„=0‚
+
+wo F (³²51 . . . .p„)=0 ist, durch die Transfomation mit Hilfe der
+Formel
+
+oe1=oe2(y1x1⁰...p„⁰)‚ oe¹=ae„(oe1m1⁰...p„⁰) (i=2...n)
+z=z(m1oe1⁰...p„⁰), p.=p¹(x1oe1⁰...p„⁰) (i=1‚ 2...n)‚ (a)
+wo F(oe10...p„0)=0, ‹p(oe1⁰...p„⁰)=0 ist,
+die Form
+
+52dy1—‹52dyo0
+Q‘=e (dzo—p10doe10—...—p„⁰doe,⁰)=0
+
+annimmt. Wenn ΞΡ = 0 ist, so ist dann λ --- Ο. Wenn dagegen
+
+ΟΖ
+g -Ι- o ist, so ist daun ,ῑ wiukurlioh, aber nieht gleioh Nun.
+
+Das Integral der gegebenen Differentialgleiohung (1) heisst sin-
+gular, wenn es durch N ullsetzung des Faktors
+
+65 λ dm — (5 λ dm
+
+erhalten werden kann, insofern es durch Nullsetzung des Faktors
+d20 —p10dae10 - . . . -p„⁰dae..⁰
+
+nieht erhalten werden kann. ΙΨ
+0
+
+Das singulare Integra] ist nun dann m6g1i0h‚ wenn -ΘΞΞΙήΟ ist.
+
+Da in diesem Falla λ willkurlioh ist, so kbnnen wir, ohne die
+Allgemeinheit zu besehranken, λ = 1 setzen.
+
+Wir 1111166611 alm, um das singulare Integra] zu arbaston,
+
+91 -· 910
+setzen. e — O (β)
+
+Wenn wir diosa Gleiehung auf die neuen Veranderliohen trans—
+formieren‚ so bekommen wir die Relation
+
+8,(oe1...oe„zp1...p„)=0.
+
+Es ist klar‚ dass die Formeln der Transformation (a) infolge
+der Relation
+eyl -·· 311⁰—-
+
+-0 « (β)
+

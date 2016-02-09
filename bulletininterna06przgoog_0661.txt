@@ -1,0 +1,54 @@
+707
+
+Das System der Hauptintegrale dez-selben in Bezug aux x4= h
+(12:17 2...m) ist:
+oem÷j=⁵0m÷jssss¹···2moem÷1⁰···Pv-⁰) j=1‚2..n--m
+Pm÷1 =Pm÷j (2²1 · · · a'm τηε-θ 1⁰ · · · Pn⁰) (α)
+z =z(oe1 . . . xmxm÷1⁰· . .p„⁰).
+Wenn wir oem÷5⁰‚ 20, Pm÷j⁰ fur die neuen Variablen ym÷1 . . .
+y2„ ÷ 1-m‚ nahmen und x, = ῃ, (i = 1, 2 . . . . m) semen, so bekom-
+men wir dje Formel (a) der Pfaffsehen Transformation des Aus-
+
+druekes Ως nach der die Variablen γι . ‚y¹¹¹¹ hbohstens im gemein-
+schaftlichen Faktor bleiben‚ so dass wir nach der Transformation
+
+Q‘ :Z (dz⁰ —Pm÷1⁰d³²m÷1⁰ - , , ‚ —Pnodan
+
+haben, wo
+
+ 
+
+dlw = Σβζέθβ ‹1oess
+1
+
+&z
+
+ist. Wenn wir die Differentialgleichung
+
+⁶22„ —pm410doem410 - . . . —p„⁰0zae„0 = 0
+
+durch n-{- 1 — m Integrale (0) integrieren, diese letzten auf die
+ursprflngliohen Variablen τι), Pm÷i transformieren und endlioh zu
+den erhaltenen Gleichungen (D) die ‘Gleichungen (1¹), hinzufssgen‚
+8ο bekommen wir das System der n -}-1 Gleiohungen die das ge-
+meinsame Integral des gegebenen Systems der partiellen Differen-
+
+tialgleichungen
+
+&z—G( &z
+32— ,ι Φι....Φ”Ζέ-ὧ;;-ῖὲ ..... ἔπη
+
+ἀπεὲξῃῗζζῌατ, dass wenn wir mit denselben Formeln (a) den Diffe-
+
+rentialausdruok
+¹9¹¹ Ξ (ἷῖ -“· 61 ἀίει ““ Pru-bl daem÷¹ -“ · · · -Ρπάωτη
+
+wo ω, . . . xm die Parameter sind, transformieren‚ 8ο bekommen wir
+denselben Ausdruck
+
+μ (
+u„
+naneti„ 111. ὃ
+
+dz⁰ —— Pm÷1⁰doem÷1⁰ — . . . -— p„⁰doe„⁰)‚
+

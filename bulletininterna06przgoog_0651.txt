@@ -1,0 +1,48 @@
+697
+
+sondern auch denjenigen des Satzes VI genuge leisten. Wir er-
+
+halten das vollswndige Integral, wenn wir diesem Systeme der
+n-†— 1 -†—·m Integrale die Form
+
+εστ-0, ,131οΞ01 (i:1‚2..n). R(x1⁰..p„⁰)=0 (5=1‚2..m),
+
+wo f (20:1510. x„·--.-⁰) Ο (k= 1 2. um) ist, geben vorausgesetzt
+dass (116 (116161111118611 f ( 2021 ⁰. ..τῃ 0);-·() keine Integrale der Dif-
+ferentialgleichung 11 (161· Matrix (Β1) sind.
+
+4. Fassen wir nun noch den Fan ins Auge, wenn die gegebe-
+nen Gleichungen (Γ) 111 Involution in Bezug auf m (161· Grssssen Pe
+z. B. in Bezug auf P1Pm unabhangig sind. Die Differentialglei-
+chungen der Matrix (131) bestimmen in diesem Faue die Verssnder-
+lichen x„,÷j, Ρ... z und haben kein Integral der Form xi: const.
+(ἱ =]‚ 2....m). wir ki3nnen daher voraussetzen‚ dass die (1161-
+chungen φ, (⁵⁸1⁰ . .p‚,⁰) -- 0 (i = 1, 2. . m) des Systems der 724— 1 -{—m
+Integrale der Differentialgleichung Ωο -- Ο (116 Gestalt
+
+xf⁰=lti (i=1‚2...m)
+
+haben, wo hi willkurlioh gewahlte Zahlen sind. die nur das System
+(161· Hauptintegrale der Differentialgleiohungen der Matrix (Bl) nicht
+illusoriseh macheu sollen. Aue vorigen Satze lassen sich einfacher
+ausspreehen:
+
+Der Satz V hat die Fortu: Um das gemeinsame nichtsingu-
+li‘tre Integral (161· partiellen Differentialgleiv shungen (Ι) 111 Involu-
+
+92 &2
+tion. die 111 Bezug auf επὶ] . . . . {93⁶} unabhangig sind. zu bestimmen‚
+soll man die Differentialgleiohung
+dzs, ——p„,41⁰dx‚„÷ 10 -- . . . - p„⁰dx„⁰= Ο
+
+durch n -1- 1 —·- m Integrale
+(Da (ω”,110..;ε,,οεορ,,,110.,1110) = Ο (α :- 1, 2. ,η-Ι- 1 — m) (f)
+
+integrieren und die Grassen xm÷1⁰ . . . . τε,ιο Zopm . 10 . . . . 10ηο aus den
+Gleichungen (f) und den Gleiohungen
+R(h1..„h„„xp,⁰)=0 (i=1‚2...m).
+
+πΜὛῘ--ειέΜῆᾦωΓ .ωΜ111..,,Ιι,;τΜ-·10..ρ,,0) ι)----1,2..η--1η
+p1=P÷(21-·-·xmh1··k·maem 10 . ..1110) i=1,2..n (a)
+2:2(251...xmh1...hmx„,÷,⁰...p„⁰)‚
+

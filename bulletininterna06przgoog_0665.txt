@@ -1,0 +1,45 @@
+711
+
+‘3²0 —Pm÷1⁰doem÷1⁰ -·· · · · —p„⁰doe„⁰ = Ο
+
+mit Hilfe der n -}-1 — m Integralen, die die Parameter 312, . . . ῃ»,
+nicht athalum, und nach der Transformation mit don Formeln (an),
+wenn man noch die Gleichung
+
+91 = θ 1
+hinzufugt, das Integra] der Differentialgleiehung
+
+&z
+
+ffi=ss1†y232†·†ym(9m·
+
+Wenn man darin y, . . ym als die Variablen betraehtet und noch
+die Gleiohungen
+
+ςίεθ11 (i=2...m)
+hinzufugig so bekommt man das gemeinsame Integral des Systems
+
+‘33:3¹’ {3:293 (i=2...m)
+
+Wenn man endlich das letzte auf die ursprunglichen Variablon
+ω, z Ρ, mit Hilfe der Formel (P) transformiert, so bekommt man
+daun das gemeinsame Integral des Systems der partiellen Diffe-
+rentialgleichungen (Ι). Wenn das System der n -Ι- 1 — m der In-
+tegrale der Differentialgleichung
+
+‘1²⁰ -Pm÷1⁰d“2m÷1⁰ - · · · -p„0dx„⁰ = Ο
+
+Θτί (oem410...oe„⁰zop„.÷1⁰...p„⁰)=0 (a=1,2....n-{-1 —m),
+und das System der n -Ι- 1 - m Integrale der Differentialgleichung
+‘3² -“ θ’( doe1—Pm41 ἀΐω-Η ···· · —p„dae„ Ξ 0
+
+die Form
+θα (oe1y2··ymym÷1 ..p„)=0 (a=1‚ 2...n-{-1—-m),
+hat, so ist klar, dass die Gleiehungen.
+3a(x1y2···ymoem÷1---P„)=0 (a=1‚ 2...n-}-1 —m)
+bei ω, ΞΙι1 die Form -
+Θαι (ωηη,ι ...ωπᾳρημῌ .. .p„)=0 (a=1‚ 2...π-Ι-1 —m)
+
+annehmen‚ und also die Parameter y2 . . . . ym verschwinden. Wir
+kbnnen endlich den Satz aussproohen:
+

@@ -1,0 +1,47 @@
+695
+
+Um ein gemeinsames niehtsingulares Integral im gewbhnlichen
+‘Sinne der partiellen Differentialgleichungen (Ι), die in Bezug auf
+m der Veranderliohen pl .. . . p„ unabhangig sind zu belmmmen,
+soll man ein solohes System der nn}— 1 -{—-m Integrale der Diffe-
+rentialgleichung 90=0 besfimmen, dass nie mehr als m—{-1 Re-
+lationen zwisehen τέ’ 20, die von vornherein gewahlt werden ken-
+nen, und von denen m keine Integrale der Differentialgleiehungen
+der Matrix (ΒΣ) sein sossen, euthalt, und hiermit nach dem Sa-
+tze V verfahren.
+
+Man kann in dieser Weise alle gemeinsamen nieht singu-
+·laren Integrale im gewi3hnliehen Sinne bestimmen. Dieses Integral
+hat die Eigensehaft, dass es infolge der m Relationen zwisohen
+εει-ε, die keine Integrale der Differentialgleichungen der Matrix (131)
+sind, der m-†-1‘⁶” Relation zwisehen aaz genugt.
+
+3. Wir nennen das gemeinsame nichtsingulare Integral der
+Differentialgleiohungen (I) ein v‹)llstfindige5‚ wenn es die Form
+
+&mal...p‚2C1...G„41-m)=0‚ B}(x1...p„):O
+(a=1‚2...n-†-1—-m‚ i=1‚2...m) (g)
+
+hat, wo die n —{—1 —m ersten Gleiehungen n —{—1 —-m willkurli-
+ohe Konstanten, von denen die gegebenen R (x1 . . . . Ρη) = Ο
+(iz 1, 2...m) frei sind7 euthalten und in Bezug auf dieselben un-
+abhangig sind.
+
+Jedes vollstandige Integral kann aus diesem Systeme der
+n -ξ- 1 -ξ- m Integrale der Differentialgleiehung Ωο = 0:
+
+Θα (x10..p„⁰ C1 --C'n41—m)=07 R(x1⁰..p„⁰)=0‚ oe‘(x1⁰..p„⁰)=0
+(a21,2..n-}-1—m‚ 1:1,2..m) (f)
+
+erhalten werden, dessen η-ξ-ἰη--Ζ ersten Gleiehungen die n›-†-1—m
+willkflrliehen Konstanten 01e····0n†1—m2 von denen die abri-
+gen 2m Gleiehungen frei sind, euthalten und in Bezug auf diesel-
+ben unabhiingig sind. Es ist klar, dass die Gleiohungen ‹pir-O,
+die keine Integrale der Differentialgleichungen der Matrix (31)
+sind. keine willkurliehen Konstanten euthalten dut-fen, da, sie die
+Relationen zwisehen den Integrationskonstanten ,τέ’ 20 1²1⁰ bilden.
+Setzen wir nun vorauS, dass die Gleiehungen (g) und (μω)1 ..p„)=0
+(i= 1, 2.. .m) vertraglich sind. Das System der n—†—1 -{·-m Inte-
+grale (f) der Differentialgleiehung Ωο =0, das das System (g)
+gibt, hat- die Form
+

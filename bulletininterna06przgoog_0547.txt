@@ -1,0 +1,49 @@
+723
+
+supposons que pour un point x, pris ὲ l’interieur de l’intervalle
+(0, 271), l'expression
+
+F(x -μ 1ὴὲ- Fen-gg) (22)
+
+tende vers une limite determinee, lorsque la variable positive h tend
+vers zero, n'importe de quelle maniere.
+
+Dans ee eas on peut donner ὲ, l'avanee un nombre positis ε et
+pum, trouver un autre ' membre ὅ tel qu’on aura
+
+*BQ-A ’<ε Ροηωκό, (23)
+
+οὺ Α designe la limite vers laquelle tend l'expression (22), lorsque
+h tend vers zero, &esve-dire, selon les notatione usuelleS,
+
+ινα ÷ ο) -f- F (x-o)
+
+A —.-= ———-2·—-— (24)
+considemus maintenant l'integrale [voir l’egalite (19)]
+²4⁷1
+sm> αξ
+=-⁷2
+
+Prenons pour nouvelle variable h en posant
+
+5=x÷h.
+
+On trouve:
+s÷g'(5)d5=fF(5†h)dh= sF(x÷h)dh†sF(x÷h)dh=
+,μη —n ,η .,
+
+=s[F(x†h)÷F(x-h)] dh.
+
+Prenons pour η un nombre positis plus petit que ὃς l'inegalite
+(23) aura lieu pour toutes les valeurs de h comprises dans l'inter-
+valle (0, η).
+
+On peut done pose-r
+
+1⁴’(x-ff-h)-1-F(x-h) = 2A —f—a9*‚
+ou θ’ est une fonction de h satisfaisant ὲ. la condition
+
+ΙθΙ <2ε.
+
+Βιιιιοιῑιι 111. 6
+

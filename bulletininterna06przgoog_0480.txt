@@ -1,0 +1,52 @@
+658
+
+transformieren. Wir werden ein vollstandiges System
+
+(I“) F: (xl . . oe'strxstn . ,ατη Η, p,‘ . ,p'st1pst2 · -P-) = O (i=1‚ 2..m)
+
+erhalten. Es folgt aus der Formeln (161· Transformation‚ dass
+
+ 
+
+ 
+
+ 
+
+w: w„
+ὂΡιΙ oooooooooo ’ἔρ-’ῖ-
+Amr ΞΣο
+&FJ aar
+ἢ ffffl .......... &p W
+ff: aa:
+&pff ......... Sp&
+&FJ w„
+9ff .......... -ἓρῖ-
+
+ist und also die Gleichungen (I“) in Bezug auf pf. ·Pr÷—1‘Pa÷2· .p„
+auflsssbar sind. Man kann dieses System und also auch das gege-
+
+116116 System (I') in der oben gezeigten VVeise durch ein System
+in Involution ersetzen.
+
+§3-
+
+1. Wir wollen jetzt zur Integration des vollstandigen Systaems
+der Differentialgleiohungen (I)
+
+(I) R(x1.....x„zj—Z‚....j‡)=0 (i=1‚2...m)
+
+ubergehen3 die Integration dieses Systems reduoiert siah auf die
+Integration der Differentialgleiohung Ω == O mit Hilfe der n-}-1
+Integrale (A), die den gegebenen Gleiohungen
+
+(I') b}(oe,...x„zp,...p,)=0 (i=1‚2...m)
+
+genuge leisten. Wenn razn-kl ist so stellen die n-}-1 gegebenen
+Gleichungen (I') sehon das gemeinsame Integral der Differential-
+gleiohungen (Ι) dar. Man soll zu diesem Zwecke nur beweisen‚
+dass das System der Gleichungen (I‘) der Differentialgleichung
+Ω -- O genuge leistet.
+
+Setzen wir voram, dass die Gleichungen (I‘) im allgemeinen in
+Bezug auf 2:⁹⁵2 ...ετβ, pun-Pe: auflbsbar sind, wo α...β, γ...ὄ
+

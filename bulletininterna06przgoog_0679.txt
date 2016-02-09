@@ -1,0 +1,55 @@
+725
+
+8. Supposons maintenant que· la fonction Foc) soit continue en
+tous les points de l’intervalle (0, 2n)‚ e'est-h-dire qu'il existe un
+nombre positif ὅ tel qu’on ait pour tontes les valeurs de a: dans l’in-
+tervalle (0, 27³) et pour tontes les valeurs de Ιι dont 16 module reste
+inferieur ὲ ὅ
+
+’ [1⁴⁷(x-†-h)——F(ae)1<e.
+
+ε etant un nombre positis, donne ὲ, l‘avanee.
+Appliquons le theoreme precedent ὲ 66 eas particulier.
+
+’Dans l'hypothese‚ faite par rapport ὲ, Ε’(ω), on peut choisir le
+nombre η independamment de la position du point a: dans un inter-
+valle queleonque (a, β), interieur ὲ. l'intervalle (0, 2π); il en sera
+de meme, par consequent, du nombre ν.
+
+D'autre part, dans le eas considere, on a
+
+U} ’1-3) ‘gs-(⁸21⁰) :- 1³0⁶)-
+
+L'inegalite (27) 86 reduit ὲ,
+S„ --F(x)1 < 2ε, (29)
+
+οὺ, 16 nombre positis η, assez petit, et 16 nombre ν, assez grand,
+restent les memes pour tous les points de l’intervalle (a, β).
+
+On peut done enoneer le theoreme suivant:
+
+Theorbme. Si F(ae) est une fonction continue en tous
+les points de l’intervalle (0,.2π), on peut, le nombre
+positis ε etant donne a l’avanee, trouver un autre
+nombre positis η, suffisamment petit, et un entier ν,
+suffisamment grand, et construite ensuite une serie
+trigonometrique finie
+
+ν .
+S„ εἶθ -1- Σ διῑζῑη (a,eoskoe—†—bksinkoe)
+k=1
+
+ 
+
+telle que la fonction Fen) puisse etre representee par
+S„ aveo l'approximation donnee ὲ. l’avanee 22 en tous
+les points de tout intervalle (a, β), interieur ὲ, l’in-ter-
+valle (0‚2n).
+
+G'est un theoremQ analogue aux theoremes de M. Picard et de
+VVeierstrass.
+
+Si nous remplaeons dans 8210 faeteur ῗῙ-Ιῗζ-Τί par r* (0< r<1)‚
+
+δί·
+

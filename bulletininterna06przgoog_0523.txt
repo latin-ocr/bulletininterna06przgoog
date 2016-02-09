@@ -1,0 +1,47 @@
+699
+
+die in Bezug auf die n —†- 1 — m willktirlichen Konstanten 01 ...G,.÷1..‚‚.
+unabhangig sind, integriert und die Verssnderliehen xm÷j⁰ 20 pm÷j⁰
+8118 (1811 Gleiehungen
+
+(1502(xm÷1⁰-··x„⁰2012m÷1⁰···p„⁰)=0‚ P}(h1..hmxm÷1⁰..p„⁰)-·=-O
+(a=1,2...n—{—1--m‚ i=1,2...m)
+
+und den 2n—}—1—m Hauptintegralen in Bezug auf xszp. (i=1,2..m)
+der Differentialgleichungen der Matrix (Bl) eliminiert, 8ο wird 111811
+(188 gemeinsame vollstandige Integral der μευ-11811811 Differentialglei-
+ehungen (1) erhalten. Alle vollstandigen Integrale ki'mnen in dieser
+Weise erhalten werden. VVenn dieses Integral 88 1111 ς8ννῦ111111811811
+Sinne sein soll, so soll 8118 (1811 Gleie-hungen (f) nur eine Relation
+zwisehen πθ 20 folgen.
+
+Diese Methode kann die Cauehysehe Methode der Integration
+der partiellen Differentialgleiehungen genannt werden.
+
+ὃ. Wir seben, dass die Bedingung‚ dass 1⁶« n-q-z) partielle
+Differentialgleiehungen (1) ein vollstflndiges System bilden oder zu
+einem solehen von m<n÷ 1 Gleiehungen sich redueieren 1888811,
+nieht nur notwendig. sondern 811811 hinreiehend ist, demit sie ein
+gemeinsames Integral besitzen3 wobei das vollstfindige System der
+m partiellen Differentialgleiehungen ein vollstandiges Integral mit
+n -Ι- 1 -m willkurliehen Konstanten besitzt. Diese Theorie zeigt‚
+dass 88 bei der Integration der Differentialgleiehung
+
+Q-——dz—pIdoe1—...—p„doen=0
+m<n÷1 Integrale
+F}(x1...x„zp1...p„)=0 (i=1‚2...m)
+
+willkurlich anzunehmen meglieh ist, die nur die Bedingung erfflllen,
+dass 818 8111 vollstandiges System bilden oder zu einem 801811811 von
+m<n—†-1 Gleiehungen sich redueieren lassen. Es ist- klar, dass
+n—†-1 Integrale der Differentialgleiehung Ω--Ο 8111 vollstandiges
+System bilden. Es folgt leieht daraus die Jacobisehe Methode der
+
+Integration einer oder (188 Systems der partiellen Differentialglei-
+chungen.
+
+6. Diese Theorie 'euthalt in der rein analytischen Form die
+Ergebnisse der analytiseh-geometrisehen Untersuehungen von S. Lie
+(M. Ann. Bd. 9). Wir werden uns besehranken. die hauptsachlieh-
+sten Satze in der F orm von S. Lie darzustellen.
+

@@ -1,0 +1,48 @@
+722
+
+Mais, quels 666 601661 166 6011111166 η 61 xo, choisis de 16 ma-
+61616 16(11(1666 plus 11661 (numero 3), l'integrale
+
+(20) --1-- sm> αξ
+
+6 66 6666 bien determine, 661· Ι”(ξ) 16616 1101666 61 integrable (16116
+l’intervalle (0, 2 π).
+
+ΙΙ s’ensuitque 16 66116 (13) eonverge en tous les points
+de l'intervalle (η, 2π-η) 61 666 sa somme est &gale
+616 valeur de l'integrale (20).
+
+6. Demontrons 61616166661 666 16 66116 (13) eonverge nni—
+formement dans 1’16161ν6116(η,2π-η).
+
+Pour 6616 60661ᾶ61ο66 16 (1111616666
+
+s„-s=5ffisff[<5) [φ(ξπ)- φο(ξ)]ᾱξ
+
+En vertu des proprietes de 16 fonction φ(ξ,η),111(1166666 (166616
+numero 3, on peut affirmer qu’il existe un nombre ν 161 qu'on 6616
+pour ηξν 61 pour tontes les valeurs de ξ (1666 l’intervalle (0, 251)
+
+“φ(ξ,η)-φο(ξ)Ι<ε,
+
+ε 61661 66 nombre positif donne 6 l'avanoe.
+On aura (10116
+
+{s‚.-s{<-2-33-ns!Foe)¹ deza-{22
+M designant 16 maximum (16 ’8)Ι dans l’intervalle (0, 27t).
+
+Pour chaque valeur (16 η < ηο, fixee d’une 16661616 6661606666,
+on peut, par consequent, donner 6 l'avance 66 nombre positis ε’ et
+puiS‚ 61101611 16 nombre ν (16 16606 666 l'on ait
+
+(21) !Sn— S} < ε’ pour n ξ ν,
+
+61 6616 pour toute position du point xo dans l’intervalle (η,2π-η).
+06116 1668111116 (1611106116 16 proposition 6606666 66 (161161 (16 66 n0.
+7. On peut maintenant deduire de l’egalite (19) quelques 606-
+
+666666666 interessentes 666 6066 611066 indiquer avant de passer
+
+6 16 (1616066116ῒί06 (16 1116016616 de MM. Liapounoff 61 Hurwitz.
+Faisons 6116 hypothese 1161116611616 66 sujet de 16 fonction F (ξ);
+

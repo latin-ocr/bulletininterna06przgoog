@@ -1,0 +1,46 @@
+’ 595
+
+et 66116 d'un solide isotrope 61 parfaitement 6166116116 ¹). J'appellerai
+cette 11160116 la 11160116 (16 16 relaxation. Dans le mode d'exposi-
+tion que j'ai adepte, l'etat (16 1666106 1616116616 d'un fluide visqueux
+en mouvement devrait pouvoir 6116 represente, ὲ, chaque instant,
+par celui d’un solide 616611666 61 isotrope lequel 661611 eprouve une
+deformation eonvenable. Or cela peut n'etre pas possible: en effet
+les six composantes de 16 deformation d'un milieu deformable sont
+11666 entre 61166 par un certain systeme d'equations differentielles ¹)
+et 11 66 1666116 6116 166 six fonctions bien oonnues 6616616616116661
+l'etat de 1666106 661 regne (1666 66 6011(16 616611666 61 isotrope qui
+6 66111 666 deformation ne penvent pas 6116 (1066666 6111111611616661
+6 priori.
+
+Abstraotion faite de 16 611606616666 precedente, 16 11160116 666
+j'ai developpee (1666 16 1116160116 666 je viens (16 rappeler implique
+la restriction suivante: l'espaee etant rapporte 6 66 systeme de
+coordonnees rectangulaires (x, y, z), 61 l'on designe par u, v, w les
+composantes parallelos aux axes de 16 17116666 ’(16 16 particule du
+fluide qui, ἐι 1’6Ρο666 t, 66 trouve 66 point (x, y, z), 166 (16116666
+partielles (16 premier ordre des fonctions u, v, w par rapport 61111
+variables x, y, z doivent 6116 tres petitos, Cela tient aux 1611666 qne
+l'on 6 negliges en 616111166661 166 666611066 (26) p. 395 du 6161601166116
+plus 116111. 6611611066 66116 caractere approximatis desquelles je me 61116
+’(1’6111661·6 611616 avec 1661616666. Je me [1101106616616166661ᾶ6Ρ16666161
+16 11160116 (16 16 relaxation de faoon 6 evitet 16 (1111166116 signalee pl'us
+’11661 en m'affranohissant en outre de 16 16611161106 relative aux (16-
+rivees partielles des fonctions u, v, w J'appliquerai ensuite. ὲ, 16 fin
+(16 1116160116, 166 nouvelles 666611066 666 j'aurai etablies 611 probleme
+dont je me 6616 0666116 (1636 (1666 1606 travail „Sur un probleme
+d'hydrodynamique 116 b. 66 666 (16 (1061116 1611661106 6661116616116
+dans les liquides 61 661 166 consideratione 11160116666 (16 M. Natan—
+6011 relatives ὲ, 66 Ρ1166016666 ⁸).
+
+²) M. Natanson, en s’inspirant d’uno ideo (16 Poimen repriee par Manen,
+6 tonte, avant moi. de developper 1166 11160116 6116103116, mais cette tentative doit
+8116 6066616166 comme 1116661166. Voir a 66 sajet mon 1661110116 eite‘ plus 11661 ainsi
+que 616 Note „Remarquee 6111 166 travaux de M. Natanson relatifs ὲ 16 theoria de
+1⁸ viscosit6“ (Bullotin de l’Aeademie de Craeovio, Fevrier 1903).
+
+²) Voir E 61 P. Cesserat „Sur 16 theoria do velastioius‘. Annales (16 ln. Fa·
+66116 (166 86166666 (16 Το1110666 Τ. X, 61111661893, p. 1, 36.
+
+⁸) Bulletin de l'Aeademie de 01660νί6, Jnin 1903.
+

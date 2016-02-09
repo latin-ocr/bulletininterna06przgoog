@@ -1,0 +1,55 @@
+688
+
+der Differentialgleichungen (I) vorgelegt. Wir setzen verane, dass
+
+. wir dasselbe aus dem System der n-}-1 -†-m Integrale
+
+602¹(x⁰⁰‚...p„⁰⁰)=0 (a=1,2... n†1*m),
+R(x,⁰⁰...p„⁰⁰)=0, w;(:'v,⁰⁰...p„⁰⁰)=0 (i=1,2...m)
+
+der Differentialgleiohung ΩΨ, = Ο, erhalten haben. Wenn wir also
+die Gleiehungen
+
+6³¹(x100...p„⁰⁰)=0 (a=1‚2... n†1—m)
+
+wo Eae100...p„⁰⁰)=0,u¹1(x1⁰⁰...p„⁰⁰)=0 (i=1‚2...m)ist‚ mit
+Hilfe der' Formel der Pfaffschen Transformation z. B.
+
+ωψ--επώαμηῃηψ..1130),φ’-ΞΙ,2...π-νη
+p4=p3(x1...oe„,ae,⁰⁰...p„⁰⁰) i=132„,n
+(α’) z=z(x,...x„x,⁰⁰...p„⁰‘¹)
+
+wo E(oe,⁰⁰...p„⁰⁰)=0 w5(x2⁰⁰...p„⁰⁰)=0 (i=1‚2...m) ist, auf
+Variable aaz p, transformieren, so bekommen wir die Gleiehungen
+
+3¹4(x,...p„)=0 (a=1‚2...n-†-1—-m.),
+
+wo Fs(x,. . .p„) (i =1,2...·m) ist. Wir konnen dieses Integral aus
+dem System der n -ἢ- 1 —{-m Integrale der Differentialgleichung
+
+320=d20—-p1⁰d³21⁰-—...-p..⁰dx‚.⁰=03
+62(x,⁰...p„⁰)=0 (a=1‚2...n—}—1-—m)‚
+E(x,⁰...p„⁰)=0‚ oe1(x,⁰...p„⁰)=0(2:1,2...m)‚
+
+erhalten, das die von vornherein gegebenen Grleiohungen
+⁹01(³=1⁰---p„⁰)=0 (5:122...m),
+
+die keine Integrale der Differentialgleiohungen der Matrix (131)
+sind, euthalt. In der Tat sind die Gleichungen
+
+x„÷j=x„4,·(oe1...:c„x,⁰⁰...p„⁰⁰) J=1,2...n—m
+
+(α’) p5=p,(x,...ae„x,⁰⁰...p„⁰⁰) i==132...n
+z=z(oe,...x,„x,⁰⁰...p„⁰⁰)
+(b‘) x⁴=x.‘'(t,...t..:v1⁰⁰...p„⁰⁰) i=1‚2...m
+
+wo R(oe1⁰⁰...p„⁰⁰):-O w¹(x,⁰⁰...p„⁰⁰)=0 (i=1‚2...m) ist, und
+
+die Gleichungen
+
+x„4„,-=oe,„÷j(oe,...oe„oe,⁰...p„⁰) jzl,
+(a) p2=p1(x,...x„,ae1⁰...p„⁰) i=1
+2:2(x1...x„x,⁰...p„⁰)
+
+(b) xia-xf'(y,...y„ae,⁰...p„⁰) i=1‚2...m
+

@@ -1,0 +1,47 @@
+447
+
+dargestellt werden kann. VVenn also das System (a) in Bezug auf
+p1 . . . p„ auflfisbar sein soll, so soll auch das System (b) in Bezug
+aufp1⁰ . . . p„⁰ auflbsbar sein, und nur zwei von μθ freien Gleiohungen
+euthalten. Man erhalt eine von diesen leucen, wenn man aus n
+von den Gleichuhgen
+
+195(x1⁰...p„⁰)=0 (521, 2..n), F(ae1⁰...p„⁰)=0‚
+oder von den Gleichungen
+85(xl⁰...p„⁰)=0, F(x1⁰...p„⁰)=0
+12¹⁰ . . . μθ bestimmt und in die letzte Gleiohung
+q>(x1⁰. · ·Pn⁰) Ξ·- 0
+
+einfuhrt. Man bekommt daun die Gleichung
+
+φ (2⁰:21⁰ . . . 22⁰) = 0,
+die von μθ frei und kein Integral des Systems (132) ist.
+
+Wenn man umgekehrt das System der n -ἦ- 2 Integralgleiehungen
+der Differentialgleiohung 90: Ο
+
+‹p(20:c1⁰.. .x„⁰) = O, F(.z·1⁰ . . .p„⁰) = O,
+9¹(x10...p„⁰)=0‚ (z‘=1,2,...n), (b‘)
+die nur zwei freie von p? emb-alten, und deren eine z. B.
+φ (2⁰:61⁰ . . . ae„⁰) = Ο
+
+kein Integral des Systems (131) ist, bestimmt hat. so kann man
+nach dem Satze II das Integra] im gewbhnliohen Sinne der Diffe-
+rentialgleichung (1) bekommen.
+
+In der Ταῦ wir sollen aus den Gleiehungen (b‘) die Grzsssen
+aess⁰z⁰ p? mit Hilfe der Gleiehungen
+
+x, = 1155(oe12510 . .p„⁰)‚ z =z(x1x1⁰ . .p„⁰), p¹ =p4(ae1:1³1⁰ . .p„⁰)
+
+[5:2...n)‚ (πέπαμαι)
+
+eliminieren. Diese letztcn sind in Bezug auf 41:2⁰... ΡΣ aufli'mbar
+und man bokommt nach der Elimination darselben
+
+‹p‘(:c1⁰x1x2...p„)=0‚ Gf‘(x1⁰x1...p„)=0‚ (i=1, 2...n),
+F(ael...p‚,)=0, (ο)
+
+wo die erste Gleicbung ⁵01⁰ euthalt, da die Gleicbung φ (2³1⁰ . ..z⁰) =0
+kein Integral des Systems (132) ist.
+

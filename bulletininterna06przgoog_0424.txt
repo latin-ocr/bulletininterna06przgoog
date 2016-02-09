@@ -1,0 +1,45 @@
+610
+
+equations qui conviennent ὲ, un fluide parfait denne de visoosite3
+
+si l’on suppose au contraire que les produits AT et μΤ tendent vers
+
+des limites non nulles l‘ et m le rapport LII* ayant une limite de-
+
+T‘
+terminee k, queleonque, le systeme (32) se reduira, ὲ la limite, ὲ. un
+systeme equivalent au systeme suivant:
+
+pn—p=—-2ma1—ZG›
+pw——p=—2ma2—l‹f›
+p„ —pz—2ma3—llfj
+(36) P„=—m⁰1
+Poe=—m⁶8
+P=v=—m⁶39
+01¹1 l'on a pose, pour abreget l'eoriture:
+ι- Ζ, — k2m-ff—3l'
+- 3(1-{—k·)’
+
+Les equations (36) representem les expressions classiques des forces
+interieures dans un fluide visqueux.
+
+Il y a interet enfin ὲ deduire des equations (32) comme eas-
+limite celles qui conviennent ὲ. un fluide incompressible. Il faut ὲ. eet
+effet faire oroitre λ indefiniment et admettre que le produit λῶ
+tende vers une limite determinee φ. Si l'on pose:
+
+· , ΤΤ’φ
+P :P—T—-ffTl-v’
+
+on obtiendra les equations demandees sous la forme suivante:
+
+ᾷέῗ = ,- 2μα1 -Ηετῆζᾙ - 192-ἇῖτέ †2(92p.2-q3222„)
+d—§tw Ξ ,- 2μ 02 - ἒννψᾶξβ- - ΈὲΊ-Τ-ΕΙ-ἦ-ἒψεΡη-Ίιῖὶῶ
+qap? Ξ — Quas — Εζῗ-ᾸἸ - P?-}RI†2(Q1Pn-*Q²P=)
+37
+( ) {lg}- 22- με1 - ²37ss -Ι- 91 (pm —m-l- qap-2 - qma
+(Ξέῗ = - με, - ²}ss -1— q2 (10.. -Ρώ-ἕ-ςιιρη-Μνι
+dp„
+
+”Et- -““ μεθ - {3'4-1-93 (Ρη-Ρῶ-Ι-ςιςρμ-ᾳιρ,
+

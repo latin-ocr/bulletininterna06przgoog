@@ -1,0 +1,51 @@
+706
+
+daretellen1). Die Differentialgleiehungen der Matrix (Bl) stellen die
+Verallgemeinerung der kanonisehen Hamiltonsehen Differential-
+gleiehungen‚ und die Formeln (h), (k) stellen die Verallgemeinerung
+der bekannten Satze von Jacobi tiber den Zusammenhang zwisehen
+einer partiellen Differentialgleiehung und dem Systeme der kano-
+nisehen Difl'erentialgleichungen dar.
+
+ς’ 6.
+
+S. Lie hat eine neue Methode der Integration des Systems der
+partiellen Differentialgleiehungen (I) in Involution gegeben, die da-
+rin best.eht‚ dass man die Integration dieses Systems auf die Inte-
+gration einer partiellen Differentialgleiehung mit nur n-}-1 -—m
+unabhangigen Variablen reduziert. Wir wollen diese in der analy-
+
+tischen Form daretellen. Wir konnen immet voraussetzen‚ dass die
+32
+
+ 
+
+gegebenen Gleiehungen (Γ) in Bezug auf m der Grbssen a z. B.
+'³2 ²2 ext
+in Bezug auf ζ ..... ζ aufgelost sind:
+ex, cmm
+&z 32 &z .
+(I) 320¹ = 8¹(ae1 7 ι ο aen· Z: &xm—kl ιιιιι ὲἹίἐτη) z Ξ 12 2 ι ι ι ι m
+
+Die Integration dieses Systems besteht in der Integration der
+Differentialgleiehung
+Q'zdz—G1doe1—..— ΘΜᾱειτη,--μηῃιίεεηη-κι —..—p‚,d‚·c„=0
+mit Hilfe n -†- 1 -- m Integrale. Die Formeln der Pfaffsehen Trans-
+
+formation genugen dem Systeme der gewfihnliehen Differentialglei-
+chungen
+
+ 
+
+3693
+dx ‚ = --ξβ 5²3} (ἰωῇ
+m
+kM) de ι :375³ (ὲὲῗῗί “l'‘ Pm rs gg) doess
+-. m -, η-Ξτ. 39³-
+dz — 2 β ( Θβ 2 1 Pm÷1 '’pm-m) ‘3²²²ss
+1 ι
+ι) Diose Gleiehungen fur den Fan
+332* =0 (i=1‚2....m)
+
+sind von Saitikow (1. e.) gegeben.
+

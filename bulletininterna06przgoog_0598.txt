@@ -1,0 +1,43 @@
+644
+
+gezeigt und mit Hilfe der Mayersehen Transformation die neue
+Lie sehe Methode der Integration der partiellen Differentialgleiehun-
+gen (Ι) in der Mayersehen Form gegeben (Reudie. de l'Instit.
+R. Lomb., 1883).
+
+Saltikow hat neuerdings (Comp. Rend„ 1899) die Gleiehun-
+gen (II) verallgemeinert. Ieh beabsichtige in dieser Abhandlung
+die Pfaffsehe Theorie der Integration der partiellen Differentialglei-
+ehunhen in ihrer allgemeinsten Form darzustellen. Sie enthnlt,
+wie sehon bemerkt ist ¹), die analytiseh-geometrisehen Untersuehun-
+gen von S. Lie (M. Ann., Bd. 9) und gibt seiner neuen Methode
+der Integration der partiellen Differentialgleiehungen die analyti-
+sehe Pom, die ihr am meisten entsprioht. Sie euthalt aueh die
+Theorie der verallgemeinerten Hamiltonsehen Differentialgleiehun·
+gen und den Zusammenhang zwisehen der Integration dex-selben
+und derjenigen der partiellen Differentialgleiehungen.
+
+Ich benutze die mogliehst kleinste Anzahl der Hilfssatze uber
+den Pfaffschen Differentialausdruck‚ namlioh nur die zwei, die im
+ξ 1 der ersten Mitteilung erwahnt sind.
+
+§a
+
+1. Es sei ein System von k<n† 1 partiellen Differentialglei-
+ehnngen 1. O.
+
+(1) R(x,.....x„zj;.....j}·).-.o (27=1,‘2...k),
+welche in Bezug auf ἐξ (i = 1, 2..n) unabhangig sind, vorgelegt.
+Wenn ihr gemeinsames Integral
+z--f(x,...x„)
+ist, so seben wir, wenn wir ἕ, gxf‘ durch resp. p‘² J} (i=1‚2..n)
+
+bezeichnen, dass n -}-1 Gleiebungen
+(a) 2=J⁴'(.vf....1:„)² pf--j5(x,...x„) (i = 1, 2...n)
+
+den Gleioh un gen
+
+(1¹) F‚.(x,...x„zp,...p„)=0 (i==1‚2...k)
+
+¹) Erste Mitteilung, Bull. intera. l’Acad. des Se. de Craeovio mr Juli 1903.
+

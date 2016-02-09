@@ -1,0 +1,48 @@
+715
+
+Choisissant convenablement 16 nombre ν, 011 trouve, en vertu
+de (1),
+
+855)— San! < εἱ f (x.) Ax, ξ cM (b—a) pour n ξ ν,
+
+ 
+
+Μ (1όεί8116111 16 maximum de Ι f (ae)l dans l'intervalle (a, b).
+
+Cette inegalitd a lieu, quel que soit le nombre μ.
+
+Supposant quo μ 6101666 111116ᾶηὶ1116111 et 611 passam: ὲ, la limite,
+on obtient, en tenant compte de (2) et de (3), l'inogalito suivante
+
+ 
+
+{sf(²)⁹'(²²”)d²-s>(2)}{1g maz-‚mclx <εΜ(ὁ-α)--ει,
+
+ayant lieu pour tontes 166 valeurs de n, plus grandes que ν.
+011 peut dono <scrire
+
+31.ae „sm maan) aco: bf(x){igg φ (mm,
+
+oe qui domontre le lemme suivant:
+
+Lemme. Soit f(x) 11116 fonction 11011166 et intograble
+dans l’intervalle queloonque (a, b); soit φ (x, n) 11116
+autre fonction de x, de n et d'un certain nombre de
+paramotres α, β,...
+
+La fonction φ (x, n) satisfait aux conditione sui-
+vantes:
+
+Ello reste 11011166 et intdgrable par rapport ὲ, a:
+dans l’intervalle (a, b) pour tontes 166 valeurs de n et
+pour les valeurs des parambtres a, β,..., compris dans
+certains domaines (A), (B) ..... bien (1616111111166 pour
+chacun de 666 ραι-1111161166.
+
+Ε116 tend uniformdxnent‚ lorsque n croit indefini-
+ment‚ vers 11116 fonction (po (x), bornoe et integrable
+par rapport ὲ. x dans l'intervalle (a, b), 166 1161611161166
+α, β,... (Stant compris (16116166 domaines (A), (B)‚1)...
+
+¹) La fonction φο (x) peut ᾶόροηᾶῐο, en gdndral‚ do α, β, . . . .
+

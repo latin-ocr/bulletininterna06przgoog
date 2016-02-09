@@ -1,0 +1,53 @@
+Ἰ 09·
+
+in der Form
+
+ae'm÷,·=:1'„‚4,·(oe1..ae„.ae„.÷1⁰· ·P”⁰) ·— 1 2 n —- m
+p'm÷J=p'm÷,·(x2..x„.ae„.÷1⁰..p„⁰) '⁷ “’ ’ ”’
+z=ff(ael...oemaem÷2⁰-·-Pn⁰)
+
+(α’)
+
+bestimmt hat, wo diese. 2(n— m) -Ι- 1 Gleiohungen die Hauptin-
+
+tegrale der Differentialgleiehungen (N) in Bezug auf xl :hl und
+x, . . . :cm die Parameter sind, und wenn man nach der Transfer-
+
+mation der Differentialgleiehung Ω” = Ο in der Form
+,Ω” = ἐξ ((120 —pm†1⁰dx„.÷1⁰ — . . . —p„0dx„⁰) = Ο
+
+dje Gleiehung
+(ἰεῦ - p„.÷1⁰dxm†1⁰ --— . . . —- p„⁰dae„⁰ ε Ο
+
+mit n-}-1 —m Integralen integriert hat, so geben diese letzten
+nach der Transformation auf die ursprunglichen Variablen
+
+xl oem÷1 . . . m„ 2,Pm÷1···pn
+
+und nach der Hinzufugung der Gleiehungen (1¹), wo uberall oe2..oe‚„
+als die Veranderliohen betraohtet sind, noch im Allgemeinen kein
+gemeinsames Integral der gegebenen Differentialgleiohungen (Ι). Es
+soll ausser der Bedingung‚ dass die n—{- 1 — m Integrale der Dif-
+ferentialgleicbung
+
+αἶα - p„.÷20dae„.÷10 - . . . - p„⁰doe„⁰ = o
+
+keine Parameter ²132 ....ae,„ euthalten, noch diese notwendige und
+hinreiehende Bedingung erfullt sein, dass die Gleiohungen (a) und
+(a') identisoh sind, d. h. das System der vollstandigen Integrale
+des ersten Systems (N) der Differentialgleichungen (M), dass durch
+die Voraussetzung w, = const„ mm: const. entstanden ist, soll bei
+den Variablen :122 . . ‚xm dasJenige fur das System (M) sein. Dies
+
+. ist im Allgemeinen nicht der Fall, aber wir kbnnen dies mit Hilfe ἡ
+
+der Transformation von A. Mayer1) imme-r erreiohen. wenn wir
+numlieh
+
+oe1=h¹†(x1-h1)yu q¹=p1-†-y2p2-†-----}-ympm. (P)
+q1=(oe2—h1)p1 (5:2,3...m)
+
+setzen.
+
+¹) M. Ann. Bd. V. („Ueber unbesehr. int. Syst.“‚ ἓ 5).
+

@@ -1,0 +1,53 @@
+609
+
+08 188 (1881111188 p„,. . . p , .. . auraient les valeurs qu'elles ont dans
+le fluide au point et 8 l’epoque consideres.
+
+En partant de cette definition des εβ, yffi* (i = 1, 2, 3) il serait
+aise de retrouver les equations (32) par la methode suivie dans
+notre memoire: „Sur une generalisation de 18 11180118 classique de
+18 viscosite“ et devitet, moyennant une legere modification du rai-
+80111181118111, 18 difficulte signalee dans l'introduction. Mais je crois
+qu’il n'y a pas 11118181 8 developper ce point, parce que 18 1118111οᾶ8
+suivie plus haut fait reposer les equations en question sur des hy-
+potheses bien moins arbitraires que celles que l'on aurai't 8 111110-
+(18118 811 suivant 18 1118111οᾶ8 (18 1118180118 (188 je viens de rappeler.
+Ajoutonn seulement que le desaccord qu'il y a entre les equations
+(32) (18 88 1881110118 81 188 equations (28) p. 395 du memoire: „Sur
+une generalisation (18 la theorie classique de la viscosite“‚ ne tient
+nullement 8 18 divergence des methodes3 la source de ce desaccord
+est la suivante: dans 18 precedent memoire nous sommes partis des
+fot-mules ordinaires de 18 11180118 (18 l'elasticite et, par cela meme,
+nous avons (18 regat-der les termes contenant les quantites q„ q„ q„
+en facteur comme negligeables. .
+
+Nr. 6. Les considerations developpees 88 numero precedent
+mettent immediatement 811 evidence 88 fait que les equations (32)
+comprennent comme cas-limite correspondent 8 l'hypothese
+
+1 1
+T²P=Q
+
+les equations differentielles que verifient les forces interieures d'un
+solide elastique isotrope dont les coefficients d'elasticite seraient
+λ 81 μ. Ρ8880118 a l'examen de quelques autres cas—limites de nos
+
+equations,
+
+1
+Τ tende vers
+
+zer0‚ supposons que la quantite T elle-meme tende vers zeroz, 81
+
+Τ
+
+l'on suppose que 18 rapport T‘ tende vers une limite finie quelconque
+
+Au lieu de supposer, comme tout 8 1’118818, que
+
+et que 188 produits AT 81 μΤ aient zero pour 11111118, 188 8(1ι18110118
+(32) 88 reduit-ont 8 18 11111118 8 811 systeme equivalent au suivant:
+
+½=ffl=m=p
+m=m=ffi=ffi
+

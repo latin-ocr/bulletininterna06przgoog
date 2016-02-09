@@ -1,0 +1,50 @@
+612
+
+GeIa pose adressons-nous aux equations (19) et (20) de la page 412
+du memoire cite au debut de ee chapitre et rappelons que l'on a
+
+(3) q=rw·
+
+En transformant au moyen de ees equations la premiere, la seeonde
+et la sixieme equation du systeme (32) du ehapitre precedent nous
+arriverons ὲ, un systeme d'equation equivalent au systeme suivant:
+
+par-‘32’ -μΡ- H)r‘-³‘'-'-{-{',-=o
+
+dr dr
+(4) P-2-T—II 4- Qr (ἒξ = 0
+P—“h H ‘231' ÷QU3 = 0
+22⁷ T
+D’ailleurs le principe de d’Alembert 1) donne:
+² dP P —- H
+ρ r Φ = ‘ci—r ’1- -ῖ-
+(5) — 29 dQ
+⁰-7†W·
+
+Les equations (4) et (5) suffisent pour ealeuler les quantites φ
+et Q, elements au ealeul desquels nous allons nous borner. La se-
+conde des equations (ὃ) donne:
+
+ω) Θεέ
+
+en designant par A 'une constante arbitraire. D'autre part, en por-
+tant dans la premiere equation du systeme (5) la valeur de P-H
+deduite de la deuxieme equation du meme systeme et en tenant
+compte de (6), on trouve:
+
+ 
+
+(7) ⁹ AT²r² ΞζΫ-μμΤνδῖῑζ-μιεο.
+L’integration de cette equation est tres aisee, on trouve:
+(8) 2Τφε2ανεέ93-ε-1-νῗ-
+
+οὺ
+
+(9) 3:333: >sum-1242,
+
+ 
+
+2A
+
+¹) Voir les &quatiens (23) p. 414- du momoire eit& plus haut.
+

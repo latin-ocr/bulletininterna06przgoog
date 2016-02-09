@@ -1,0 +1,47 @@
+449
+
+endunt, die nur zwei von p? freien enthalten‚ deren eine kein In-
+tegral des Systems (32) ist.
+
+Dieses System der n 4- 1 Integralgleichungen kann m'it Hilfe
+der Multiplikatoren λ und μ in der Form dargestellt werden
+
+1-1-λΘ-φ--4- &tp—O ZQ Q 0- ·-..
+92⁰ '⁴32⁰'- ² ὂωιοἺ-μέωίο-Ρι -0 (2—1, 2...n)
+w(ae1⁰-·-ae.⁰z0>=0‚ 212<ae20...ae..020>=02
+
+wo λ, μ eliminiert sein sollen.
+Die Gleichungen
+
+φ (2:1⁰ . . . x„⁰z⁰) = Ο, ψ (21:1⁰ . .. x„⁰z⁰) = Ο,
+
+deren eine kein Integral des Systems (B1) sein soll, ki‘mnenj im
+flbrigen ganz willkurlioh gewahlt werden, sobald nur die Gleichung
+F (1121 . . . x„ τρι . . . p„)=0 von p¹ nieht frei ist„ was immet vorans-
+gesetzt wird.
+
+Man kann die folgende Eigensohaft des so erhaltenen Integrals
+der gegebenen Differentialgleiehung (1)
+
+f(zoe1.. υτ.) =0
+beweisen: dieses Integral genugt infolge der Relation
+cp(x1...:c„z)=0
+der anderen Relation
+tp(x1...ae„z)=0
+In der Tat setzen wir vorans, dass die Gleiohungen
+
+f(x1...x„z)=0‚ ‹p(x1...oe„z‘)=0
+
+vertraglich sind. Da die letzte Gleichung kein Integral des Systems
+(131) ist„ so kbnnen wir das System (b‘) noch in der Form
+
+f(z⁰x1⁰...oe„⁰)=0, 19¹4(x1⁰...p„⁰)=0 (i=1, 2...n— 1),
+F(x1⁰ . . .p‚.⁰) ·--·· O, φ (2:1⁰ . . . x„⁰z⁰) = Ο (b'')
+darstellen, das nur zwei von p? freie Gleichungen
+f(z⁰.z·1⁰.. . x„⁰) = O, φ (1⁸1⁰. . . oe„⁰z⁰) =O
+
+euthalt. Da aber das System (b‘) mit dem Systeme (b“) identisch
+ist, so folgt aus den Gleiohungen
+
+f(20x1⁰...ae„⁰)=0, ‹p(x1⁰...:c„⁰z⁰)=0
+

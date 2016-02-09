@@ -1,0 +1,47 @@
+648
+
+—-(}}{'‘ μὴ) 95 95εο (i‚1·=1‚-2 k)
+
+Σ Μ(Ε 20‘4'1' Θξαξ)ῗ”>ἔ“ἰ &p
+
+Wir haben also den Satz Ι. Das gemeinsame Integral der Dif-
+ferentialgleiohungen (1)
+
+&z &z
+3:13, ..... 32„
+
+ΕΟ. ...... ωας. )=0 (i=1‚2....k)
+
+erfullt die Differentialgleichungen
+
+[ff F] Σρκ.. 32—ssssss ἐξ... α;)---ο
+
+Ui=1w2mm
+
+Jede der neuen ¹ Gleichungen
+[F‚ E]=O (j, i=1‚ 2. ..9)
+
+wo Pa durch ἐξ ersetzt ist, stellt die Differentialgleiehung dar.
+
+die das gemeinsame Integral der gegebenen Differentialgleiehungen
+(1) besitzt.. Wenn man odie unabhangigen aus diesen Gleiohungen
+und die unabhangigen von den Gleichungen (1) zu diesen letzten
+hinzufflgt‚ so reduoiert sich unser Problem auf die Integration der
+lq> lc Differentialgleiohungen. Wir verfahren mit diesem letzten
+Systeme in derselben Weise‚ wie mit der gegebenen. Wir kommen
+in dieser Weise zu einem der folgenden drei Faue: VVenn die er·-
+haltenen lc¹ Differentialgleiehungen unvertriiglioh sind, so haben die
+vorgelegten Differentialgleiohungen (I) kein gemeinsames Integral.
+Wenn zweitens die Anzahl der so erhaltenen unabhangigen Diffe-
+rentialgleichungen‚ die das gemeinsame Integral des Systems ( 1)
+besitzen‚ grsssser als n-†—1 ist, so schliessen wir wiederum darana,
+dass die gegebenen Differentialgleiohungen (1) infolge der Defini-
+tion ihtes gemeinsamen Integrals kein- solehes Integral haben.
+
+Im dritten Faue ubersohreitet die Anzahl der so erhaltenen
+Gleichungen eine gewisse zahl m<n† 1 nieht, wenn man die-ses
+Verfahren fortsetzf„ d. h. in diesem Faue erhalten wir m<n-†— 1
+Differentialgleiehungen
+
+(1) F(x,.. ...mg—² ..... ξ)ξο (i=1‚2...m)
+

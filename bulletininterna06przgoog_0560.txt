@@ -1,0 +1,51 @@
+736
+
+lw({†h)—1t1(c)‘i<e‘‚
+ε’ etant un nombre positis, donne ὸ, l'avance.
+La fonction ψ (ζ) est donc continue dans l'inter-
+
+valle (-η, -Ι-η).
+14. Considerons maintenant l'integrale
+
+(50) flc(s}<oe>F<ae÷c>aae)=s2<c>ac.
+
+Ghoisissons le nombre η de facon que l'on ait
+
+η < ὁ.
+On a alors pour tous les points ζ de l’intervalle (—- η, -ᾗ- η)
+
+zm) = ψ(0) ÷ 2111 (ζ),
+
+ou ψι (ζ) satisfait ὲ, la condition
+(51) · Ι ψι (ζ) Ι < ⁸·
+
+On trouve donc
+
+4⁷1 -ff-’l
+
+sw(c>‹15·-—-w(0)sdc÷sw(od§
+
+-η -η
+
+ᾱόἰι, en tenant compte de (51), on tire
+
+[ffi(g)dg-2w<0)j<2m
+
+Or
+
+ψ (0) =s²1⁷i¹² (w) dx
+
+Par consequent [comp. les egalites (44) et (50)]‚
+
+επ 24⁷1 8
+QWsFwMsFoeudss-ssx — ἦ
+o ⁶⁴2 o
+
+ 
+
+                
+
+ou bien
+
+(52) um W s Hx s b (ems) σιω — s {wm-
+

@@ -1,0 +1,54 @@
+680
+
+bestimmen. Wir werden in dieser XVeise zusammen mit den 2n—†-1—m
+
+Differentialgleiehungen der Matrix (ΒΞ) 6111 unbesehrankt integi-ables
+
+System der 2η -1- 1 Differentialgleiehungen haben. Wir wollen jetzt
+
+ein System der Hauptintegrale desselben in Bezug auf με yf
+
+(i= 1, 2.. . .m) wahlen, wo y? die willkurlioh gewahlten Zahlen,
+
+die nur die Integrale des Systems nieht illusoriseh 1118011611, sind.
+Es sei dieses System
+
+x⁴=x“(y,...ymx,⁰...p„⁰) i=1‚2...n .
+
+p4=pl (y1...y.„x,⁰...p„⁰)
+z=z'(y,...y„,x,⁰...p„⁰).
+
+wo ,κβ . . .p„⁰ die Anfangswerte der Variablen x,- με sind. wir kon-
+nen dieses System noch in der Form
+
+xm44=xm÷5(x,...xmx,⁰...p„⁰) (j=1,2...n—m)
+
+(a) p¹=p‘(x,...aemx,⁰...p„⁰) (i=1‚2...n)
+z=z(x,...x„,x,⁰...p„⁰),
+
+(b) oe1=x‘'(y,...ymx,⁰...p„⁰) (i=1‚·2...m)
+
+darstellen, wo 2η -†- 1 —- m Gleiehungen (a) die vollstandigen In·
+tegrale der Gleiehungen der Matrix (131) mit 212 -†- 1 Konstanten
+sind. Dieses System hat die Eigensehaft‚ dass 68 1161 :154 τε x?
+(i=1‚2...m) die Form
+
+x,„÷,- ’τ- oem÷1⁰2 P« ““-“· Ριο) ² Ξ ²0
+
+annimmt. Wir kssnnen 68 6111 System der Hauptintegrale der Dif-
+ferentialgleiehungen der Matrix (131) nennen. Die gesuehten F or-
+meln der Pfaffsehen Transformation haben (11686 Form, wo nur die
+Grbssen ,τέ’ 20 p? gewisse Funktionen der ym41. . ·!l2n÷¹-== sind. Da
+die Anzahl der Grossen oe1020pf gressa, als die Anzahl der
+yn41...y,„4,-,„ um 2m Einheiten ist, 80 8011611 zwisehen :tf 20 p?
+2m Relationen stattfinden. Da die Veranderliehen ηερ( (1611 Glei-
+ehungen
+
+(I‘) h}(oe,...x„zp,...p‚,)=0 (i=1‚2...m)
+
+geuugen 8011611 und da aus den Gleiehungen (a) die Gleiehungen
+FAx„...x„zp,....p„)=I‘}(ae,⁰...x„⁰zop,⁰...p;,⁰) (12:1, 2....m)
+81011 ergeben‚ 8ο 1111188
+
+Ε(ω,ο...ω,,οεορ,ο..,.ρ,,ο);ο (i=1‚2...m)
+

@@ -1,0 +1,53 @@
+723
+
+supponens que pour un point ω, pris a l'interieur de l’intervalle
+(0, 2 π), l'expression
+
+F(ae -ι- 103- Μυ--Β (22)
+
+ 
+
+ 
+
+tende vers une limite determinee‚ lorsque la variable positive h tend
+vers zero, n'importe de quelle muniere.
+
+Dans ee eas on peut donner ὲ, l'avanee un nombre positis ε et
+puis, trouver un autre membre ὅ tel qu'on aura
+
+Q—l1 <⁸ ΡοιιτῘκὸ, (23)
+
+οὺ Α desig-ne la limite vers laquelle tend l'expression (22), lorsque
+Ῐι tend vers πάνυ, θ’θει-Ξι-ᾱίτθ, selon les notatione annones,
+
+— 1³(ae -ι- 0) -4-F(oe-—0)
+
+A - *T* . (24)
+Considerons maintenant l'integrale [voir l’egalite (19)]
+arf-12
+sm> αξ
+τ-τι
+
+Prenons pour nouvelle variable Ῑι en posunt
+
+g=x÷u.
+
+On trouve.
+
+sF(5)d5= [Νξψωαιιε wsFaq-mdhq-sFe-fmdh:
+
+=s[ F (x÷h)†F(x-h)] dh.
+
+Prenons pour η un nombre positis plus petit que ὅς l'inegalite
+(23) aura lieu pour tontes les valeurs de h eomprises dans l'inter-
+valle (0, η).
+
+On peut done poser
+
+1‹’(ae-1—h)-}-F(x—h)= 2A —}—2‘}‚
+οὺ θ est une fonction de h satisfaisant ὲ, la condition
+
+ΙθΙ<2ε.
+
+Bullefin 111. 6
+

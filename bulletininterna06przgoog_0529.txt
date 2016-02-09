@@ -1,0 +1,53 @@
+705
+
+, ΘΗ ΘΗ
+(,ἰ (tr¹ . . . Ρη) = const, {T} : 0³7¹} = const.
+dar, wo R (251 . . p„)=0 (i= 1, 2 . . m) ist, ein System der 2n†1—2m
+[ntegrale der Differentialgleiohungen der Matrix (B,)‚ wo
+lv] (ael . . .p„) = 0 ist..
+
+Also stellen die Gleichungen
+
+1⁴2 (arx¹ . . . p„) = const.. ( 'a (513l . . . μ.) = const.; gg: “g—{711— - const,
+
+(ἱε-1,2..τη, a= 1‚2..·n-}-1—‹m-, j=2‚ 3. ,η-ΐ-Ι-πι) (h)
+ein System der vollstandigen Integrale der Differentialgleiehungen
+
+der Matrix (31) dar. Wenn das vollstandige Integral im gewbhnli-
+chem Sinne ist. so hat dieses System die Form:
+
+ssffssff
+et3·3(3
+(i=1‚2...m. a=1‚2...n—}-1—m‚ j=2‚3...n—{—1-m).
+
+F} (ael . . . Ρη) :z const.. ( 'a (τι . . . μμ) = consu, -= const.
+
+Die Gleiehungen κεῖ, 12⁴2- ἐξ (z'= 1, 2 . . . . n) (a) genfigen
+
+den Gleichungen Ρ,- (³³1 .. . x„ ΖΡ. . . .p‚,) = Ο (i == 1. 2 . . . m). Wenn
+wir voraussetzen‚ dass diese letzten in Bezug auf Ι)1 . . . Pm. auflbs-
+bar sind, so ki'mnen wir das System (α) in der F orm
+Ν
+zzf, p,„4j=-— . P}(ael...ae‚,zp2...p‚‚)=0
+
+&xnffj‘
+
+(2=1‚2...n)‚ (J'=1,2...n——m)
+
+darstellen. Da weiter die Gleiehungen (a) (.'l . . . ( '„„-1-‚„ best-immen
+so sehliessen wir, dass die Gleiohungen
+
+z=f‚ p„.÷j:· [ᾗ (j=1‚2...n-—m)
+
+in Bezug auf C¹ . . (λήμη, unabhangig sind. Man kann also das vo·
+rige System (h) der vollstandigen Integrale der Differentialgleichun-
+gen der Matrix (Β.) in der Form
+
+&f
+
+F. (xl ..ae„zp1..p„)= const„ 2 =f‚ Pm Η· :⁵ &mx m÷s
+
+(k)
+
+—ssss-——oonst (i=1‚..‚2mj=1,..—2n-m.a=23n—†-1—m
+

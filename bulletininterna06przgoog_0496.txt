@@ -1,0 +1,27 @@
+674
+
+bilden, so kssnnen wir zum Ausdruek Ω” den vorigen Schluss an-
+Wenden.
+
+Die Matrix (B‘) hat in diesem Falle dieselbe Gestallt, wie (B).
+nur mussen wir statt F„ ω, ρ,- (i == 1, 2. .m‚ ,γἐ- 1, 2 .. q) F: ω] p(
+setzen.
+
+Die Gleiohungen dieser Matrix bestimmen die Formeln der
+Pfaffsehen Transformation fur den Differentialausdruck 9¹¹. Wenn
+wir diese letzten auf die ursprflnglichen Variablen transformieren‚
+so erhalten wir offenbar die Gleiehungen fur die Formeln dieser
+Transformation fur den Differentialausdruck Ω’. Wir wollen jetzt
+sehon, wie die Gleichungen der Matrix (B‘) in den ursprungliohen
+Veranderliehen x,- z pi sich darstellen. Offenbar ist
+
+5³11*- &F &F W &F
+
+ 
+
+W=ff†p“ ‘3—'2' - &ax—¹] -ὗ-ΡΆ ΘΗ ‘'a-p} (ίκει =1 2· ..q)
+&F' &F &F‘ &F &F‘ &F
+Gxffl =3²²ffl’ ἐρώ- = ’ὂῆῡῇᾒ §H— = “0³3 “
+
+Also ist die Matrix (B‘):
+

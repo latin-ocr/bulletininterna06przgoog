@@ -1,0 +1,55 @@
+602
+
+Pour que la formule precedente soit identique ὲ la formule (17), il
+
+faut et il suffit que l'on ait
+
+m=—-2u; »ιε-ἐς.
+
+Oxi voit (10116 que les formules (14) et (15) prennent finalement la
+forme suivante:
+
+ 
+
+ 
+
+ἐξὲξ = — 25⁴0st - λ (al‘ -l-a'1 ..ι- 031)—
+(18) -Ρῗ-Εῄν-Ὴςμῷ-Ι-Ρῳ -Ι- 0
+{lg-⁸! Σ - μοι’ -123'32'
+
+laquelle, on le verifiera aisement, se conserve sans aucun change-
+
+ment quelle soit l'orientation des axes,
+Nr. 4. ΙΙ nous faut revenit maintenant au systeme (16 ooordon-
+
+nees primitis (x. y, z). Soient
+
+κτα τ’-Ηῖ (κ’-Η 2'
+y=a1x'-}-¹31y‘-†-y12'
+2=aaex'†ss2y‘†722'7
+les formules de transformation du systeme (x, y, z) au systeme
+(π’, y',' τ’). D'apres les conventions faites au Nr. 2, les ooefficients
+dans les foi-mules precedentes doivent etro consideres comme des
+
+fonctions de la variable t‘, lesquelles pour t‘ =t prennent les va-
+leurs definies par les equations suivantes:
+
+a=ss1=y2=1,
+
+(19) Ι
+l ss=y=y1=a2=a3= a: ·
+D'ailleurs:
+p„ =102021 α’) -1-Ρωωβ2 -l-Pn 7² -1- 2140ae β γ -Ι- 2Ρω 7 α ÷ 21>a αβ
+Pu· ἲ- prr αι α2 ’1- Ρν’ν’ βι ,62 *l* Ps¹20 γι 72 ‘l‘ Pru (161 γε “l- ⁴71 ⁴32) ’l'—
+’1-Ρι’κ’ (γι α2 ’1- αι γε) ’1- Pae‘u' (a, 132 *i*- β] ας) ·
+
+Differentions ees formules par rapport ἐι t‘, saisons ensuite t' =t
+et reportons-nous aux relations (9) et (19). Il viendra:
+
+45? = ‘³23²'- *r Q„ 22³1? -1- 21⁰2· 33,
+da,
+
+dg? = (ἷῖἴῇ ÷ ΡΝ 6ἷέ -l- ΡΗ '322¹ -1- p‚‚‚, -33 -Ι- P20„1{‘{—²·
+
+ 
+

@@ -1,0 +1,48 @@
+454
+
+so liegen alle benaehbarten Elemente (zati pi) und (z† dz, ωι-ἦ-ᾱωι,
+
+Ρ. -ἰ- ἀμ) dieser Streifen auch vereinigt.
+
+Satz II. Um alle Integralmannigfaltigkeiten M„ der gegebenen
+Differentialgleiehung F(:1:l .. . μ.) = Ο, die von eharakteristiseben
+Streifen erzeugt sind‚ zu bekommen, soll man irgend eine In-
+tegralmannigfaltigkeit Μ,,,ι derselben Gleiehung nahmen, die von
+den eharakteristisehen Streifen nieht erzeugt ist ¹), und daun durch
+jedes Element derselben die oharakteristisehen Streifen fabren.
+
+Satz III. Um eine Integralmannigfaltigkeit Im„1 der Gleiohung
+F: Ο, die von den Charakteristiken nieht erzeugt ist, zu erhalten,
+soll man irgend einen Elementverein M„ nehmen. Ist dieser letzte
+keine Integralmannigfaltigkeit M„ so soll man die Koordinaten der
+Elemente (z πμ) desselben noch der Bedingung F—-o unterwerfen‚
+vorausgesetzt, dass der Elementverein M„ nicht von den eharakteristi-
+sehen Streifen erzeugt ist3 ist dagegen M„ die Integralmannigfal-
+tigkeit M„ der Differentialgleichung F: Ο, so soll man die Ele-
+mente derselben der ganz willkurlichen Relation φ (³51 . . . . μ.) = Ο
+unterwerfen‚ die nur einer Bedingung geuugen soll, dass die er—
+haltene Integral-M„„1 von den Charakteristiken nieht erzeugt ist.
+
+δαῖε IV. Um die Integralmannigfaltigkeit M„ der Differential—
+gleiehung F= 0, die von den eharakteristisehen Streifen erzeugt
+ist und als Punkt-Mannigfaltigkeit n-faeh ausgedehnt ist zu erhal-
+ten, kann man irgend eine Integralmannigfaltigkeit *NL-1 derselben
+Gleiohung nehmem, die als Punkt-Mannigfaltigkeit nur (n --· 1)-
+fach ausgedehnt ist und mit derselben im Sinne des Satzes ΙΙ ver-
+fahren. Dieses Integral ist nur daun mogliclg wenn der eharakte—
+ristische Streifen das Punktgebilde ist.
+
+Einige im ἓ.. 7 erhaltenen analytisehen Ergebnisse kbnnen geo-
+metriseh in folgender Weise interpretiert werden. Der Inbegriff
+00¹· Integralmannigfaltigkeiten M„ der Gleiehung F= Ο wird das
+vollstandige Integral der gegebenen Grleiehung genennt. Um das
+vollstandige Integral zu bekommen, kann man z. B. die eharakte-
+
+ristisehen Streifen dureh den Punkt (z εει) allgemeiner Lage der
+Mannigfaltigkeit
+
+²)Das ιιιιεειᾱειςεειιιιιιεειιεῑιιιιᾱῑει ιιιιιειιυιιιιιιᾱ ,ιιιιιεᾱῑιιε der rlnteregalgli·
+ehungen dr Dieff ιῑιιειιι ιιειειςι ιειιιιιις dzo— —p10 ‹12:1⁰— ..... -— p ⁰dx⁰= Ο,
+9(oe1⁰-·10⁰)=0 (2=1 2 n) F(oe1⁰-..12⁰-—-) 0 90(oe1⁰··..1>⁰)=0
+ιιιηιιιιεειιφ O‚0kinrn1tegatdes εεγιιεειιιιωμε ιιι.
+

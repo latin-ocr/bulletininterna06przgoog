@@ -1,0 +1,49 @@
+601
+
+άῒῖἴ = Aa( “ff’' A'az' 4· A‘'aa' “ff’' BP=¹=¹ “ff’' B‘Pw ‘'- B‘'p„‚, ‘'- C'’ (14)
+
+(ἧκ’ ,¹ ι pv} ι’ (15)
+
+ 
+
+οὺ les lettres A, A‘, A'‘‚ B, 13¹ ‚ B“, O, μ et T representem cer-
+taines fonctions de la densite ρ et de la temperature ΐ du fluide au
+point (x, y, 2) ὲ l'epoque t. Considerons maintenant un changement
+d’axes de coordonnees qui reviendrait au changement de y‘ en z‘
+et de z' en μ’. Pour qu’un tel changement d'axes n'entra‘ine pas un
+
+ 
+
+changement de forme de l'expression de ἆῗῖῗζ il faut et il suffit
+
+que l'on ait:
+A‘ = A“; B¹= B“,
+
+Par consequent, si l'on pose:
+
+A—A'zm, B—B'=n, Α’-τ-λ, Β’---ἓ“ζΊ-ῦ
+
+la formule (14) prendre la forme suivante.
+
+ 
+
+‘²155 -m1-2(01÷a2†03)2÷„p2..B==.¹22¹:†.-{‘71‚2-†1⁰¹¹1.÷0 (16)
+
+considemus maintenant un changement d’axess equivalent ὲ. une ro-
+tation queleonque du systeme (τ’, y‘, ε’).
+Designons par ξ, η, ζ les nouveaux axes et par
+
+PEE’ Prm’ 1023,an Ρζξ’ Ρὲη’
+
+αι, ⁶²2: aa τ 2¹2 γ 722 γε)
+les valeurs correspondentes des quantites (11) Nous devrions trouver:
+ῘΞ-ξ-ἒ-Ξωα -2(a a÷a2÷a9÷npffi -f-'E-ffssssgss Ηῖζζ ÷ ο. (17)
+
+D'autre part, si l’on desig-ne par l, ζ’, Ζ” les eosinus directeurs de
+l'axe des ξ. on trouve en s'appuyant sur les equations (15) et (16):
+
+-ἆξ- =ma -λ(α -θ-αΓᾷ-αθ) >Ul—nmE P55÷Zss÷P—K-3†C—
+-2(u†-2)¹e¹ ι”ἰ ÷02¹z¹¹ 1403112—
+
+—2(-71;-}-n){p‚⁴,‚ll -ff-P.12·l“ l÷p21.1ll‘ ὶ-
+

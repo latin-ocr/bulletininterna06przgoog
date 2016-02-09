@@ -1,0 +1,53 @@
+151
+
+ἐ 7. Un principe qui est tres fertile en applicatione diverses,
+est le principe de 18 similitude dynamique‚ employe par exemplo
+par Helmholtz1) dans l'Hydrodynamique ordinaire.
+
+Lorsqu’on connait 18 solution d'un ’problema donne, on peut se
+
+demander ei les memes equations ne peuvent pas etro satisfaitee en
+substituant
+
+les valeurs nx ¹3³, x (de meme pour y, z)
+
+mu„u(„ π’ „v,w)
+bp„1⁰
+120„0
+{t„t
+
+Les conditione neeessairee et suffisantes qui resultent de 18 substi-¹
+tution de ees variables en (10) et (12), sont les suivantes
+
+(d'apres 10): — ‘— 2-— ε ,
+
+((1’8Ρι·ὲε 12): - — 9- 2: ——- ΣΞ μ
+
+¹) Wied. Annalem, vu p. 375 (1879). Api-ee avoir acheve 18 presente etude
+j’ai remusque que Helmholtz‚ dane un autre travail (Berl. Akad. Ber. 1873, p.
+5013 Ges, Abhandlgen. 1 p. 158), avait etendu ees recherches pour y comprendre
+l'Aerodynamique et les applicatione 8 18 navigation ae'rienne. Mais le raisonne-
+ment dont il ee sert donne lieu εὶ quelques objectione fundamentales, qui tendent
+plusque douteuses ees conclusione definitivee. En dehere d’une erreur numerique
+
+[18 rapport dee coefficiente de viscosite -ρμῖ- pour l’air et pour l'eau n’eet pee 0808ss
+
+maie 8082] qui change completement les resultate quantitatifs‚ noue mentionnone
+troie points importante: 1) l’omiseion complete, de l’influence de 18 temperature
+dane lee &quatiens fundamentales, 2) 18 compreseibilit6 de l’air eet negliges daus
+
+18 cae d’un bullon enorme, ee mouvent avec une vitesee de 9 ἕω
+
+, 3) 18 viecosite
+est negligele dans 18 meme ces et dene le cae analogue d’un beteau dane l’eau. L’im-
+portance du dernier point eet mise en evidence par le resultat bien connu qu'une
+ephoro animde d'une viteeee constante ne subirait point de resistance dane un li-
+quide 8888 τίοοοείῒό. Je crois que 1’ou ne peut pue etendre 18 notion de „similitude“
+ὲ, dee 888 aussi differente que cee deux-lii. Ce terme sera employe‚ dene ce qui
+suit, d’une sacen differente, au eene etrict du terme. Une partie considerable de
+18 resistance d’un buteuu provient de 18 formation dee ondes qui dependent evi-
+
+demmeut dela gravit& seue 88 rapport il η’] 8 aucune analogio avec uu bullon.
+
+ 
+

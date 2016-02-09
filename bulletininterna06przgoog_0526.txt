@@ -1,0 +1,45 @@
+702
+
+eine von vornherein gewahlte Funetion der y¹ y2„ τ 1-„. z. B.
+lya: y1 sein wird. Wir werden dann
+μ — eyl - 3110- Ο
+uo
+haben. Wenn wir diese Gleiehung auf die ursprungliehen Variablen
+ηερ, transformieren, so folgt aus derselben und aus den Formeln
+der Transformation infolge der Unabhangigkeit der Variablen
+y, y2„ ÷ 1-„, noch n -— m Gleiehungen. die zusammen mit der
+Gleiohung
+311 ““ y1⁰
+e = Ο
+und den Gleiehungen 122 (x¹ ...p„).-=0 (i=1‚ 2...m) ein System
+der n -Ι- 1 Integrale der Differentialgleiohung Ω = Ο d. h. ein ge-
+
+meinsames Integral des gegebenen Systems in Involution (Ι) bil-
+den. VVenn dieses Integral durch die Null-Setzung
+
+‹120 — p1⁰dx1⁰ — . . . — p„⁰dx„⁰ = Ο,
+
+wo E(xl⁰...p„⁰)=0, q>⁶(a:1⁰...p„⁰)=0 (i=1‚2...m) nieht er-
+halten werden kann, so neunt man das singulare Integral des Sy-
+stems (1) in Involution. Das System (I) kann heahstens ein singu-
+lares Integral besitzen. Die Eigensehaft der Singulatim-t ist inva-
+riant gegen alle Pfaffsehen Transformationen.
+
+2. Alle gemeinsamen Integrale des gegebenen Systems in In-
+volution (Ι) Ιζὸῐιιιθι] aus einem vollstandigen Integrale derselben
+
+. erhalten werden. Es sei das vollstandige Integral des Systems (Ι)
+
+292(ae1...oe„zp1...p„(71 ···Cn÷1-m)=0³ R(ael...p„)=0
+(g) (2’=1‚2...m, a=1‚2...n-}-1-m)
+
+vorgelegt. Es folgt aus diesen Gleiohungen eine oder mehrere Re-
+lationen zwisehen :1:⁶2 z. B.
+
+z=f(oek÷1...oe„)‚ xs=fi(xk÷1···ae„) (i=1,2...k3.
+
+Wir kbnnen dann das Integral (g) in der Form
+H--·-J‘—p¹f¹ —- ...—plkf‚‘=2—:z:1p¹ -...—ae,p„,
+
+(g‘) ae‘=--?-‚ φυγῆςἃ (i=1‚2..k·, j=1‚2..n-1c)‚
+

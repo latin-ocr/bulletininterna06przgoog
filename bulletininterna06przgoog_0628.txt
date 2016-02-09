@@ -1,0 +1,23 @@
+674
+
+bilden, so kfmnen wir zum Ausdruck Ω” den vorigen Schluss an-
+wenden.
+
+Die Matrix (B') hat in diesem Faue dieselbe Gestallt, wie (B).
+nur mussan wir statt F„ x,- ρ,- (i -- 1, 2. .m‚ j ευ 1, 2 . . q) F( ιε] p(
+setzen.
+
+Die Gleiohungen dieser Matrix bestimmen (118 Formeln der
+Pfaffsehen Transformation fur den Differentialausdruek 9¹¹. VVenn
+wir diese letzten auf die ursprungliehen Variablen transformieren‚
+80 erhalten wir offenbar die Gleichungen fur die Formeln dieser
+Transformation fur den Differentialausdruck 9¹. wir wollen jetzt
+sehon, wie die, Gleiohungen der Matrix (B') in den ursprungliohen
+Veranderlichen ω, 2 p¹ sich darstellen. Offenbar ist
+
+ἑῇ -ω--ἪΡ ”33 “- ’ἑῇ-ΡΠ ᾗ ῧξῇα (⁶²²1 2 q)
+&F - ΘΓ &1³¹² - I< F‘ lv
+ff-—aez §px-m ῑιέῑ
+
+Α180 ist die Matrix (B‘):
+

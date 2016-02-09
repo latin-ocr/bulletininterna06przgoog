@@ -1,0 +1,48 @@
+841
+
+kten einer Dampfdruck-Kurve den ganzen Verlauf derselben zu be-
+rechnen. Man nimmt zu diesem Zwecke die Temperatur einer
+Flussigkeit, deren Dampfspannungskurve genau bekannt ist, z. B.
+des wawere, welche dem Dampfdrucke der untersuchten Substanz
+entem-ioht, und dividiert durch sie dic Temperatur der Substan23 ·
+den erhaltenen Quotienten tragt man als Abszisse, die Temperatur des
+Wassers als Ordinate auf. Bestimmt man auf solche VVeise mehrere
+Punkte‚ (191111 uberzeugt man sich, dass sie alle auf einer Geraden
+liegen; eventuell kann mit Hilfe dieser Geraden die nicht ganz ge·-
+nau bestimmte Dampfdruckkurve korrigiert und erganzt werden.
+Da die Linie eine Gerade 5⁸¹⁵,- reichen zwei genau bestimmte Pun-
+kte aue, um alle anderen zu berechnen.
+
+Fur Stic'kstoff kennen wir in der Nahe des Eretarrungspunktes
+die Dampfdrucke3 da sie ja von Fischer und Alt bestimmt worden
+sind. Ich bediente mich nur des KurvenstuckeS‚ welches von die-
+sen Verfassern in ihrer zweiten Abhandlung angegeben warde, da
+sie diese Messungen fur genauer und richtiger ansehen1). Aus die—
+sen Zahlen erhalten wir die folgende Tabelle:
+
+TN, abe. [Taq abest)
+
+¹ o·196505
+0195450
+
+· 0195161
+0194709
+0191994
+0193802„
+
+ 
+
+Tragt man die Zahlen in der dritten und in der vierten Ru-
+brik als Ordinaten bezw. als Abszissen auf7 (191111 bekommt 111911
+01110 Reihe von Punkten‚ welche fast genau auf einer Geraden lie-
+gen3 die kleine Abweichung kann leicht graphisch korrigiert werden.
+
+Nun bestimmt man mittels'der Tabelle der Dampfspannungen
+des wassers‚ welche Temperaturen des Wassers den Drucken
+902 mm, bezw. 935 mm entsprechen. Man erhalt:
+
+ι) L. ο. s. 213 und 214.
+³) Nach Regnault's Messungen berechnet von Broch. Siehe Landolt und Bbrnstein',
+
+Phys. Chem. 'Fabellam S. 53.
+

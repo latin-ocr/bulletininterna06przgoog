@@ -1,0 +1,45 @@
+687 ⁴
+
+und ⁴ m Gleieh ungen
+W‹(x1⁰···'P„⁰)'—-0 (i=1,2...m)‚
+
+die nur keine Integrale der Differentialgleiehungen der Matrix (B-1)
+sind, euthalt. WVenn man aus diesen n—{—1-†—m Gleichungen (f)
+und aus den 2n —}— 1 — m Hauptintegralen der Differentialgleiohun-
+gen der Matrix (Βι), die Grssssen x1020p¹⁰ eliminiert‚ so bekommt
+man n-{— 1 Gleie-hungen, die das gemeinsame niehtsingulare Inte-
+gral der partiellen Differentialgleiehungen (I) bilden.
+
+WVenn aus diesen η-Ι-1 Gleiehungen nur eine Relation zwi-
+sehen aaz folgt‚ so stellen diese das gemeinsame niehtsingulare In-
+tegra} im gewiihnliohen Sinne dai-3 sie stellen im entgegengesetzten
+Falle ein gemeinsames niehtsingulares Integral im erweiterten Sinne Ι
+von S. Lie dar.
+
+WVas solehes System der n- —}— 1 -†-m Integrale der Differential-
+gleiehung Ω0 = Ο beu-iffi, das m gegebene Gleichungen(1') und m
+Gleiehungen⁷ die nur keine Integrale der Differentialgleichungen
+der Matrix (ΒΧ) sind, euthalt, so bestimmen wir, offenbar ein sol-
+ehes ohne die Integration in folgender VVeise: Wir bestimmen ein
+System der η-Ι-1 Integrale der Differentialgleichung Ωο =0‚ das
+Ic(0<k<m) von der gegebenen Gleiehungen E(xl⁰.. . p„⁰) :O
+(ἱ = 1, 2 . . .m) und m —— q Q< k) Gleiehungen ‹p1(oe1⁰...p„⁰)= 0,
+die keine Integrale der Differentialgleiehungen der Matrix (131)
+sind, euthalt. VVenn wir noch die m — k flbrigen (161· Gleichungen
+(1¹) und k(> q) willkurliche Gleichungen‚ die q Gleiehungen er-
+hahen, die ke'ine Integra-le der Differentialgleiehungen der Matrix
+(Bl) sind, hinzufugen‚ so bekommen wir das gewunsehte System
+der n—†-1 Integrale der Differentialgleichung Qoz-O. Jedes sol-
+61166 System der Integrale kann in dieser Weise erhalten werden.
+
+Man kann beweisen‚ dass alle gemeinsamen nichtsingularen
+Integrale der gegebenen partiellen Differentialgleiohungen (I) in
+Involution aus denjenigen Systemen der n†1—†—m Integrale der
+Differentialgleiehungen ΩΟ = 0 erhalten werden konnen, die die-
+selben m Gleichungen 1125(aest ..p‚,⁹) =0 (i--2 1, 2 . . .m)‚ die keine
+Integrale der Differentialgleiehungen der Matrix (Bl) sind, enthalten.
+Es sei das gemeinsame niehtsingulare Integral
+
+θα(ω,...ρ,,--Ο (a=152...7c-†-1—m)‚
+B}(x,...p„zp,...p„)=0 (i=1‚2...m)
+

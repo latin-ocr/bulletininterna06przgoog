@@ -1,0 +1,54 @@
+177
+
+rencontrerait un aut-re obstacle: 16 connaissance de la pression en
+deux points de l'axe‚.p1‚ Ρ, 61 dela temperature initiale ne suffirait
+pas 6. 16 determination des constantes et des fonctions 611111161168
+(16 6616111; 11 faudrait connaitre encore la distribution (161611166 (16.
+16 1116886 61 (16 16 pression dans 16 profil initial. Cela veut dire
+que le probleme n'est pas defini d’une fag-on 6116616, 81 l'on n’a pas
+precise 16 forme des deux reservoirs qui communiquent par 16 tube,
+surtOut (16118 16 voisinage de ses extremites L’effet (16 668 circonstan-
+668, (161 86 manifeste par exemple (16118168 phenomenes de 16 „vena
+contracta“‚ peut modifier d’une 1116111616 considerable 16 transpiration
+par des tubes larges. de petite longueur. Cependant- 16 methode (16
+Ρο18661116, employee de la 1116111616 (1661116 66 ξ 13, peut tou-
+jours servir 6 (168 1116811168 exactes (16 16 1118608116 relative.
+
+ᾖ 28. Une autre categorie de problemes peut 6116 111681166 par
+l'exemple suivant. Supposons une sphere‚ en repos‚ dans un gaz
+anime d'un mouvement „calme“ stationnaire, avec une vitesse uni—
+forme c 6 l'infini3 cette hypothese, qui implique l'omission des termes
+
+ρει ἐξ 611 comparaison avec μΔῖιι, exige que ρῑια
+
+petite. La solution serait tres simple, si le gaz etait comprime 6 6116
+(16118116 infinie, parce. que. dans 66 668 div serait egal 6 zero [d'apres
+(11)] et 16 mouvement 8616116611ιί (1’111111(161(16 incompressible. Pour
+trouver les corrections qui resultent de 16 6011111168811111116, conside-
+10118 (166 16 distribution de. 16 (16118116 61 66881 (168 autres variables
+depend (16 16 11616111 constante de 16 pressiori [a l’infini‚ que nous
+
+1
+
+soit une quantite
+
+appelle-rous P. A mesure que s’eloig'ne de zer0‚ 16 mouvement
+
+P
+
+s’ecartera du type incompressible. Donc, on 1101111611 developper
+
+toutes les variables en series d’apres les degres de ἔ) comme 611
+
+ξ 26, 66 (161 permettrait de decomposer 168 equations (10, 11, 12>
+en un systeme d’equations 6 approximations progressives. Pour sim-
+phfier, nous nous bornerons 6 16 consideration de deux 16111168, 611
+supposant que tontes 168 variables soient composees (16 16 muniere
+
+suivante:
+u=u0·{-zc13 ²²=vo†v13 w=2c0÷w13 (57)
+22=p0÷1013 <2=<>0÷o13 0=00÷013
+
+011 168 premiers termes representent 16 type limite d'incompressibi-
+6*
+

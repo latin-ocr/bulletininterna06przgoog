@@ -1,0 +1,50 @@
+‘182
+
+dont M. Zaremba s’occupe dans son Memoire „Sur un probleme
+d'Hydrodynamique etc.“, presente, en meme temps que le prece·
+dent, dans la seance du 8. Juin 1903 ¹). Nous nous placemus dans
+les memes hypotheses que celles qu'adopte M. Zaremba dans le
+Memoire cite et nous en conservemus toutes les notations. Les deux
+premieres equations du systema (6), page 409, nous permettent
+
+d’ecrire
+(α 359} *i* v ᾖ) (Ρη -4-12..)=
+
+(1) =—2u(a1-}-a2)*Q‘f‘RJLQ—-Qplj-ffl·
+
+Je dis que le premier membre de cette equation est egal ὲ. zero.
+En effet: on verifie aisement. en s’appuyant sur les equations (17)
+et (18) du Memoire dont il s’agit (peges 411 et 412) que la somme
+ρετ-ἧ- Pur est egale identiquement ὲ la quantite P—†— H . quantit& qui
+est une fonction de la seule variable r. Cela etant. l'egalitr'e (12).ὅ
+page 410, nous apprend que l’on a
+
+(2) (u jss÷v}y)(p„†p„)=⁹
+
+νὲ
+
+ὃ
+
+5(p„÷p„3=0.
+
+D’autre part, il resulto des hypotheses w=0 et ῶ---Ο qu'admet
+M. Zaremba (page 408) que l’on a
+
+(3) αι ‘i'- az = Ο·
+En vertu des equations (2) et (3) l’equation (1) devient
+
+(4) -²‘¹³ (-²''-³²-³2‚'-''⁹³ “ ²⁰ ΔΓ ‘'³17²— Ρ- = 0-
+
+A ce resultat comparons l’equation suivante qui fait partie du sys-
+teme (13) (page 410) du Memoire de M. Zaremba:
+
+(ὃ) --P‘’3T--‘'—÷—²⁰“T‘}²⁰— :0³
+
+nous aurons evidemment
+
+(6) P„ = -ὲ (p... -Ι- p..) &est-&dire 20- = Pu·-
+
+¹) Bulletin lnt. de l'Acad. d. Sc. de cracovia, Ol. d. Sc. Manet
+Nat„ Anneo 1903. p. 403. δε me reservo d'examiner de plus pree les concluflions
+dc ce Me'moire ὲ une future occasion.
+

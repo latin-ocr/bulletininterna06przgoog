@@ -1,0 +1,44 @@
+688
+
+der Differentialgleichungen (I) vorgelegt. wir semen vol-aua, dass
+wir dasselbe aus dem System der n-f- 1 -}—m Integrale
+
+62‘(a:⁰⁰,...p,⁰⁰)=0 (a=1‚2... n†1—m),
+R(x,⁰⁰...p,⁰⁰)=0, wf(x,⁰⁰...p„⁰⁰)=0 (i=1‚2...m)
+
+der Differentialgleichung 90„ = O. erhalten haben. 'Wenn wir also
+die Gleiehungen
+
+62¹(1100...p,⁰⁰)=0(a=1‚2... n-{—1 —m)
+wo Rx,‘'‘'...p.⁰⁰)=0‚ 2:1⁶(x,⁰⁰...p„⁰⁰)=o (i=1, 2...m) ist, mit
+Hilfe dor Formel der Pfaffschen Transformation z. B.
+
+xffj=xffj(.r,...x-ael⁰⁰...p,“)j=1,2...n—m
+p5=pf(ae‚...x,x,⁰⁰...p,⁰⁰) i=1.2...n
+(α’) 2--2(.τ,...ω,.τ,“”...ρ,“’)
+
+wo Ρ.. (²1⁰⁰ . . . μω) -τ Ο ψ, (23⁰⁰ . . . μω) = Ο (ι’ == 1⁷ 2 . . . ω’) ist, auf
+Variable ε, z pi transformieren‚ so bekommen wir die Gleichungen
+θ’,(.τ,...ρ,);--0 (a=1.2...n-†-1—-m')-
+
+wo R(.1:,...p.] (i = 1‚2. . . m) ist. wir konnen diesoe Integra! aus
+dem System der u -ξ- 1 -f- m Integrale der Differentialgleiohung
+
+90=dz‚—p,⁰d.r,⁰—...——p,⁰d.t,'=0;
+62(x,‘...p,⁰)=0 Qa=1.2...n—÷—1—m).
+R(.1·,⁶...p,'')=0. (Pel,·²'1⁶--·P.‘)=0 ε,ι“--·-1.2...1κ).
+
+erhalten. das die von vornherein gegebenen Gleichungen
+(p,·*.1·,'...p„⁰n=0 ‹5:1.2...m·.
+
+die keine Integralo der Differentialgleichungvn der Matrix (B1)
+sind. enthiilt. In der Tat sind die Gleichungen
+
+,τη-επ.Ἣ ἱ.ι·,....κ·,,.ι·,“““...ρ,“““ι ]·-1.2...η-ιη
+(δ’) p.=p.,x,....r,.r,*..-p,·. i=1.2.-.n
+
+εει· ,....t,.r,''...p,··
+(bf) 1⁸.-=.r.''xt,...t.s,.⁶’...p,‘ i=l.2...m
+
+wo R„¹.·*·-·P.⁴'¹=0 t‘·„.1·2'...p‚”' =.-:.0 i=1.2.-.m'= ist. und
+

@@ -1,0 +1,57 @@
+688
+
+(161· Differentialgleiohungen (I) vorgelegt. Wir setzen voram, dass
+wir dasselbe aus dem System der η-Ι- 1 -Ι-ηι Integrale
+
+62'(x⁰⁰‚...p„⁰⁰)=0 (a=1,2... n-l-I—-mL
+E(x1⁰⁰...p„⁰⁰)=0‚ zpf(x,⁰⁰...p„⁰⁰)=:0 (i=1‚2...m)
+
+der Differentialgleiohung 900 = Ο, erhalten haben. Wenn wir also
+die Gleiehungen
+
+Oa‘(x,⁰⁰...p„⁰⁰)=0 (a=1‚2... η-Ι-Ι-ηι)
+
+wo Rae100...p„⁰⁰)=0, zp‘(x,⁰⁰...p„⁰⁰)=0 (i=1‚ 2...m) ist, mit
+Hilfe der' Formel der Pfaffschen Transformation z. Β.
+
+x„4,-=x.45(x,...x„ae,⁰⁰...p„⁰⁰) j=1,2...n—m
+p1=p⁶(ae,...x„x1⁰⁰...p„⁰⁰) i=1‚2,‚,n
+(α’) z=z(x,...oe„x,⁰⁰...p„⁰⁰)
+
+wo R(oe,⁰⁰...p„⁰⁰)=o gv‘(x,⁰⁰...p„⁰⁰)=0 (i=1‚2...m) ist, auf
+Variable πίε ρ, transformieren‚ so bokommen wir die Gleichungen
+
+29³(oe,...p„)=o (a=1‚2...n-}-1-m),
+
+wo R(x,. . .p„) (z‘= 1‚2 . ..m) ist. Wir konnen dieses Integral aus
+dem System der n -ξ- 1 —{—m Integrale der Differentialgleiohung
+
+90=d20—p,⁰dx1⁰—...--p„⁰dx„⁰=0;
+8“(:c,⁰...p„⁰)=0 (a=1‚2...n—{—1—m-),
+E(x,⁰...p„⁰)=0‚ oe1(x,⁰...p„⁰)=0 (i=1‚2...m)‚
+
+athalum, das die von vornherein gegebenen Gleiohungen
+oe,(ae1⁰...p„⁰)=0 (22:122...m)‚
+
+die keine Integrale (161· Differentialgleiohungen der Matrix (Bl)
+sind7 enthfflt. In der Tat sind die Gleichungen
+
+x„4,-=x„4,·(oe,...x„x¹⁰⁰...p„⁰⁰) j=1‚2...n—m
+
+(α’) p‘=p1(x,...x„ae,⁰⁰...p„⁰⁰) i=1‚2...n
+z=z(:v1...x„x,⁰⁰...p„⁰⁰)
+(b') x4=x4'‘(t1...t„ae1⁰⁰...p„⁰⁰) i=1‚2...m
+
+wo H(oe1⁰⁰...p„⁰⁰)=0 ([1ἰ(τε,”0...ρ,,ω)εο(’ἱ-τ 1‚2.,.m) ist, und
+die Gleiehungen
+
+1‚2...n —m
+1‚2...n
+
+x,4„j=x„4„,-(x1...x„x,⁰...p„⁰) j
+(a) p5=p;(x1...x„ x,⁰...p,4⁰) i
+z=2(x1...oe„x,⁰...p„⁰)
+(b) xssssoeff‘(y,...y„x1⁰...p„⁰) i=1‚2...m
+
+ 
+

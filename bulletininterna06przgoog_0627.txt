@@ -1,0 +1,55 @@
+673
+
+gewtshnliohen Differentialgleichungen. Unabhangig von einander
+sind nur diejenigen zwischen ihnen‚ die durch Hinzufugung zur
+?(.F¹*·F¹··) der
+ὃ) (Ρ, · · · Ρ..)
+
+ersten Kolonne und je einer (161· ubrigen Reihen gebildet sind.
+Diese Gleichungen sind2 wie man leicht ersieht‚ mit den Gleiohun-
+gen (Al) identisch. Wir werden diese Gleichungen die Gleichun·
+gen der Matrix (B) neuneu. Die Formeln der Transformation der
+Grssssen x„ z, p,- (i -= 1, :2 . . . m.) auf die neuen 31,- . . ynam-m , die den
+
+Gleiohungen der Matrix (Β), wo -Qh-:ssl 1³⁰³} 'a Ο ist, bei den kon-
+
+3(p1...p,„)
+
+stanton Werten der y‚„÷1...y„,†1-m und wo p,...p,„ den 9161611111]-
+gen (Γ)
+
+Matrix der von Null verschiedenen Determinante
+
+ 
+
+1⁴}(x1...x„zp1...p„)=0 (·i-—-1,2...m)
+
+des vollstandigen Systems gentigen, sind diejenigen der Pfaffsohen
+Transformation fur (1611 Differentialausdruck
+
+Q‘=d2—p„dae,—...—pndx„,
+
+wo p,...p‚„ den Gleiohungen (Γ) geuugen.
+
+Um noch ein allgemeineres Ergebnis zu erhalten, wollen wir
+uns noch von dieser Voraussetzung frei macheu, dass die gegebe-
+nen Gleichungen (Γ) in Bezug auf μ. . .p‚„ unabhzingig sind.
+
+Wir setzen namlieh vorans, dass die Gleichungen des 170116τᾶ11-
+digen Systems (1¹) in Bezug auf z. B. x,...xqpq4,...pm 11116111ιῆ11-
+gig sind. wir transformieren die Gleichungen (I‘) mit Hilfe der
+Formel
+
+2=H÷11P1-}-·-··-{-xqpq2 ‚1:1=p,-'³ μαι-,τί (z‘=1‚2...q)
+auf die neuen
+E' (2:1¹ ...xq‘x,ffl...x„, H, p,'...p,1'{p†4,1‚...p„)=0 (2‘==1‚2...m)‚ (1¹¹)
+
+die in Bezug auf pf . . .p4‘p,ffl...pm aufli3sbar sind, und auch den
+Differentialausdruok Ω’. wo xl . . . ocq pff, . . ‚pm den Gleichungen (I')
+geuugen, auf den neuen
+
+9¹¹ = dH— pfdzx - . . . -- 205de - pffidaeffl - . . . - mam„
+
+wo die Veranderlichen p,‘...p9'pq4„1...p¹¹¹¹ den neuen Gleichungen
+(1¹¹) geuugen. Da die Gleichungen (1¹¹) ein vollstandiges System
+

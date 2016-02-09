@@ -1,0 +1,48 @@
+694
+
+3‘2(ae,⁰...p„⁰)=0(a=1‚2...·n—m)‚1⁴1(x‚.⁰...p„⁰)=0(i=1‚2...m)
+‹p(x,⁰...x„⁰zo)=0‚ oe5(oe,‘’...x„⁰20)=0 (2:1,2...mj (f')
+
+darstellen. Mann kann beweisen3 dass die ’πή-1 letzten (11101-
+ehungen ganz willkurlioh gewahlt werden 1ςὸ1111011, 11111· sollen m
+von ihnen keine Integrale der Differentialgleichungen der Matrix
+sein. Wenn wir in der Tat diest* Gleiehungen in dieser Weise
+wahlen‚ und mit Hilfe derselben m—†-1 der Grossen :22⁰ 20 aus
+der Differentialg1eiohung 90=0 eliminieren‚ so bekommen wir die
+Gleiohung mit nur u --m Differentialen. VVenn man die n—m
+Koeffizienten del-selben gleioh Null setzt und noch die Gleichungen
+h}(x,⁰...p„⁰)==0 (2:1.2...m.) hinzufugt. so bekommt man das
+gewunschte System der Integrale der Differentialgleiohung ,ΩΟ-τί),
+Wenn das Integra] im gewsshnliehem Sinne der Differentialglei-
+chungen (Ι), dass wir aus den n ÷1 —}—m Integralen des Systems
+(fn) 0111011011, (110 Gestalt
+
+2=j(.‘z·1...x„)
+
+hat, und wenn diese infulge der Gleisshungen q24(.c2.....ze„ 2)=0
+(ὁ = 1, 2 . . . m), die keine Integrale der Differentialgleichungen der
+Matrix (Bl) sind, nicht illusoriseh wird‚ so kann man das System
+(f“) noch in der Form
+
+z=f(x‚⁰....v„⁰)‚ Ραο-τὲῑζο, oe2(x1⁰....z=„⁰zo)=0
+
+(a=1.2...n‚ i=1‚2...-m)
+
+darstellen. Es folgt datam, dass die. Gleichung φ (xx10..x„⁰ 20)==0
+die Folge der Gleiohungen ΖΟ = s(x1⁰ . . .c„⁰)‚ φ,- (³:1⁰ . . ae„⁰ 20] = 0
+(iz 1, 2 . . .m) ist, d. h. das Integral
+
+3=s(oe,...x„)
+
+im gewohnliehen Sinne genugt der von vornherein gegebenen
+Gieiehung
+
+φφ), ...x„2)=0
+infolge der m von vornherein gegebenen Relationem
+P2(·221--·x„2)=() (i=1, 2...m)‚
+
+die nur keine Integrale der Differentialgleiohungen (101· Matrix
+(Bl) sein sollen.
+
+wir kunnen also den folgenden Satz VI ausspreehen:
+

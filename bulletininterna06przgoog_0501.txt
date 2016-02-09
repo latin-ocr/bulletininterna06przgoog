@@ -1,0 +1,48 @@
+679
+
+131, da
+[Foefflzo (a‚i=1,2...m)
+
+ist und 016111 6116 Determinanten mm Grades (161· Matrix (131) 8161611
+Null sind.
+
+Wir wissen, dass die Formol der Pfaffschen Transformation (163
+‘Differentialausdrucks
+
+Q¹=d2—p,dx,—...—p„dx„,
+
+wo F1(x, . . ..τηεμ . . .p„) = Ο (i == 1, 2. . . m) ist, oder vie-lmehr (116
+Β616110060 3011361160 2:1ng, die 6113 111060 06611 (161· Ε111111061100 (161·
+Veranderlichen y ..... qm sich 61861160, (160 Differentialgleiehungen
+der Matrix (B) zusammen mit der Funktion μ 86011860 301160. Da
+die Gleichungen der Matrix (B) von den Gleiehungen der Matrix
+(B,) nur durch eine Gleichung‚ (116 (116 F unktion μ 60111611, 31611
+unterscheiden, 30 301160 (116 Formeln dieser Transformation nur
+(160 Gleiohungen (161· Matrix (131) 86011860. Ι)6 (116 01160 erwahnten
+Relationen zwisehen (11ι 2 p¹ auch (116 (1161611008εο
+
+Ι1ζ(111,..”.;ι;,,3ρ,...ρ,.);-Οι (i=1‚2...m)
+
+und keine andere, (116 von y¹¹¹÷ ..... ymb„ frei sind, 6011161160, 30
+31οᾶ (11636 Β616110060 ein partikulares System (161· 1016811116 (161·
+Differentialgleichungen der Matrix (BI), das 6113 dem vollstandigen
+System mit Hilfe der m gewissen Relationen zwisohen (160 Ιο16-
+grationskonstanten 31611 erg-ibt. Setzen wir vorauS, dass 610 30161163
+System (161· Integrale der Gleichungen der Matrix (131) gesunden
+ist. Diese Integrale bestimmen nur 2n -Ι- 1 - m der Variablen xizp‘
+als die Funktionen der m ubrigen3 (11636 1613160·111611160 6130 will-
+kurliche Funktionen (161· y„ . .y,‚,÷,-,‚ welche in Β63118 auf Ἄμφω
+006111160818 sind.
+
+VVenn wir 3. Β. 110161133613611, (1633 (116 8686116060 (11161611υο860
+(Γ) 10 Β63118 auf p,..p,„ unabhangig sind, 30 1163111010οο (116 Glei-
+611008εο (161· Matrix (131) die Veranderlichen :cm-H, z, pt 613 (116 Fun-
+ktionen der x ..... :vm und sind (11636 1613160 willkurliehe Funktio-
+nen der y ..... ynam-m) welche in Bezug auf y ..... y„ unabhangig
+sind. Was die Wahl (116361- 1613160 ben-iffi, 30 worden wir 316 10
+1018601161· WVeise wahlen: wir setzen vorauS, dass wir 611611 (11636
+Funktionen aus (160 861νί31101161160 unbeschrankt integrablen Diffe-
+rentialgleichungen
+
+dxk=Akdy,-}-...-}-B.dy„· (k=1‚·2...m)
+

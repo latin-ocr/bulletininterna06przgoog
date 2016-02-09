@@ -1,0 +1,55 @@
+710
+
+Die Gleiohung Ω’ = Ο ,und die gegebenen Gleiehungen (1¹)
+
+werden:
+Q'=dz—291doe2 —292dy2—..—-29‚„dy„.—
+—pm÷1doem41—...—p„dae„=0
+und
+
+qc=²9⁴c(ae1y2···ymoem÷l ...oe„zp„.÷1...p.„)‚ (i=1,2...m)‚
+
+WO
+
+29⁵1=(-)1-}—y2'fi),—{-...-}-ym(9m
+19,=(:121——h1)fi·)¹ (i=2,3..m)
+
+ist. Das System der Differentialgleichungen (M) ist:
+
+doe'ffl ε’Σβ Θὲἶι ⁰³⁹³— &pf-:ss ‘²⁰⁰¹
+
+ 
+
+ 
+
+ 
+
+de÷1 ΞΣβ (aix-m ÷pm÷j Θθβ 7) ‘2⁹³ '¹‘ (baffi,- ῬΡΜᾈ 32 ᾧ) ‘²³³¹
+
+ἀεεΣβ(θβ--Σ’ ΣΙΡΜἩ· ἒθβ )dyfi-{-(v91— ΞἼΡω--ἓΫῙ )d⁴r
+
+&pm-fi 13Pm÷1
+
+ 
+
+und, wie es bekannt ist, ist das System der Hauptintegrale dieses
+Systems identisoh mit demjem’gen der Hauptintegrale fur :tc1 = h,
+des ersten Systems
+
+ 
+
+ 
+
+ΜΞ 2312,- ά(
+dP„ nubi: §3⁹25 -ΉΡΜίἓ- &z ἢ) dxl
+dz=(w9*1-—2pm÷j ἑῷ ἰῇ) ‘3501-
+
+Wenn das System der Hauptintegrale fur ccl— -·- Ῐι1 des letzten
+die Form
+oemw' Ξ ‘Um-w· (oel 2½ · · · ymoem÷1⁰ · · ·Ρπ)
+Pm—H' ··“““““·“ Pm÷j (ωι 92 · · · ym oem ÷1⁰ · · · Pn0) (an)
+„2:2(5152312...ymoem÷1⁰...p„⁰)
+
+hat, wo με . . . ym die Parameter sind, so bekommt man nach der
+Integration der Difl'erentialgleiohung
+

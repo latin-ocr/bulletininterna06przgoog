@@ -1,0 +1,45 @@
+734
+
+(44) s 1163)( A }(oe†3)dc)doe= ζ εἷς( s 12⁷3(oe)1⁴'(oe÷0aae).
+
+’ Posons
+
+w(c)=s²}(x)ff(x†c>dx-
+
+Considerons la differenee
+
+A=w<c÷12)—w(5)=s2'(x)[F(ae÷c÷h)—F(x÷c)]dx
+
+qu’on peut presentet sous la forme suivante:
+²²14(
+
+Δ = Ᾰ F (ιι-ζ) [F (u -ι- h) —F(u‚)] du.
+
+Deeomposons l'intervalle (ζ, 2π-Ι-ζ) en intervalles elementaires
+
+e1‚e2,e3,...‚e„
+
+q etant un entier queleonque.
+Designons par ε, ceux de ees elements particuliem, οὺ l'oecil-
+
+lation Ο, de la fonction F (u) est plus grande qu'un nombre positis ε,
+donne ἐι l'avanee‚ par e2—-eeux, οὺ l’oseillation de F(u) ne surpasse
+pas ε. Comme F(u) reste integrable dans l'intervalle (ζ, ἕπε-μζ)τ
+on peut ehoisir une decomposition eonvenable telle que l'on ait
+
+(45) 2⁶⁴ < ε,
+
+la somme etant etendue ὲ tous les elementa e„ οὺ l'oseillation 0..
+
+surpasse le nombre ε.
+Deeomposons maintenant ehaeun des elements egen trois parties
+
+ei, εἴ et εἶ’ (16 ῐαςοῑι que l’on ait 1)
+
+(46) Σοί < ε, Ze? < ε,
+
+ee qui est toujours possible.-
+
+¹) Compar. A. Hal-witz. Annales de l'Eeole Not-male, 3-e serio, T. XIX,
+1902, p. 362.
+

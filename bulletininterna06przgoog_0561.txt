@@ -1,0 +1,48 @@
+7341
+
+Cette §galite a lieu pour toute fonction F(x) satisfaisant aux con-
+ditione (37) qui se rsduisent maintenant2 pour η = 0, aux suivantes
+
+F(.·c)=0 pour O<x<77‘,
+F (ω) ==f (ω) pour η’ἑωὲ2π-τῖ
+F(ae)=0 pour 2π-η’<π<2π, ·
+
+οἰι f (x) est une fonction queleonque‚ bol-nde et intsgrable dans
+l'intervalle (Ο, 2η).
+
+Quant ὲ. η’ o'est un nombre positif arbitraire satisfaisant ὲ. une
+seule condition: η’<π.
+
+11 s’ensuit immediatement que l’dgalits (52) a toujours lieu, pour
+toute fonction s (ω) ὴοωέθ et integrable dans l’intervalle (0, 2n).
+On peut done &orire
+
+‡]}2(oe)aoe=93²÷}(ae÷b‚2),
+
+en entendant par a, et b. les expressions suivantes
+
+25:
+
+a,=‡]}(ae)oeskoedoe, b2=—sf(oe)sinkoedoe.
+
+Le theorsme suivant est donc demontrd:
+
+Τὴέοῐὲῐῐιε. Quelle que soit la fonction ἶβιν), bot-nee
+et integrable dans l'intervalle (0,2n)‚ on a toujours
+
+ἦ sssw (ω) aa> = ‘fg-² 723* (ak² -ι- 223), (53)
+
+comme si l’egaliteS
+
+ω
+f<2>=2⁹÷2<ffi00mm÷nm
+
+qui peut n’avoir aucun sens sous les suppositions g&-
+ndrales faites par rapport hsce), represent-ait le (16-
+veloppement de la fonction f(x) suivant la ssrie de
+
+Fourier‚ laquelle serait ici uniformdment conver-
+genta
+
+15. Posons
+

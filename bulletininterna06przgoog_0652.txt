@@ -1,0 +1,50 @@
+698
+
+wo die Gleiehungen (a) das System der Hauptintegrale in Bezug
+auf a:¹ = 121 (i = 1‚ 2 . . . m) der Differentialgleiehungen der Matrix
+(131) bilden, eliminieren.
+
+Da die Gleiehungen πθ = k¹1 (i = 1, 2. . m) die Gfflssen Ρ,- nieht
+euthalten‚ so euthalt der Satz VI die Form: Wenn wir die Diffe-
+rentialgleiehung
+
+dz„-pm410doem420—...-p„⁰dz‚.⁰=o
+durch n -ἦ- 1 ·—- m Integrale
+(f) OEoe(xm„-1⁰,...p„⁰)=0 (a=1.2...n-†—1—m)‚
+
+die nur eine Relation zwisehen xm÷i⁰ ε.)
+φ (ωῃΗ 1⁰ . . . πηοκο) = Ο,
+
+die von vornherein gewahlt werden kann enthalten. integrieren‚ und
+
+wenn wir die Grssssen xm÷j⁰ z⁰ 1⁹1⁰101 aus den Gleiehungen (f) und
+den Gleiehungen
+
+R(h1...h„.x„‚41⁰...p„⁰')=0 (i=1,2...m)‚
+xm4j=x„2†,·(x1..oemh1..hmx„,÷1⁰..p„⁰) j=1‚2..m
+P÷=P1ssv1--xmh1··l²m²‘m÷1⁰··pn⁰) i:1,2...n
+
+2:2(252 .. .oemh¹ ...h„,xmss1⁰···Pn⁰)
+
+eliminiemn, so erhalten wir das gemeinsame niehtsingulare Inte-
+gral im gewbhnlichen Sinne der gegebenen Differentialgleiehun-
+en Ι .
+
+g S(ie) hat die Eigensehaft bei den gegebenen Werten der Varia-
+blen πεζὴ, (i= 1, 2.. .m) der gegebenen Gleiehung
+
+‹p(ae„‚÷1...x„z)=0
+
+zu geuugen. Alle gemeinsamen Integrale im gewsshnliehen Sinne
+konnen in dieser W'eise erhalten werden.
+
+Endlich der Satz VII hat die F orm: VVenn man die Differen-
+tialgleiehung
+
+(ἰεῦ -pm÷1⁰dv⁶m÷1⁰ — . . . —p„⁰dx„⁰= Ο
+durch n -†— 1 —— m Integrale
+
+Φα (xna÷1⁰ . . .x„020p„. -.-1⁰ . . .p„⁰‚ (21 .. . C,H 1.„.) = Ο
+
+(f) (a=1.2...n-4-1-m)‚
+

@@ -1,0 +1,50 @@
+735
+
+Cette &galite a lieu pour toute fonction F(x) satisfaisant aux con—
+
+ditions (37) qui se rsduisent maintena.n1;‚¹ pour η = 0, aux suivantes
+
+F(x)=0 pour 0<x<222
+F (ω) --·s (ω) pour η’ξ-ωὲ2π-τῖ
+F(x)=‚0 pour 2π--η’<τυ<2π,
+
+οὺ f (x) est une fonc'tion quelconque, bornae et integrable dans
+l'intervalle (0, 2π).
+
+Quant ὸ, η’ o’est un nombre positif arbitraire satisfaisant ὲ. une
+seule eondition: η’<π.
+
+ΙΙ s'ensuit immsdiatement que l’egalite (52) a toujours lieu, pour
+toute fonction s (x) bornde et integrable dans l'intervalle (0, 2π).
+
+On peut donc scrire
+
+{ss²(ae)doe=‘³5²÷}(ae÷b2²>‚
+
+en entendant par a„ et ὂ,105 expressions suivantes
+
+25: 272
+αιζέχχμμειίωαω, b„={sf(x)sinkxdoe.
+0 0
+
+π
+Le thdorsme suivant est donc defimontrdz
+
+Τὴὲοῐὲηιε. Quelle que soit la fonction f(oe), bornee
+et integrable dans l’intervalle (0‚2n), on a toujours
+
+2,t ω
+{3 osf²(“') aa> = αἵθ’ ΔΓ Σ (⁶12² ΔΓ ὀᾶ), (53)
+
+comme si l'egalite
+
+ax) = ‘gl-f} (α, cos kx -l— b* Sin 1⁶²5),
+
+qui peut n'avoir aucun sens sous les suppositions gs-
+ndrales faites par rapport ajat), reprssentait le d&-
+veloppement de la fonction f(x) suivant la ssrie de
+Fourier‚ laquelle serait ici uniformsment eonver-
+genta
+
+15. Posons
+

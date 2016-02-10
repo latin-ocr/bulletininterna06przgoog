@@ -1,0 +1,46 @@
+712
+
+Wenn wir die partiellen Differentialgleichungen (I) auf die
+neuen Variab{en mit Hilfe der Formel
+
+.‘1t:1=h1-†-(ml —-hl)yt (i=2‚3...m.)
+
+transformieren, so dass sie die Form
+
+?3[=(-‘)1†9208†·· ·-†- &mom
+{{=(⁹⁰1—h¹)‘⁹¹ (522...m)
+
+(ῙῙ)
+
+annehmen‚ und wenn wir die Differentialgleiehung
+
+3i=‹-›,†y‚‹9,÷...÷y„.‹9„.
+
+cxl
+
+mit n «ξ- 2 — m Gleichungen
+
+3oe(oe1y2··ymoem÷1 ..p„)==0, 91:4⁹1 '†'92(')2†···†Om!lm
+(a=1‚ 2...n-†—1——m)‚
+
+die die Eigensohaft haben, dass die 724— 1 —m ersten Gleiohun-
+gen bei w, =-.- h, keine der Grssssen y2 . . . ym euthalten, integrieren
+,εο bekommen wir bei den Veranderliohen ys . . . ym und also nach
+der Hinzufugung der Gleichungen
+
+q‹=(x1—h1)(·⁹. (1:2,3...m)
+
+das gemeinsame Integral der Differentialgleiehungen (Ι).
+Wenn wir dasselbe auf die ursprungliehen Variablen mit Hilse
+der Formel
+
+ω, πῄἶις-ξ- (x, ·— 122) y, (i=2‚ 3 . m)
+
+91=P1†y2122†···†19mym
+{9⁶:4³5 —hl)p¹ (i=2‚3...m)
+
+transformieren‚ so bekommen wir· das gemeinsame Integral des
+
+vergelegten Systems in Involution der partiellen Differentialglei-
+ehungen (I).
+

@@ -1,0 +1,46 @@
+649
+
+von der Besehafl'enheit, dass die Gleichungen
+[F3.‚ 111]εο (i‚j=1,2...m)‚
+
+wo Pa -= ἔξ- 181, (118 Folge der ersten sind.
+α
+
+Ι)18 m erhaltenen Gleiehungen
+R(x,...x„zp1...P.)=O (i=1,2...m)‚ (I')
+
+81811811 111 (181· grssssten Anzahl m die Integrale 8118 (18111 Systeme
+(A) der n-}—1 Integrale der Differentialgleiehung Ω = Ο (181·, (118
+011118 (118 Integration erhalten werden kennen, da, wie wir uns spa-
+ter uberzeugen werden, die ubrigen n-}-1 — m Integrale aus die·—
+sem Systeme (A) nur durch die Integration erhalten werden 111111-
+11811. Wir 8811811 durans», (1888 (118 notwendige Bedingung dafflr, (1888
+(118 gegebenen k Differentialgleiehungen ein gemeinsames Integralss
+haben, darin besteht, dass die Anzahl m der 80 erhaltenen Diffe-
+rentialgleiehungen (I) die Zahl η-Ι- 1 nicht uberachreite. Wir wer·—
+den seben, dass (11888 Bedingung 811811 hinreiehend ist.
+
+3. Wollen wir jetzt ubergehen zur Bestimmung der ubrigen
+n -{—1 —m Integrale 8118 (18111 Systeme (A) im Falle m < n-{-—1‚
+und zum Beweise‚ dass die Gleiehungen (I') im Falle m -—- n-{-1
+sehon (188 gemeinsame Integra] der Differentialgleiehungen (1) bilden.
+
+Wir sehen, dass (118 Integration (181· gegebenen Differentialglei-
+ebungen (1) auf die Integration der m(k<m<n -1- 1) Differen-
+tialgleiehungen (Ι) von der Besehaffenheit‚ dass die Gleiehungen
+
+[F,‚ R]-=0 (i, i-=1. 2...m),
+
+wo Pa = {A} ist, (118 Folge der Gleiehungen (Ι) sind, hinauskommt.
+Das System der Differentialgleiehungen (I) von dieser ‚Besehaf-
+fenheit heisst 8111 vollstandigeS. Jedes System der Differentialglei-
+ehungen (1) kann nur (181111 8111 gemeinsames Integra] 11811811, wenn
+88 8111 vollstandiges ist oder wenn 88 81811 auf 8111 80181188 111 (181·
+011811 gezeigten Weise redueieren 18881
+’ Wir werden zuerst einige Eigenschaften (188 vollstandigen Sy-
+stems (I) angeben. Wir werden dabei immer voraussetzen, dass die
+111 Betracht kommenden Lesu'ngen (188 Systems (Ι) einfaoh sind.
+a) Das vollstandige System (I‘) geht nach der Auflffisung in
+
+Bezug auf irgend welche m der Grffissen x‚-‚ z, Ρ, wiederum 111 8111 voll-
+

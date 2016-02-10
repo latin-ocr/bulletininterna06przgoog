@@ -1,0 +1,48 @@
+697
+
+sondern auch denjenigen des Satzes VI genflge leisten. Wir er—
+
+halten das vollstandige Integral, wenn wir diesem Systeme der
+n-{·- 1 —{—m Integrale die Form
+
+zor-C, 3)(οεος (i=1‚2..-n), R(oe1⁰..p„⁰)=0 (i=1‚2..m),
+
+wo ]‘{,(:›:o ae1‘’....1:„⁰) =0 (k=1‚ 2...m) ist, geben vorausgesetzt‚
+dass die Gleiehungen fae(20 :1:1⁰ ..x‚,⁰) =() keine Integrale der Dif-
+ferentialgleiohungen der Matrix (Bl) sind.
+
+4. F assen wir nun noeh den Fan ins Auge, wenn die gegebe-
+nen Gleiehungen (Γ) in Involution in Bezug auf m der G'rssssen μ
+z. B. in Bezug auf pl... Pm unabhangig sind. Die Differentialglei—
+chungen der Matrix (31) bestimmen in diesem Faue <lie Verflnder-
+lichen x„,÷j‚ pff. z und haben kein Integra] der Form ,τῇ- const.
+(iz-1, 2... .m). Wir ki'mnen daher voraussetzen, dass die Glei-
+ehungen φ,- (2:1⁰ . .p„⁰) z Ο (ι’ = 1, 2 . . m) des Systems der n —†— 1 †m
+Integrale der Differentialgleiehung Ω0 =() die Gestalt
+
+:t:‚-⁰-=h¹ (i=1‚2...m)
+
+haben, wo he willkurlieh gewahlte Zahlen sind. die nur das System
+der Hauptintegrale der Differentialgleiehungen der Matrix (ΒΧ) nicht
+illusoriseh macheu sollen. Alle vorigen Satze lassen sich einfacher
+ausspreehen:
+Der Satz V hat die Form: Um das gemeinsame niehtsingu-
+lare Integral der partiellen Differentialgleiehungen (I) in Involu-
+“z 92
+
+tion. die in Bezug auf ζ . . . . μ, -- unabhangig sind, zu bestimmen,
+cxl cmm
+soll man die Diflerentialgleiehung
+dzss *pm-rxodxm ἦν 1⁰ ...- · · · -Ρηοάἲηῠέ 0
+
+durch n —†- 1 -- m Integrale
+Φοι (x„,41⁰..x„⁰z0p„,÷1⁰..p„⁰)=0 (a 21, 2. .n—{—1 — m) (f)
+
+integrieren und die Ort-ossen xm÷1⁰ . . . . :1f,·„‘’.20p„²⁴ ,⁰ . . . .p„⁰ aus den
+Gleiehungen (f) und den Gleiehungen
+
+[ἤθη...ἠ,,,.ι;,,,.η”...]),,0);() (i=1.2...m),
+x„,†j=2·„,4j(x1..aemh1..h‚„x„..;-1⁰..p„⁰) j=1,·2..n—-m
+pi-zpistcl...xmh1...kmaem„1⁰...p„⁰) i=1,2..n (a)
+κεῖρε,...π,,,1ι,...1ι,,,.υ,,,ἔ,0...μ,,0).
+

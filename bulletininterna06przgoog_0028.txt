@@ -1,0 +1,60 @@
+Da aber sowohl fm- die synnnetrische als auch fur die sohiefe
+symmetrische Determinante ungeraden Grades Ast=Affi und fur
+
+die sehiefe symmetrisohe Det-erminante geraden Grades Ast: -— A„
+ist, so folgt
+
+An· (-—1)³A¹23 · · · · ¹—1 >⁷⁸÷¹ Am
+ὲ AB'„ Ξ 0⁴:15 αρε, ..... 02„
+α 1 ΠΝ, α
+oder
+ὲ Δ R„ = A?
+
+oder endlieh
+
+Satz ΙΙ.
+Es folgt aus dem Satze I, dass», wenn A--Q ΣΑῆΞΟ, so ist
+Af, = Ο, d. h. wenn die symmetrisohe oder die schiefe symmetrische
+Determinante Δ sowie die Summe der ersten Hauptunt-erdetermi-
+
+nanten det-selben gleieh Null ist, so sind alle ersten Unterdetermi-
+nanten der gegebenen Doterminante¹> gleioh Null.
+
+Die Bedingungen Azo, ΣίΑῆΞ Ο stellen die kleinste An-
+
+1
+
+zahl dor notwendigen und hinreichenden Bedingungen dar daftir.
+dass alle ersten Unterdeterminanten der symmetrisohen oder der
+schiefen symmetrischen Determinante gleieh Null sind. Aus diesem
+Sat-ze folgt‚ dass, wenn die sehiefe symmetrische Determinante ge-
+raden Grados gleioh Null ist, alle ersten Unterdeterminanten der-
+
+¹) Die Anwendung· «nasos Satzes kommt in der 'l‘heorio dor Plikehen zweitcn
+
+ 
+
+ 
+
+Gradus αιι :1³² ÷ ‘¹22 31² 4- (13329 -μ 26¹2 :cy -†- &1¹3 xz ÷ 2ch με ψ. . . :0 vor: wonn
+all—'9 “12 “18
+f(:'⁴) ’Ἴ ⁰12 “22 ’Ῥ “Q-t ²² O
+⁰13 (τιτι “sm—‘9
+und
+s-,‘9)= — “m—9 ⁰211 anx—«0 aua — “n-P αι’.» -. Ο
+’ ⁸ αρε “aa—P ‘¹1³ “a —9 ‘¹12 αν.» ’9 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ist. so sind allo ersten l’nterdetermina11ten der Detortuinante s (ρ) gleioh Null.
+

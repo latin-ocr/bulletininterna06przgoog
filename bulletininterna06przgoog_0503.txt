@@ -1,0 +1,63 @@
+681
+
+sein, damit die Veranderliehen (ηερ, den Gleiehungen (I') genu-
+gen. VVas aber die ubrigen m Relationen zwisehen πθ 20 p. betrifft7
+so bleiben diese letzten ganz willkurlieh, nur sollen sie keine Re-
+lationen zwischen 51:⁵22)i nach sieh ziehen‚ da diese Verfinderliehen
+nur den Relationen (I') genflgen sollen3 mit anderen VVorten diese
+
+m flbrigen Relationen
+1125(ae,⁰...x„⁰zop,⁰...p„⁰)=:0 (i=1‚2...m)
+sollen keine Integrale der Differentialgleiehungen der Matrix (131)
+
+sein. Wenn wir jetzt πνοι-6116561666, dass die 2224] -— 2m unab—
+
+hangigen von der Veranderliehen :1:3⁰ 20 p1⁰ gerade ym÷12 . . . . y„,4,..,„
+sind, so erhalten wir die Formeln der Pfaffsehen Transformation
+
+xm4j=aem45(x,...ae,„x,⁰...p„⁰) (j-=1,2...n—-m)
+
+p4=p‘(ae,...x„x,⁰...p„⁰) (i=1‚2...n) (a)
+z=z(x,...x„oe,⁰...p„⁰)‚
+x4=oe¹'(y,...y„oe,⁰...p„⁰) (i=1‚2...m)‚ (b)
+
+wo I<',.(ae,⁰ . ..x„⁰20p,⁰ . . .p„0) = Ο, φί(;ε,0 ..x„⁰20p,⁰ . . .p„0) = Ο ist.
+
+Die Veranderliehen :cffizp¹ geuugen in der Ταῦ den Differential-
+gleichungen der Matrix (131), da die Gleiehungen (a) ihre Integrale
+sind, und sie erfullen die m gegebenen Gleiehungen
+
+R(x,...ae„zp,...p„)=0 (i=1‚2...m).
+
+W'enn wir jetzt die Funktion μ hinzufugen‚ die aus der Glei-
+chung
+
+{LffiLss--.FQ d29u=-- 3'5--- affl„ . ..ω
+εφυμρω) Διί 3(p,..p3-1zp5÷,...p.„)
+
+bestimmt ist, so werden wir alle Bedingungen des Satzes ΙΙΙ er-
+fflllen, und sind die Formeln (a), (b) diejenigen der Pfaffselgen
+Transformation.
+
+WVas die Funktion μ δθιτὶίῖι, so erhalten wir, im Faue, dass
+
+dxss (ο)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ἢ( ἓαφμέζ) =O (ss=1‚2...m)
+
+c p,..pfi-1zpss÷1 . . .p,„)
+
+ist und nur in diesem Fan, d. h. im Faue, dass ἐξ· -τ-Ο (i=1.2..m)
+ist und nur in diesem Faue, ἀίρμ-τ-Ο, (1. h. Ιρμ enthziIt. nieht
+die Veriinderliehen y ..... μω und diese Veranderlichen verschwin-
+
+den nach der Pfaffsehen Transformation des Ausdruckes 9‘.
+

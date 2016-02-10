@@ -1,0 +1,51 @@
+707
+
+Das System der Hauptintegrale derselben in Bezug am <vc-:h
+(i=1, 2...m) ist:
+oem÷j=oem÷j(⁹31···oemxm÷1⁰···P·-⁰) j=1‚2..n—m
+pm,- =pm÷1 (τι - - - xm oem÷1⁰ - · -12..⁰) (a)
+z=z(:ae=1 ···25m³5m÷1⁰-··Pn⁰)·
+Wenn wir oem45⁰‚ ευ, pmffl fur die neuen Variablen ym÷1 . . .
+y2„ ÷ 1..„,‚ nehmen und ω, = y¹ (i = 1, 2 . . . . m) semen, so bekom-
+men wir die Formel (α) der Pfaffsohen Transformation des Aus-
+
+druokes Ω’, nach der die Variablen y, . ‚y¹¹² hbchstens im gemein-
+schaftlichen Faktor bleiben‚ so dass wir nach der Transformation
+
+—Q‘ ΖΞ (ἆΖο -Ρηιψιοᾱωνκ-ι-ιο -· · · · -Ρπο ἅωηο)
+
+haben, wo
+
+ 
+
+d29u=2323⁹⁵ ἅτε
+1
+
+&z
+
+ist. Wenn wir die Differentialgleichung
+dz„ —Pm÷1⁰doem÷1⁰ - . . . —p„⁰dae„⁰ = Ο
+
+durch n -Ι- 1 - m Integrale (ο) integrieren, ὤθεε letzten auf die
+ursprungliehen Variablen st:¹ z pm„- transformieren und endlich zu
+den erhaltenen Gleichungen (D) die *Gleiehungen (1¹), hinzufflgen,
+so bekommen wir das System der n —f-I Gleiohungen die das ge-
+meinsame Integral des gegebenen Systems der partiellen Differen-
+tialgleiohungen
+
+l .
+darsFtJZl ξεῖ klar, dass wenn wir mit denselben Formeln (α) den Diffe-
+
+rentialausdruek
+ΩΗ = dz ·- Θι ‘1²³1 ““· Pm÷1 ἅφθη-Η — · · · —p‚,doe„‚
+
+wo x„ . . ,mm die Parameter sind, transformieren‚ so bekommen wir
+denselben Ausdruok
+
+μ<
+μο
+
+Buneun 111. ὅ
+
+dz⁰ ·— Pm÷1⁰d³2m÷1⁰ -—- . . . — p„⁰doe„⁰)5
+

@@ -1,0 +1,46 @@
+714
+
+Supposons eneore qu’on peut, 16 nombre positis ε etant donne
+ὲ. l'avanee, trouver un nombre ν, ne dependant ni de x, ni de
+α, β, .. . assez grand et tel qu’on ait pour tontes les valeurs de x
+dans l'intervalle (a, b) et de a, β ..... compris dans les domnines
+(A), (B) ‚‚‚‚‚
+
+(ι) ιφ(ω,π)-φο(ω)κἐ ροιιτπξν.
+
+On dira dans 66 eas que la fonction φ (x, n) eonverge‚ pour
+22:00, uniformement vers sa limite (po (x).
+
+Deeomposons maintenant l'intervalle (a, b) en intervallos par-
+tiels Ax. dont le nombre soit egal ὲ, μ (3 = 1, 2, . . . μ), designons
+par x, une valeur queleonque de a? dans l’intervalle Δε, et formons
+
+la somme
+(1) 82²³:ss Λευ.) φ (sammaa.
+
+Comme f (x) et φ (x, n) sont integrables dans l'intervalle (a, b), le
+
+produit s (x) φ (ae, n) le sera aussi.
+Supposant que μ croisse indefiniment et en passant ὲ, la limite, on a
+
+(2) lim ⁶³5⁴=11m2s(ae..>w(ae uma: =sf(x)w (m) dx.
+
+¹1-oe
+
+F ormonS ensuite la somme
+
+&22⁹⁷ f (x.) φο (x.) Ax..
+
+On aura. en passam, comme precedemment, ὲ, la limite
+
+(μ)
+
+(3) lim s =sf(x) oe0(x)dae=sf(ae)1imw(ae max
+ear
+‘Po (²5) Ξ ³2¹2 Ψ (³³2 ⁹²)-
+Gela pose, considemus la differenee
+
+(μ) ‹ )
+
+S — ἐπὶ ί(τ.)[φ(τ.η)-φο(τ.)]Δπ.·
+

@@ -1,0 +1,51 @@
+161
+
+pareS, et meme lorsqu'il y a de petites differenceS, ees mesures
+seront plus exactes que d’apres les met-hodes ordinaires ¹).
+
+111. Phenomenes thermiques d'eeouloment.
+
+ξ 14. Dans oe chapitre, nous nous proposons d’appliquer nos
+equations ὲ. l’examen des phenomenes thermiques qui se manifestent
+dans un gaz s’eooulant par des tubes ou des orifioes‚ phenomenes
+qui ont fait le sujet des celebres recherches de J oule et de Kel-
+vin2). Il est vrai qu’il n'y a pas de doute possible quant ὲ. l'inter-
+pretation generale de 888 experienceS‚ lesquelles sont classiques en
+Thermodynamique3 captandam, leur explication detaillee offre des
+difficultes qui ne peuvent etro resolues que par une theorie aero-
+dynamique detaillee. Ainsi l’explioation 8888118 (18 phenomene
+Joule-Kelvin ne tient pas compte (1818. variabilite de la vitesse
+et peut etre de la temperature dans les different-es couches du gaz3
+on eomprend aisement qu’il y ait un abaissement de temperature
+dans un gaz qui se dilate, mais la maniere dont il se repartira sur
+18 gaz qui s’ecoule et sur celui qui reste dans le reservoir, n'est
+pas evidente.
+
+Nous transformemus l'equation (12) en la multipliant par un
+element de volume et en l’integrant sur tout l'espaoe en question.
+
+Remarquons, en outre, que
+
+§5510‘¹ivd0’=8810(u1†vm÷wn)dS-SSS (αξξἾι υὲἷψωέξνω (¹⁷)
+
+introduisons les valeurs do ἐξ, ἐξ, ἐξ donnees par (10) et trans-
+ἃ
+
+&t’
+
+integrales doubles. En designant la vitesse normale ἐι la sursaoe
+
+par v„. la vitesse totale par V --.. ᾪιιῖ 4- v²i -Ι-Ῑυῖ, 11088 obtenons
+l'equation
+
+formons les integrales tripleS‚ exeeptee 08118 qui renferme en
+
+¹) On pourrait en profiter potu· elucider la cause des dhet-genem, problema-
+tique jusqu’h present, qui existent entre 188 resultats: donnes par 188 deux me-
+
+thodos mentionnees. [Schamanm wiod. Anu„ 23 p. 353 (1884n.
+⁸) Kolvin‚ Mathem. physic. Papam, 1 p. 3333 ι101118, Mechan. Warmeflquiva·
+
+lent, Braunnchweig 1872.
+5*
+

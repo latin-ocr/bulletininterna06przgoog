@@ -1,0 +1,53 @@
+462
+
+noch n -— 1 Relationen zwischen z, x„ Pa geben, da ⁴wir die 6161-
+ohung Ω’-;Ο 11111· mit Hilfe von mindestens n Gleiohungen zum
+Versohwinden bringen k6nnen.
+
+Diese n Gleiehungen‘ zWischen xl . . . ,πη 21²1 J.. . μ’ mussan· ans·
+den Formeln der Transformation (α) und der Gleiehung (β) bei
+der willkflrliohen Wahl der Funktion φ (251⁰ . μβ) = Ο, die. nur
+kein Integra} (168 Systems- (B1) sein soll, folgen, da (116 Nichtsin-
+gularitat, und folglioh die Singularitat des Integrals eine ⁴invariamffl.
+Eigenschaft gegen alle Pfaffsche Transformationen ist.
+
+Wenn wir zu diesen n Gleiehungen
+
+· · 8.(oe1...oe„zp1‘...p„)=0 (i=1,2...n)‚
+
+noch die Gleiehung F(x1....x„2p1..p„)==o hinznfflgen, 8ο be—
+kommen wir das ganzo System (γ) (161· η -ἦ- 1 Integralgleiohung'en
+(161· Differentialgleichung
+
+, Q: (ὗε-Ρ dxl...——p„doe,.=0,
+
+das 11118 das singulare Integral der Differentialgleiehung (1.) gibt,
+insofern dieses System durch die Integration der Differentialglei-
+ohung '
+
+(ὗε0 —p10dae10 . . . —p„⁰dx„⁰ = Ο,
+
+wo F(oe1⁰.. . p„0) ==0, <pm-1⁰. . .p„⁰) =0 ist, nieht erhalten wer—
+den kann. ι
+
+Wenn das System (γ) 111 Bezug auf p¹ auflsssbar ist, so bekommt
+man das singulare Integral z =f(:1:l . . μωη) 1111 gewbhnliehen Sinne.
+
+Wir werden wigen, wie das· singulare Integral‚ π61111-68 exi-
+811611, aus dem vollstundigen Integpal erbalten werden kann.
+
+Es 861 11118616 Gleiehung (1) von der Form
+
+F(oe1...oe„2p1...p„)= O
+und 68 861 1111· vollstnndiges Integral von der Form
+(ὅ) F=O, F1=012 1⁸„sz
+
+VVenn wir n von (1611 Verandetliehen :viz p*- auf die neuen
+C'1 = F„ . . . 6„ = F„ transfbrmieren‚ so bekommen wir
+
+ρ’ Ξ, az - pl ⁶1:01 . . . —p‚‚dx„ ss-—. A1'd'014 A2d02,†. . . . † 440„
+
+oder
+
+9‘=A1 s'd01÷²{{dc2÷...÷ λάξ-ἰάθη).
+

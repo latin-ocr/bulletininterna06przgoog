@@ -1,0 +1,50 @@
+682
+
+Wenn aber nieht alle ἐξ (i= 1, 2 . . . m) Null sind, so euthalt
+Δ 'l 9 μ die Veriinderliehen γρ. .y,„ und folglioh ae,...x„.
+Wir 11ὃ1111611 111 (11686111 Faue zwisehen den m Differentialglei-
+
+ehungen
+dx‚=A,dy,-}-...-†-B,dy„ (k=1‚ 2...m)
+
+die Gleiehung (6) wahlen. Wir kennen (181111 lya willkurlieh wahlen
+und die Gestalt der Funktionen x ..... x„ hangt von der Gestalt
+(168 Ζ9μ ab. Wir kennen z. B. 19u=y1 wahlen.
+
+Wir haben also den allgemeinen Satz IV: Um die allgemeinsten ·
+Formeln der Transformation des Ausdruekes
+
+Q‘=dz—p,dx,—...—p‚.doe„
+
+zu erhalten‚ wo R (ω, . . x„zp, . . p„)= Ο, [Βῇ F,]-=0 (i, k= 1, 2..m)
+ist, 118611 (161· m der neuen Veriinderliehen z. B. y,. .y„ hssehstens
+im gemeinschaftliehen Faktor μ (161· Koeffizienten (168 transfor-
+mierten Ausdruekes bleiben‚ 8ο 8011 111811 (188 System der 2n-†-1 —m
+Hauptintegrale der Differentialgleiehungen der Matrix (132) bestim-
+111611, und zwisehen den Anfangswerten ae¹⁰zo 1⁰1⁰ der Veranderli-
+611611 212101 2m Relationen
+
+E(x,⁰..ae„⁰zop,⁰..p„⁰)=0‚ ‹p(x,⁰..x„⁰20p1⁰..p„⁰)=0
+(i=1‚ 2...m)
+
+aufstellen, wo die m letzten Gleiehungen nur keine Integrale der
+Gleiehungen der Matrix (Bl) sein sollen. VVenn man die m unab-
+hangigen der Veranderliehen x, z p¹ als willkurliehe Funktionen der
+y„ ..y‚„÷,„,„‚ welche in Bezug auf y ..... y„ unabhangig sind, und
+wenn man die 2n —†— 1 —- 2m unabhangigen (161· (1ῐὸ88611 ⁵⁰1⁰ ²0 1²¹⁰
+fur 3541. .. ynam 1111111111, so bokommt man (181111 (116 Formeln der
+
+gesuchten Transformation auf die neuen Variablen μ. . .y„.,„„,„.
+
+Im Falle wenn nieht 8116 {e} versehwinden‚ so kann 111811 (116
+
+Wahl (161· willkurliehen Funktionen der y,. ..γήμῃ 80 einriehten.
+dass Ζ9μ 61116 von vernherein gegebene Funktion ist.
+
+&F
+
+VVenn aber 25²⁴ =0 (2:1. 2....m) sind, 8ο versehwinden
+y„ . ,yn naeh dieser Transformation.
+
+Da die Gleiehungen
+

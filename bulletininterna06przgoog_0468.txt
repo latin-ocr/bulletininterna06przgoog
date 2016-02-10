@@ -1,0 +1,58 @@
+646
+
+gleiehungen (1) suchen. Wir kssnnen hierbei immet voraussetzen,
+dass jede der gegebenen Gleiehungen (1¹) die Variablen p, enthssilt.
+Das gemeinsame Integral der Differentialgleiehungen (1) bildet
+gleichzeitig ein Integral jeder von diesen Gleichungen z. B. der
+Gleichung
+
+R(x,...x„zp,...p„)=0.
+
+Das niehtsingulare Integral dieser letzten lasst sich in folgender
+Weise (Satz ΙΙ, erste Mitteilung) bestimmen: Man 8011 die Differen-
+tialgleiehung
+
+5202-dzo—p,⁰dx,⁰—...p„⁰dx„⁰=o
+durch n-{— 2 Integrale
+OE2(ae,⁰...p„⁰)=0 (a=1, 2...n)‚ F‘(xt⁰...P·.⁰)=O,
+(b) ‹p(x,⁰...p„⁰)=0,
+
+wo ‹p(x,⁰.. .p„⁰) = Ο kein Integral des Systems der gewfihnliehen
+Differentialgleichungen
+
+ 
+
+ 
+
+ 
+
+,dx—1 = .. ‹32- ς „Aa ,, „.
+&R .....— EF. v ΘΕ, '-
+ἒΡῖ §fi Ρ ’ἔμ’
+.-—„ dp¹—- -- — dp„ -
+- ἢ Ἴ 00000 q
+(¹³¹) —-}‚{}÷101{‚}‘ -Ξζζ dmg}
+
+bildet7 integrioren und dann die Grbssen ³³1⁰, 20, 1²⁶⁰ aus den Glei-
+chungen (b) und aus den Gleiehungen
+
+xfl==x,(xlx,⁰...p„⁰) i=1‚ 2...n
+
+(ΘΕ
+
+(e) z == z (ςεββ .. .p‚,⁰) ἑῇ( tho)
+
+p1=p⁶(x,x,0...p„0) i=1‚2...n,
+
+die das System der Hauptintegrale des Systems (131) darstellen‚
+eliminieren. Die erhaltenen n-†- 1 Gleichungen
+
+(d). 292(x,...p„)=0 (a=1‚ 2...n), 1⁷](x1...p„)=0‚
+
+etellen ein niehtsinguliires Integral der Differentialgleiehung
+
+F(x,....„aez‚3⁰} ..... j{)=o
+
+dar. Die Gleichungen (d) sind offenbar ein System der ²24- 1 In-
+tegrale des Systems der gewbhnliehen Differentialgleiehungen (13¹)
+

@@ -1,0 +1,64 @@
+719
+
+Oe resultat a lieu pour tout nombre donne η < ‘110 et pour eha-
+que valeur donnee de ²³02 prise dans l'intervalle (η, 2 π-η).
+
+4. soit maintenant F (x) une fonction queleonqfie‚ bol-nee et in-
+tegrable dans l'intervalle (0, 2 π).
+
+Envisageons l'identite eonnue‚ fondamentale dans la theorie des
+series de Fourier‚
+
+ 
+
+n designant un entier queleonque (positis).
+
+Multiplions cette identite par F (ξ) dg et integrons-la, en eten-
+dant l’integration ὲ, l'intervalle (0, 2n).
+
+On obtient l’egalite bien eonnue
+
+Mt
+
+. 2n-{-1
+(9) ἵ-ῑὲ-ο-ι-πΣ (α,οοειοω ψωῑιιιεω) :JB (ξ)
+
+sm —- -— (ιε-ε)
+
+με αξ,
+
+2sin — -—
+
+2
+
+ 
+
+ 
+
+01⁸1 l’on a pose
+
+a„={s;’(5)0oskgd5‚ b„=‡s}(g)sinkgdg (k=0‚1‚2‚...)
+
+Reprenofis les nombres η et xo, definis dans le n⁰ preeedent.
+Multiplions (9) par dx et integrons-la entre les limites ωο--η et
+ωο-ᾖ-η. On trouve
+
+nao†n2⁷ Q& (a ooskxo-l—b„ 8111717930)Ξ
+
+ 
+
+ 
+
+ 
+
+laam] m sin 2 n -Ιζ-Ι (ξε-ξ) (10)
+Σ 2 ⁷2de Jh (ξ) ᾑ-ρ· sin {⁹:225 —— dg Ι
+puisque ο η
+204 η
+
+stix: 2η, καχοοεὲωάω-ἓ-εἶ-Ῑξέἶοοεῶωο,
+
+ατο-η
+
+-·. ι- vu. --.--—.*-*- -—-.———-—-.m.—
+

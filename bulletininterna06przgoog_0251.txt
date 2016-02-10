@@ -1,0 +1,47 @@
+453
+
+wir wissen‚ dass bei. der Integration der Gleiehung
+dz—p1doel..—-.p„doe„=0,
+
+wie im allgemeinen bei der Integration der Gleiehung
+df—Fldfl—...—F„df„=0
+eines der Integrale von der Form
+m(zx1...x„)=0
+
+ganz willkurlieh gewahlt werden kann.
+Die ganze soeben entwiekelte Theorie zeigt„ dass bei der In-
+tegration der Di ffetentialgleiehung
+
+dz—p1doel—...—p„dx.=0
+eines der Integrale ganz willknrlieh in der Form
+Ι<’(;ι;ι.ἰι;,Β . . .p„) = Ο
+
+gewahlt werden kann, was ubrigens aus der Natanisehen Theorie
+des Pf a f f seben Ausdruekes Χ, dae, -ξ- . . . 4- X, dx„ ungerader
+Klasse 2n -†— 1 ‚ wo 2η —†—' 1 -..-- p ist:⁷ bekannt ist ¹).
+
+8. Die. entwiekelte Theorie enthzilt in rein analytiseher Form
+die Satze, die S. Lie mit der gemisehten analytiseh-geometrisehen
+Methode gesunden hat (Math. Ann.‚ Bd. 9). Ieh besehranke mich nur
+darauf, dass ioh einige der oben bewiesenen Satze in der Form von
+S. Lie wiederhole‚ wobei ioh die Begriffe des Elementa (z ἀὴρ.)
+des n41-dimensionalen RaumeS‚ des Elementvereins M, von 00¹²
+Elementen‚ des charakteristischen Streifens und der Integralmannig-
+faltigkeit der gegebenen Gleiehung (1) F (51³1 . . . w„ zp1...p„) .-.- Ο als
+bekannt voraussetze.
+
+Der Satz Ι kann zweierlei geometrisehe Bedeutung haben:
+
+a) Wenn oe.⁰ z⁰ [³1⁰ als konstant betraehtet werden, so gilt der
+Satz: Alle benaehbarten Elemente (z ω, ps) des eharakteristisehen
+Streifens der gegebenen Differentialgleichung F (ω, . . x„ ²101 . . p„)= Ο
+liegen vereinigt3 ‘
+
+b) wenn zwei benaohbarte Elemente (ιο 2:1⁰ μθ) und (κο -1-(12,
+221⁰ -}- doe40, p50—{— ἀνθ) zweier charakteristisehen Streifen vereinigt
+hegen, d. h. wenn
+
+ἀεὶ) —p10doe10 . . . -μθ dx„⁰ = Ο ist,
+
+²) „Uober totale und partielle Differentialgleiehungen“ J. Crolle, Bd. 58.
+

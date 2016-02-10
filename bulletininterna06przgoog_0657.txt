@@ -1,0 +1,50 @@
+‘103
+
+daretellen. Wenn wir C'¹ . .. ΟΜ, 1-1111 als die neuen Veranderlichen
+betrachten‚ so bekommen wir
+
+ΘΗ ΞΗ
+
+Q: — — (J‘w1 -1-...4--ςζ1μ1-ῐι dC„÷1-‚„
+oder
+Ω ={{.,{(d<,÷ agag-p.. ·-{- U„ ‚,·‚,1-,..d‹÷1-m)‚
+wo U¹ εὲῗ· . ἐξ ist. Allo Veranderlichen (’ ·'„(÷ -m- U2. . Lm. 1-‚„
+
+sind unabhangig Wir wissen in der Tat, dass die Gleiehung
+
+dc, 4- 1], ἀεὶ, -1- . . . 4- [L.÷1-.„.d('„÷1-„. = 0
+
+durch die kleinste Anzahl n—†— 1— m der Gleichungen sich inte-
+grioren lasst. Setzen wir nun voram, dass zwischen den Variablen
+C, 1 U„ 1-„. die Relation ΘΞ Ο stattfindet. Wenn wir fur einen
+Augenblick 8888111888, dass diose Vera'nderliehen unabhangig sind‚
+so kann man bei der Integration (181· Differentialgleichung
+
+dcl 4- 81 ια’, 4-...1 8118188188.. = ο
+
+durch 11-1-1-111 Integrale eines (1818811188 willkurlioh annehmen.
+Wenn wir diese letztes in der Form ΘΞ Ο wahlen und statt
+('1..L„1..„. ihre W erte 8188181888 so sehen wir, dass die Glei-
+chung
+
+(Μ1-1- U2 (ΝΞ “1“·· · ’1- Uv1÷1—md(nr1—m
+
+durch n — m Gleiehungen integriert werden kann, was offenbar
+unmoglich ist.
+
+Da der Β1Η8188ῖ1818118ᾶ18811 Ω’ 88811 der Transformation auf
+die Variablen (1- ,11 1.. ‚¹L2, ,03 ,1,,11- (118 Form
+
+Ω :gfff-fl.. (dc1 4- U2dc2 †·--÷ (11,-,,.ᾱ(,1,,-,,.)
+
+8881181811 so ist diese (118 Pfaffsche Transformation. Wir bekommen
+die gemeinsamen nichtsingulziren Integrale des gegebenen Systems
+(Ι) in Involution, indem wir die Gleiehung
+
+dcl ψ Π, de, 4- . . . U„÷1-„. domm„ = ο
+
+durch n -1- 1 -- m Integrale integrieren‚ dieselben auf die ursprung-
+lichen Variablen 811811, transformieren und die Gleichungen
+
+1⁴3(ae1...1>„)=0 (z‘=1‚2...m)
+

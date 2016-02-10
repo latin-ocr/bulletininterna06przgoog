@@ -1,0 +1,46 @@
+-680
+
+bestimmen. Wir werden in dieser &Veise zusammen mit den 2n—†—1—-m
+Differentialgleiehungen der Matrix (Bl) ein unbesehrankt integrablee
+System der 2n -†— 1 Differentialgleiehungen haben. Wir wollen jetzt
+ein System der Hauptintegrale desselben in Bezug auf y.- = y:
+(i--.- 1, 2.. . .m) wahlen, wo y? die willkurlieh gewahlten Zahlen,
+die nur die Integrale des Systems nicht illusorisch macheu, sind.
+Es sei dieses System
+x4=oe,‘(y,...ymx,⁰...p‚,⁰) i=1‚ 2...η-
+Pa = p( (y, . . ,ymx10 . . .p„⁰)
+z= 2¹(y1...y„ae,⁰.. .p„,⁰).
+
+wo 2:1⁰... p„⁰ die Anfangswerte der Variablen :cip‘z sind. Wir kon-
+nen dieses System noch in der Form
+
+xm-Hzxmffl-(oep..xmoe,⁰...p„⁰) (j=1‚2...n—m)
+(a) pi=pi(ae,...xmx,⁰...p„⁰) (i=1,2...n)
+2:2(x1...xmae,⁰...p„⁰)‚
+(b) mff=oe,'(y,...y„x,⁰...p„⁰) (i--.1‚·2...m)
+
+daretellen‚ wo '222 -}-1 —-m Gleiehungen (a) die vollstandigen In·
+teg-tale der Gleiehungen der Matrix (131) mit 272 -}- 1 Konstanten
+
+sind. Dieses System hat die Eigensehaft‚ dass es bei a:i τ..- ³⁷1⁰
+(i=1‚2...m) die Form
+
+oe.„÷,- = etQ-⁰, pi = ΡΒ, z = 20
+
+annimmt. Wir kennen es ein System der Hauptintegrale der Dif-
+ferentialgleiehungen der Matrix (131) nennen. Die gesuehten For-
+meln der Pfaffsehen Transformation haben diese Fam, wo nur die
+Grossen ,τέ’ z„ p? gewisse Funktionen der ym41. . . y„4,-„ sind. Da
+die Anzahl der Grbssen ,τέ’ 20 p? gressa, als die Anzahl der
+ym÷1···.³l2n÷¹-m um 2m Einheiten ist, so sollen zwisehen τέ’ z„ p?
+2m Relationen stattfinden. Da die Veranderliehen πεπρ, den Glei-
+ehungen
+
+(1¹) h}(ae,...ae‚,2p,...p„)=0 (i=1,2...m)
+
+geuugen sollen und da aus den Gleiehungen (a) die Gleiehungen
+If}(ae,....x„zp,....p„)=1*',-(x,⁰...x„⁰20p,⁰...p„⁰) (23:1, 2....m)
+sieh ergeben, so muss
+
+h} (231⁰...ae„0302210 ...p„⁰)=0 (i-—=1‚ 2. . .m)
+

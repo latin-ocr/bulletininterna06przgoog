@@ -1,0 +1,47 @@
+647
+
+wir kssnnen dieses System (d) noch in folgender VVeiso erhalton.
+wir kbnnen aus den Gleiohungen (ο) n -ξ- 2 der Grossen &1⁰20Pf
+mit Hilfe der Gleiohungen (b) eliminieren. Manu bekommt daun
+
+das System
+
+xs=xl(ae1a1-··a‚.-,) i=1,2...n
+z =z¹ (x,a,...a„„) (o‘)
+12‹=12⁶‘(x1a1-..a„-,) i==1‚2...n‚
+
+wo α, . . . . α,-, die η- 1 ubrig gebliebenen Grssssen der Grfissen
+:cfzopf bedenten. Diese Gleiohungen stellen offenbar ein System
+der Integrale des Systems (131) dar.
+
+Wenn wir aus diesen letzten Gleiohungen die Grssssen a, . . α,-,
+eliminieren‚ 8ο bekommen wir dann die Gleiehungen (d). Wir kim-
+
+nen also das Integral (d) der Differentialgleiehung
+
+F(ae... “ssa-²33⁹} ..... fj)=0
+in der Form (α’) darstellen‚ wo α, . . . α,,,,, die Parameter sind.
+
+Es folgt dat-aus, dass jedes gemeinsame Integra] der gegebenen
+Differentialgleichungen (1), das kein singulares Integral der Diffe-
+
+rentialgleichung
+
+RQ.. ²5} ..... gj=o
+
+ist. die Gestalt (θ’) besitzen soll. Da das gemeinsame Integral der
+Differentialgleiohungen (1) der Differentialgleiohung
+
+Ε.(.τ... ...m-{³} ..... ξὲ)-ο
+
+genugt, so sollen die Gleiohungen (θ’) der Gleiehung
+FJ(:v,...x„zp1...p„)=0
+genuge laisten. Es folgt darana, das infolge derselbon Gleiohungen
+
+ΞῖψΣαὲω Ξῖ ΞΞ-μΞῖ ἓξηῖΣ Ξῖ {gy—20 (f)
+
+ἱεῖς da aber die Gleichungen (θ’) ), wo α konstant sind, die
+Integrale des Systems (131) sind, so ist infolge dieser Gleichungen
+
+und der Gleiohung (f)
+

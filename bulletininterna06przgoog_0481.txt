@@ -1,0 +1,53 @@
+659
+
+dio Zahlen der Reihe 1, 2...n sind, und wo die Anzahl dor Ver-
+anderlichen ,τα “²⁷ss auch Nun sein kann. Wenn wir die Gleiohun-
+gen (I‘) mit Hilfe der Formeln
+
+z—-H-ff-:QPG -†-···-}-223P3‚ ²¹:2³3 P‹=*xt' (i=a‚. υβ)
+transformieren, so bekommen wir die Gleiohungen
+F( (xoe‘ .. 2:¹pr .. ωδ, Η,Ρα’ . ,ρ’βργ ..Ρδ) = Ο (k=1,2..n-}-1)‚ (I“)
+die in Bezug auf H. ps, . . . ρ’β, pY ‚ . . . pa auflsssbar sind, da '
+ἓ) (Fl . . . F„÷,) = 9 (F1‘ . . . F‘·÷1) *¹³ Ο ist·
+3(zx,...xssp7...p3) 3(H‚p2‘..p‘ssp7...p3
+Wenn wir der Bequemliohkeit halber die Grrssssen (ια’ . . . x'ss ν
+
+ωγ ...ωδ und p,‘...p‘ss, pY ...pg durch resp. y„ q« bezeichnen, so
+haben die Gleichungen (I“) in der ausgelbsten Form die Gestalt
+
+H=‹p(y1...y„)‚ q1=‹p4(y,...y„) i=1‚2...n‚ (Ι”’)
+und stellen ein vollstalidiges System dar, sc, dass die Gleiehungen
+[H— φ, αι — φ.]--0, [qr- φι, 9.- φι] =0‚
+
+infolge der Gleichungen (Ι”’) erfullt sind. Da aber m„ φ,ι die Grbs-
+sen H, 9, nicht enthalten, so ist
+
+[qs-“⁶ φιτ 9ι-φι]ἶ 0
+
+ 
+
+ 
+
+identisch‚ oder ist
+
+Θφ. - εφ-ε
+Θῃ,- 93]. ”
+
+Es folgt weiter aus der Grleiohung
+
+[H—‘Pae Ωιι-(ΝΞΟ,
+dass
+
+-ΞΞ-ί-αι-τθ,
+
+infolge der Gleiehungen (Im) ist, oder dass
+
+<p¹ = {Z ist.
+Es folgtq datam, dass
+H Ξ φ) 912- ‘P‘
+
+der Differentialgleiohung
+.Q=de—q1dyl —...——q„dy„=0
+
+nnumin 111. 2
+

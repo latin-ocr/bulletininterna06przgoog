@@ -1,0 +1,46 @@
+701
+
+Satz VI. Wenn mann die Integralmannigfaltigkcit ΖΙνῙ,.--Μ des
+gegcbcnen Systems (1‘) in Involution‚ (116 als Punktmannigfaltigkeit
+betrachtet n - m-dimcnsional ist, bestimmt hat und, wcnn man
+durch jedes Element derselbcn (116 charakteristische Mannigfaltig-
+kcit subn, so erhalt man 61116 Integralmannigfaltigkcit M„ (163 gc-
+gcbencn Systcms (I‘), dic als Punktmannigfaltigkcit aufgefasst n-
+dimensional ist. vorausgcsetzt, dass (116 Integralmannigfaltigkcit
+111,,..,η 30 gewahlt ist, dass keinc der erwahntcn charakteristischcn
+Mannigfaltigkciten mit der Mannigfaltigkeit M„-„‚ unendlich vie-le
+gemeinsamc Punktc hat.
+
+Der Inbegriff der oc”÷¹-”⁸ Integralmannigfaltigkeiten Mn-m
+heisst 6111 vollstzindiges Integral des Systems (I‘) in Involution.
+
+Man kann 6111 30161163 6111611611. indem man durch jcdcn Punkt
+der Punktmannigfaltigkeit von n —-{— 1 —- m Dimensionen ¹) (116 cha-
+raktcristischen Mannigfaltigkciten fuhrt, vorausgesetzt‚ dass (11636
+Punktmannigfaltigkeit mit keiner der charakteristischen Mannigfal-
+tigkciten uncndlich vielc gemeinc Punkte hat.
+
+ξ 5.
+Wir wollcn jetzt zur Theorie der singulare-n Integrale tiber-
+
+chen.
+g Wir haben (116 Differentialgleichung
+
+52¹= ff„ (ατο -Ριοᾱωρ - ...-p„0‹1x„0)= ο
+
+wo R(x1⁰. . .p„⁰ =0, m4(x2⁰.. .p„⁰) =0 (iz-1, 2. ..m) ist, durch
+(116 N ull-Setzung (163 Ausdruckcs
+
+(ἰεῦ — p1⁰dx1⁰ —- . . . — pn⁰doe„⁰
+intcgriert. Wir kfinncn dicse Glcichung. im Falla, wcnn nicht alle
+Ξῖ* (i= 1, 2.. .m) Null sind, durch (116 Null-Setzung
+μ = Ο .-
+uo
+
+intcgricrcn. Wir haben geschcn, dass wir in diesem Falle die Wahl
+der Formcl der Transformation so einrichtcn 11ὃ1111611, dass 19 μ
+
+·) S. Lic hat beim Bcweise dieses Satzcs (nur fiir den Fan zweier (31θί6111111-
+gen) irthiimlioherweise statt (161· n — 1 dimensionalen Punktmannigfaltigkeit dio
+n dimensionalo genommen. (Μ. Anu.. Bd. 9, p. 271).
+

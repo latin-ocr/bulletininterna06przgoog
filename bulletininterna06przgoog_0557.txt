@@ -1,0 +1,51 @@
+733
+
+(58.1·
+
+ 
+
+Or, la serie (39) etant eonvergente‚ on peut trouver un nombre ν
+tel qu'on ait
+R„‘<e pour ηξν,
+
+ε etant un nombre positif, donne ’ὲ l'ayance.
+On aura dono, en vertu de (41),
+
+112,Ι<ε pour ηξν. (42)
+
+L'egalite (40) a lieu, quel que soit le nombre η, plus petit que ²70·
+Supposant que η tend vers zero et en passant ὲ, la limite, on
+trouve
+
+lim —s F(oe) ( s Fe> 015) dae=⁰⁰ -- ψ Σ (α.εξ ÷ ω) ÷ ¹3¹2} F.-
+
+⁷2·⁰ ,2πη
+
+Or, l'integralite (42), ayant lieu independamment de η, mentre que
+
+{3¹i1101R,⁸ <ε pour ηξν.
+
+On obtient done l’inegalite suivante
+
+lim321-”21&tvvsffss‘o(,sF(5)035)‘¹¹⁹⁶‘-(a¹’·¹'-{-2'(c12²¹-4-12²))<
+
+qu 'on peut. remplaeer par l'egalite
+
+‘¹3⁰¹'÷}'(a¹÷b²)=11m2—n37sb⁷(x) (sF(5)d5)d=v (43)
+
+13. Considerons maintenant le second membre de l'egalite ob-
+tenue. Posons
+
+ 
+
+ 
+
+ξ = x -Ι- ζ 7
+ζ etant une nouvelle variable.
+
+On aura
+
+sF(oe)(sF(5 >015)0zoe=s1}⁷(‡) )(]F(oe÷c)dc)dae‚
+
+ἀόἱι, en changeant l'ordre des integratione on tire
+

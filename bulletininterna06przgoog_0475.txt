@@ -1,0 +1,69 @@
+653
+
+Wir setzen zuerst vonna, dass diese Gleiehungen in Bezug auf
+m der Grssssen p¹ z. B. in Bezug auf p,...p,„ auflsssbar sind, und
+transformieren mit Hilfe der Formel:
+
+z=H-}—x1p,—†—...—}-x„p„‚ ae⁴=p.¹, p¹=-x“ (i-1‚2...m).
+So erhalten wir die Gleiehungen ⁶
+R(p,¹..p‚„¹‚ x„÷„.ae„‚ H-x1'p,¹—..-—x„,¹p,„¹‚ —oe,‘,..—x„·,‘‚ pstwpst
+
+=F.‘ (21¹...x„¹x„÷,...oe„‚ H, p1'...p..'p„.÷,-··p„)=0 (Ῑ”)
+(i=1‚ 2...m)‚
+
+die ein vollstandiges System bilden. Da die Determinante
+ἓ) (F, . . . F...) &F‘ &F‘ &RK e &Eg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&(p1...p‚„) :(—Dn '3:12‘ 4·st «9-Ιῖ ''''' &xx *Pp-¹ ἾῘΙ
+31⁵¹: &Fx 311³„ εΗ]
+εἷ’ ÷ Ν 'eff’ wag ÷p..‘ &H
+
+von Null verschieden ist, so erhalten wir durch die Entwickelung
+derselben
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+{((Zffl ’ξ’-ΡΣ απ o—(ae' ³(FH x ᾧ, .x...‘)³¹‘'⁰·
+Es folgt ἀείτωιε dass nicht alle Determinanten
+(F Q *ἡ &Q F ) -
+(x x..) O(x ..ae'oe-„H x -i- aa..)
+'gleioh Null sind. Setzen wir zuerst vorauS, dass
+ἒξ-Ρξ {uo-¹ 0
+
+221¹·50‘·2··)
+
+ist. Die Gleiohungen (1¹¹) limen sich in Bezug auf 21¹...x„,¹ in der
+Form z. B.
+
+xl == oe1(x„÷,..x„, H, pl . ,pg‘p„‚4,..p„) (ἐπ-1, 2..m). (1¹¹¹)
+Dieses letztes System ist ein vollstandiges und die Gleiohungen
+[x—‹px-qo1o(2k 12 m).
+
+sind durch die Gleiehungen (1¹¹ ¹) erfullt. Diese letzten Gleichun-
+gen euthalten keine der Veranderliohen ω’ .‚„¹x ,sie sind die blos-
+,sen Identitaten und das System (1¹¹ ¹) ist in·1nvolution. Wenn
+

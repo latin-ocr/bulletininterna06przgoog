@@ -1,0 +1,53 @@
+ 
+
+716
+
+Ces conditione etant remplieS, on a toujours
+b b
+(4) {ig} Hx) φ (w, η) ἅττ- s (1⁶)Jizg1 φ (x, n) dx-
+
+On peut ajouter que ee lemme reste vrai dans 16 eas beaucoup
+plus general, οιῖι la fonction f (x) peut cesser d'etre integrable aux
+environs de certains points insoles, Pour que le lemme soit vrai, il
+suffit seulement que les integrales
+
+sm> dx, sffaoj ‹12:-
+
+definies au sens general de M. Jordan (Cours d'Analyse, T. ΙΙ, p.
+49 etc.. Paria, 1894), exist-ent.
+Mais ici je n'insinte pas sur ee point.
+3. Posons maintenant
+a==0, b=2n.
+
+Soit. ⁷20 un nombre donne, positis, assez petit et neeessairement plus
+petit que πθ).
+
+Prenons un autre nombre posit-if η, plus petit que '²70- Designons
+par :co une valeur queleonque de la variable x, prise dans I'inter-
+valle (η, 2π-η).
+
+Considerons la fonction
+
+πει-θη
+
+J sin -2-”J3 (cc—5)
+(5) φ (ξ. n) = --χ -ῃς-ξ- - dcc,
+
+aeo-Tc
+
+ 
+
+n etant un entier positis, ξ une variable variant entre les limites
+0 et 2π.
+
+On voit que φ (ξ, η) est une fone-tion de ξ, (16 n et des para·-
+metres cro. η, bornee et integrable par rapport ῑι ξ dans l’intervalle
+(Ο, Qu), quel que soit le nombre positis n et les valeurs des para-
+metres xo, η, compris dans les ntervalles (η, 2π-η), (0, no).
+
+Quelle que soit la position du point xo ὲ l'interieur de l'inter-
+valle (η, 2π-η1, l'intervalle (xo -η, 2²0 -}—·q) ne sortita pas de l’in-
+tervalle (0, 2π).
+
+²) Pour que l’on ait. nox· 2π-ηο.
+

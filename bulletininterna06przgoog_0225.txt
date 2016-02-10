@@ -1,0 +1,56 @@
+427
+
+Diese Theorie enthzsst in der rein analytisehen Form die Er-
+gebnisse der gemisehten analytiseh-geometrisehen Methode von Lie‚
+die er in den Math. Ann. Bd. 9 gegeben hat.
+
+Sie enthalt auch die Methode von Cauehy als den einfaeh-
+sten F all sowie die erste Methode von J a e o bi in der von
+Mayer1) und Darboux2) verbesserten Form.
+
+Fur das System der partiellen Differentialgleiehungen sind einige
+
+, von den Ergebnissen dieser sehon von G. M o r e r 2²³) und S a l t i k 0w4)
+
+gesunden worden.
+
+Ieh benutze im folgenden aus der Theorie des P f a f f sehen
+Ausdruekes die mogliehst kleine Anzahl der Hfilfsatze‚ namlieh nur
+die folgenden: .
+
+1. Die Formel der Transformation
+
+x¹=x,(y1y,..y,) (i=1‚2...p),
+nach welcher der gegebene Differentialausdruek
+
+Q=X¹dx1-}-X2dae,-†-...-{—X„dx,‚
+
+eine der neuen Variablen z. B. μί nur in dem gemeinschaftliohen
+Faktor μ enthnlt‚ geuugen dem System der gewohnliehen Differen-
+tialgleiehungen
+
+X22-51--1-X223-1- ..... -ῑ-ΧΡΞΞῑτ-ο,
+
+(1, ηζΞΑ-(ληξῖξψ ----- †(p‚1)}{—¹ ÷ 2211 =0‚
+
+(A)
+
+(1, p>{}{÷(2.p){{{÷ ----- ÷(1010)}÷ AX? =0‚
+
+wo (ἰῘιε)----·--(Ιιτὶ)--Ξ-ἑΞζξῖ--ἒ-ξῖξΞ und 12:299& ist.
+ι ,, 2 a e 1
+
+Diese Transformation ist fur den Fan φιτ-2η immet moglieh,
+da die Determinante
+
+gleiehungen werde ich in der nachsten Sitzung der Math. natm-w, Cl. der Aka-
+demie mitteilen.
+
+¹) Math. Ann. Bd. 3.
+
+²) Compt. Rend. 18743 Ball. d. Se. Math. Bd. 8 (serie 1).
+
+³) Rendic. de l’lnst. Lomb.‚ 1883.
+
+⁴) Compt. Rend. 1899.
+

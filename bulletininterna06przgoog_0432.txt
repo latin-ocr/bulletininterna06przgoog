@@ -1,0 +1,47 @@
+618
+
+unis orm em ent varie. O'est precisement la circonstance que nous
+voulions signaler.
+
+2-0. Bien qu'il existe des integrales du premier systeme d’equa-
+tions equivalentes approximativement ὲι certaincs integrales du second
+systeme‚ ces deux systemes d'equations conduisent ὲ, des conclu-
+sions opposees en ce qui concerno certains cotes de l'aspect phy-
+sique du phenomene de 18 propagation des petites perturbatione.
+Montrons qu'il en est bien ainsi.
+
+Soient ψ (x, t) et ψ1 (x, t) deux integrales particulieres de l’equa-
+tion (1) obtenues en posant
+
+v=w=0
+
+et verifiant d'ailleurs tontes les hypotheses de M. Natanson. L'ex- l
+presslon
+
+(4) u= w(x‚t>÷w1(x‚t)‚
+
+representem alors une perturbation longitudinale parallele a l'axe
+des x, composee des perturbatione ψ (x, t) et tp, (sc, t). Quelle sera
+la vitesse avec laquelle se deplacera le plan contenant les parti-
+cules qui, dans la perturbation (4) auront la vitesse qu'elles auraient
+dans le cas οὺ la perturbation. ψ (x, t) existerait seule? Un plan
+pareil sera determine par l’equation:
+
+(5) ψι (x, t) = O,
+laquelle donne, pour 18, vitesse demandee {ll—³5 la valeur suivante:
+(6) dm {52¹2
+dt Ξ ““ ab}
+Ex
+
+ou x et t doivent etre consideres comme lies par l’equation (5).
+Cela prouve que, d'apres l'equation (1), la vitesse demandee ne de-
+pendrait que de la nature dela perturbation ²1²1·
+
+Quelle sera la reponse que donne-ra 8, la meme question l’equa-
+tion (ΞΥ.) Designons par <p (a, t) et (ρ1 (α, t) deux integrales parti-
+culieres de l'equation (2) obtenues en posant
+
+n=c=0·
+L'abseisse x d'une particule du fluide dans la perturbation eom·
+posee des perturbations φ et (p, sera donnee par l'equation' suivante:
+

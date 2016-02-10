@@ -1,0 +1,51 @@
+457
+
+wo es nur eine von μθ freie Gleiohung tp: Ο gibt, integriert hat,
+und wenn man die Grssssen ³³2⁰··· 1⁹1⁰ ...p„⁰‚ p1 ...μ aus den
+Gleichungen
+w(x,⁰...x„⁰z⁰)=0, 6¹(x20...p„0)=0 (5:21, 2...n-1)
+F(h‚ 3:2⁰.. .p„0)=0, x2=x4(x1hx2⁰.'..p„⁰)‚ (5:2...n),
+z=z(x1hx2⁰..p„⁰), p1=p¹(x1hoe2⁰...p„⁰)‚ (23:1, 2...n),
+
+(ἐέῐιῑο)
+
+eliminiert hat, wo die 2n letzten die Hauptintegrale' des Systems
+(131) in Bezug auf xl =h sind, so bekommt man das Integra}
+
+f(zae,...x„)=0
+
+’ in gewfihnliohem Sinne. Das letzte hat die Eigensehaft‚ dass es bei
+
+xl =h tp(ae2...x„z)=0 wird.
+Satz VI. Wenn man die Differentialgleiohung
+
+dzo —p20dx20 — . . . — p„⁰dx„⁰ = Ο
+durch n Integrale
+tp(x,⁰...x„⁰z⁰)=0‚ 9÷(x2⁰·-·2⁰p2⁰···p„⁰)=0‚
+
+wo es nur eine von 121⁰ freie Gleiohung ψ--Ο gibt. die in
+Bezug auf n willkurlichen Konstanten 01 . . . G„ auflbsbar sind, inte-
+griert hat, und wenn man die Grssssen <⁶1⁰2P1⁰P1 aus den Glei-
+chungen
+
+w<oe2⁰..ae„⁰z⁰)=0‚ O,(x2⁰...z⁰p2⁰..p„⁰)=0‚ (i=1‚2..n--1),
+F(hx,⁰...p„0)=o‚ oe,=x.(x1hx2⁰...p„⁰), (i=2...n)‚
+z=z(x1hx2⁰...p„⁰), p5=p4(x1hx2⁰...p„⁰)‚ (ir-1, 2...n),
+
+(ff ss ⁰)
+
+eliminiert hat, so bekommt man das vollstandige Integral im ge-
+wsshnliohen Sinue der Differentialgleiohung ( 1).
+
+Dieses Integral hat die Eigensehafn dass es bei :cl = h die
+Form
+
+tp(x2...x„z)=0
+
+annimmt.
+
+10. Wir wollen jetzt einen besonderen Fall in Betraoht ziehen7
+numlich den Fan, wenn die gegebene Differentialgleiohung die Form
+
+Βιιιιοαιιι 111. 3
+

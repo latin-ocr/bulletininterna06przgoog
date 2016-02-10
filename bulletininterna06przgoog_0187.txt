@@ -1,0 +1,60 @@
+169
+
+jection est encore plus importante pour les experiences de Mach
+et Salcher‚ faites 8 11118 pression plus haute et avec un reservoir
+de moindre capacite, ce qui peut expliquer aussi l'ecart entre les
+observatione (18 l'abaissement de 18 temperature (18118 18 jet de gaz
+(une dizaine de (188188 d'apres M. Emden‚ une centaine d'apre·
+M. M ach). Le thermometre, d’ailleurS, n'est nullement applicable 8 18
+mesure de 18 temperature d'un gaz anime d'une grande vitesse‚
+puisque le mouvement (111 gaz et 18 distribution de 011818111 011811-
+geraient completement par suite de 88 presence.
+
+IV. Solutions speciales de quelques problemes d’Aerodynamique.
+
+ξ 22. Νο118 110118 bornerons 8 l'etude (18 quelques problemes
+simples dont quelques-uns toutefois montrcront l'application de me-
+thodes plus generales.
+
+L'exemple le plus simple est le mouvement stationnaire d'un
+gaz compris entre deux parcis cylindriques‚ concentriques3 l'exte-
+rieure dont le rayon est r² est fixe, et l'interieure‚ de rayon r„
+effectue une rotation de n tours par seconde. Designons par ω 18
+
+vitesse 81181118118 correspondent 811 rayon rr, nous 81110118 18 solution
+des equations (10) et (11)
+
+uz—-wz-l-; υ-ἑωξ,
+r r
+
+sous 18 condition que ω satisfasse 8 l'equation:
+
+ 
+
+‘¹ m [ᾗ 52] (33)
+
+‘'²²‘'2r24b: 1 ι
+
+r1 ² r.,²
+
+{²5⁹0— - ω“’ r ρ, 81 18 temperature est connue.
+
+Celle-ci est determinee par l'equation (12) qui, integree, donne
+
+o=0 ÷Jfia² ¹ ---¹-]÷clogL (34)
+
+‘'23 ΥΞ
+
+Les pressions resultent (18
+
+ou 60 (18818118 18 temperatum de 18 paroi exterieure. Pour deter-
+minet le coefficient c, supposons que le cylindre interieur soit isole
+811 point de vue thermique. Il atteindra l'equilibre thermique lorsque:
+
+,ΑΒ
+dr ἐτ-ν,
+
+ 
+
+=0.
+
